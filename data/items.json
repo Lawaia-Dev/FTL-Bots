@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-15T07:36:49.141Z",
+  "lastUpdated": "2025-11-15T07:42:39.037Z",
   "source": "metaforge",
   "items": [
     {
@@ -59,6 +59,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "adrenaline shot",
+      "aliases": [
+        "adrenaline shot",
+        "adrenaline shot",
+        "adrenalineshot",
+        "adrenaline"
+      ],
+      "category": "quick use",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -118,6 +126,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "advanced arc powercell",
+      "aliases": [
+        "advanced arc powercell",
+        "advanced arc powercell",
+        "advancedarcpowercell",
+        "advanced"
+      ],
+      "category": "misc",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -191,6 +207,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "advanced electrical components",
+      "aliases": [
+        "advanced electrical components",
+        "advanced electrical components",
+        "advancedelectricalcomponents",
+        "advanced"
+      ],
+      "category": "refined material",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -261,6 +285,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "advanced electrical components blueprint",
+      "aliases": [
+        "advanced electrical components blueprint",
+        "advanced electrical components blueprint",
+        "advancedelectricalcomponentsblueprint",
+        "advanced"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -334,6 +366,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "advanced mechanical components",
+      "aliases": [
+        "advanced mechanical components",
+        "advanced mechanical components",
+        "advancedmechanicalcomponents",
+        "advanced"
+      ],
+      "category": "advanced material",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -404,6 +444,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "advanced mechanical components blueprint",
+      "aliases": [
+        "advanced mechanical components blueprint",
+        "advanced mechanical components blueprint",
+        "advancedmechanicalcomponentsblueprint",
+        "advanced"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -463,6 +511,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "agave",
+      "aliases": [
+        "agave",
+        "agave",
+        "agave",
+        "agave"
+      ],
+      "category": "nature",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -510,6 +566,14 @@
         "reducedReloadTime": 0,
         "reducedDurabilityBurnRate": 0
       },
+      "search": "agave juice",
+      "aliases": [
+        "agave juice",
+        "agave juice",
+        "agavejuice",
+        "agave"
+      ],
+      "category": "consumable",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -585,6 +649,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "air freshener",
+      "aliases": [
+        "air freshener",
+        "air freshener",
+        "airfreshener",
+        "air"
+      ],
+      "category": "trinket",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -655,6 +727,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "alarm clock",
+      "aliases": [
+        "alarm clock",
+        "alarm clock",
+        "alarmclock",
+        "alarm"
+      ],
+      "category": "recyclable",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -728,6 +808,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "angled grip i",
+      "aliases": [
+        "angled grip i",
+        "angled grip i",
+        "angledgripi",
+        "angled"
+      ],
+      "category": "modification",
       "flavorText": "Compatible with Ferro, Kettle, Rattler, Stitcher, Arpeggio, Il Toro, Venator, Bobcat, Tempest, Vulcano",
       "subcategory": null,
       "shieldType": null,
@@ -763,6 +851,14 @@
         "reducedReloadTime": 0,
         "reducedDurabilityBurnRate": 0
       },
+      "search": "angled grip ii",
+      "aliases": [
+        "angled grip ii",
+        "angled grip ii",
+        "angledgripii",
+        "angled"
+      ],
+      "category": "modification",
       "flavorText": "Compatible with: Ferro, Kettle, Rattler, Stitcher, Arpeggio, Il Toro, Venator, Bobcat, Tempest, Vulcano",
       "subcategory": null,
       "shieldType": null,
@@ -833,6 +929,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "angled grip ii blueprint",
+      "aliases": [
+        "angled grip ii blueprint",
+        "angled grip ii blueprint",
+        "angledgripiiblueprint",
+        "angled"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -906,6 +1010,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "angled grip iii",
+      "aliases": [
+        "angled grip iii",
+        "angled grip iii",
+        "angledgripiii",
+        "angled"
+      ],
+      "category": "modification",
       "flavorText": "Compatible with: Ferro, Kettle, Rattler, Stitcher, Arpeggio, Il Toro, Venator, Bobcat, Tempest, Vulcano",
       "subcategory": null,
       "shieldType": null,
@@ -976,6 +1088,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "angled grip iii blueprint",
+      "aliases": [
+        "angled grip iii blueprint",
+        "angled grip iii blueprint",
+        "angledgripiiiblueprint",
+        "angled"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1051,6 +1171,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "antiseptic",
+      "aliases": [
+        "antiseptic",
+        "antiseptic",
+        "antiseptic",
+        "antiseptic"
+      ],
+      "category": "refined material",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1123,6 +1251,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "anvil blueprint",
+      "aliases": [
+        "anvil blueprint",
+        "anvil blueprint",
+        "anvilblueprint",
+        "anvil"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1199,6 +1335,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "anvil i",
+      "aliases": [
+        "anvil i",
+        "anvil i",
+        "anvili",
+        "anvil"
+      ],
+      "category": "weapon",
       "flavorText": "Very effective against ARC armor plating.",
       "subcategory": "Hand Cannon",
       "shieldType": null,
@@ -1271,6 +1415,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 6.5
       },
+      "search": "anvil ii",
+      "aliases": [
+        "anvil ii",
+        "anvil ii",
+        "anvilii",
+        "anvil"
+      ],
+      "category": "weapon",
       "flavorText": "Very effective against ARC armor plating.",
       "subcategory": "Pistol",
       "shieldType": null,
@@ -1345,6 +1497,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 12.5
       },
+      "search": "anvil iii",
+      "aliases": [
+        "anvil iii",
+        "anvil iii",
+        "anviliii",
+        "anvil"
+      ],
+      "category": "weapon",
       "flavorText": "Very effective against ARC armor plating",
       "subcategory": "Pistol",
       "shieldType": null,
@@ -1419,6 +1579,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 18.75
       },
+      "search": "anvil iv",
+      "aliases": [
+        "anvil iv",
+        "anvil iv",
+        "anviliv",
+        "anvil"
+      ],
+      "category": "weapon",
       "flavorText": null,
       "subcategory": "Pistol",
       "shieldType": null,
@@ -1491,6 +1659,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "anvil splitter",
+      "aliases": [
+        "anvil splitter",
+        "anvil splitter",
+        "anvilsplitter",
+        "anvil"
+      ],
+      "category": "modification",
       "flavorText": "70% Reduced Projectile Damage & +3 Projectiles Per Shot",
       "subcategory": null,
       "shieldType": null,
@@ -1561,6 +1737,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "anvil splitter blueprint",
+      "aliases": [
+        "anvil splitter blueprint",
+        "anvil splitter blueprint",
+        "anvilsplitterblueprint",
+        "anvil"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1633,6 +1817,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "aphelion rifle",
+      "aliases": [
+        "aphelion rifle",
+        "aphelion rifle",
+        "aphelionrifle",
+        "aphelion"
+      ],
+      "category": "weapon",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1705,6 +1897,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "aphelion rifle blueprint",
+      "aliases": [
+        "aphelion rifle blueprint",
+        "aphelion rifle blueprint",
+        "aphelionrifleblueprint",
+        "aphelion"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1767,6 +1967,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "apricot",
+      "aliases": [
+        "apricot",
+        "apricot",
+        "apricot",
+        "apricot"
+      ],
+      "category": "nature",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1829,6 +2037,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "arc alloy",
+      "aliases": [
+        "arc alloy",
+        "arc alloy",
+        "arcalloy",
+        "arc"
+      ],
+      "category": "topside material",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1904,6 +2120,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arc circuitry",
+      "aliases": [
+        "arc circuitry",
+        "arc circuitry",
+        "arccircuitry",
+        "arc"
+      ],
+      "category": "topside material",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -1974,6 +2198,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arc circuitry blueprint",
+      "aliases": [
+        "arc circuitry blueprint",
+        "arc circuitry blueprint",
+        "arccircuitryblueprint",
+        "arc"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2033,6 +2265,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "arc coolant",
+      "aliases": [
+        "arc coolant",
+        "arc coolant",
+        "arccoolant",
+        "arc"
+      ],
+      "category": "recyclable",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2106,6 +2346,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arc flex rubber",
+      "aliases": [
+        "arc flex rubber",
+        "arc flex rubber",
+        "arcflexrubber",
+        "arc"
+      ],
+      "category": "recyclable",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2181,6 +2429,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arc motion core",
+      "aliases": [
+        "arc motion core",
+        "arc motion core",
+        "arcmotioncore",
+        "arc"
+      ],
+      "category": "topside material",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2251,6 +2507,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arc performance steel",
+      "aliases": [
+        "arc performance steel",
+        "arc performance steel",
+        "arcperformancesteel",
+        "arc"
+      ],
+      "category": "recyclable",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2313,6 +2577,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "arc powercell",
+      "aliases": [
+        "arc powercell",
+        "arc powercell",
+        "arcpowercell",
+        "arc"
+      ],
+      "category": "topside material",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2372,6 +2644,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "arc synthetic resin",
+      "aliases": [
+        "arc synthetic resin",
+        "arc synthetic resin",
+        "arcsyntheticresin",
+        "arc"
+      ],
+      "category": "recyclable",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2431,6 +2711,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "arc thermo lining",
+      "aliases": [
+        "arc thermo lining",
+        "arc thermo lining",
+        "arcthermolining",
+        "arc"
+      ],
+      "category": "recyclable",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2507,6 +2795,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arpeggio i",
+      "aliases": [
+        "arpeggio i",
+        "arpeggio i",
+        "arpeggioi",
+        "arpeggio"
+      ],
+      "category": "weapon",
       "flavorText": "Somewhat effective against ARC armor plating",
       "subcategory": "Assault Rifle",
       "shieldType": null,
@@ -2579,6 +2875,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arpeggio ii",
+      "aliases": [
+        "arpeggio ii",
+        "arpeggio ii",
+        "arpeggioii",
+        "arpeggio"
+      ],
+      "category": "weapon",
       "flavorText": "Somewhat effective against ARC armor plating",
       "subcategory": "Assault Rifle",
       "shieldType": null,
@@ -2653,6 +2957,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arpeggio iii",
+      "aliases": [
+        "arpeggio iii",
+        "arpeggio iii",
+        "arpeggioiii",
+        "arpeggio"
+      ],
+      "category": "weapon",
       "flavorText": null,
       "subcategory": "Assault Rifle",
       "shieldType": null,
@@ -2727,6 +3039,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "arpeggio iv",
+      "aliases": [
+        "arpeggio iv",
+        "arpeggio iv",
+        "arpeggioiv",
+        "arpeggio"
+      ],
+      "category": "weapon",
       "flavorText": null,
       "subcategory": "Assault Rifle",
       "shieldType": null,
@@ -2786,6 +3106,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "assorted seeds",
+      "aliases": [
+        "assorted seeds",
+        "assorted seeds",
+        "assortedseeds",
+        "assorted"
+      ],
+      "category": "nature",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2858,6 +3186,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "aviator (outfit)",
+      "aliases": [
+        "aviator (outfit)",
+        "aviator (outfit)",
+        "aviator(outfit)",
+        "aviator"
+      ],
+      "category": "misc",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -2930,6 +3266,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "bag (radio renegade variant)",
+      "aliases": [
+        "bag (radio renegade variant)",
+        "bag (radio renegade variant)",
+        "bag(radiorenegadevariant)",
+        "bag"
+      ],
+      "category": "misc",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -3002,6 +3346,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "banana (backpack charm)",
+      "aliases": [
+        "banana (backpack charm)",
+        "banana (backpack charm)",
+        "banana(backpackcharm)",
+        "banana"
+      ],
+      "category": "misc",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -3076,6 +3428,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "bandage",
+      "aliases": [
+        "bandage",
+        "bandage",
+        "bandage",
+        "bandage"
+      ],
+      "category": "quick use",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -3138,6 +3498,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "barricade kit",
+      "aliases": [
+        "barricade kit",
+        "barricade kit",
+        "barricadekit",
+        "barricade"
+      ],
+      "category": "quick use",
       "flavorText": "Health: 500",
       "subcategory": null,
       "shieldType": null,
@@ -3208,6 +3576,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "barricade kit blueprint",
+      "aliases": [
+        "barricade kit blueprint",
+        "barricade kit blueprint",
+        "barricadekitblueprint",
+        "barricade"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -3283,6 +3659,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "bastion cell",
+      "aliases": [
+        "bastion cell",
+        "bastion cell",
+        "bastioncell",
+        "bastion"
+      ],
+      "category": "recyclable",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -3342,6 +3726,14 @@
         "reducedDurabilityBurnRate": 0,
         "increasedRecoilRecoveryTime": 0
       },
+      "search": "battery",
+      "aliases": [
+        "battery",
+        "battery",
+        "battery",
+        "battery"
+      ],
+      "category": "topside material",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
@@ -3414,6 +3806,14 @@
         "increasedRecoilRecoveryTime": 0,
         "reducedDispersionRecoveryTime": 0
       },
+      "search": "bettina blueprint",
+      "aliases": [
+        "bettina blueprint",
+        "bettina blueprint",
+        "bettinablueprint",
+        "bettina"
+      ],
+      "category": "blueprint",
       "flavorText": null,
       "subcategory": null,
       "shieldType": null,
