@@ -21,6 +21,13 @@ jobs:
         with:
           fetch-depth: 0  # so git diff works correctly
 
+      - name: Show repo structure
+        run: |
+          pwd
+          ls
+          echo "---- scripts dir ----"
+          ls scripts || echo "scripts directory not found"
+
       - name: Clone RaidTheory data repo
         run: |
           echo "Cleaning external directory..."
