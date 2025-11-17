@@ -1,0 +1,1 @@
+This directory is meant for scripts to assist in discord automation bots. 
