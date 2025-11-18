@@ -3,7 +3,7 @@
   "name": {
     "en": "Remote Raider Flare Blueprint",
     "de": "Ferngesteuerte Raider-Leuchtrakete Blaupause",
-    "fr": "Plan de Fusée éclairante télécommandée",
+    "fr": "Schéma de fusée éclairante télécommandée",
     "es": "Plano de Bengala de asaltante remota",
     "pt": "Plano do Sinalizador de invasor remoto",
     "pl": "Projekt zdalnej flary najeźdźcy",
@@ -43,7 +43,7 @@
   "type": "Blueprint",
   "rarity": "Legendary",
   "value": 5000,
-  "weightKg": 0.0,
+  "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
   "updatedAt": "11/17/2025"
 }
