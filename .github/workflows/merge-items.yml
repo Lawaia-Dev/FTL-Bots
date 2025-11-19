@@ -47,13 +47,6 @@ jobs:
             exit 0
           fi
 
-      - name: Commit changes
-        run: |
-          git config user.name "ftl-bot"
-          git config user.email "jesposo+ghbot@pm.me"
-          git add data/items.json
-          git commit -m "chore: update items.json via merge-items workflow"
-
       - name: Create or update pull request
         uses: peter-evans/create-pull-request@v7
         with:
@@ -71,3 +64,4 @@ jobs:
           labels: |
             automated
             items
+          base: main
