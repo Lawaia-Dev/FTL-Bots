@@ -63,7 +63,7 @@ jobs:
         if: steps.git-diff.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.BOT_PAT_FTL_BOTS }}
           branch: chore/auto-update-items
           title: "chore: update items.json via merge-items workflow"
           body: |
