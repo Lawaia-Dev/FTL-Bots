@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-20T16:00:11.417Z",
+  "lastUpdated": "2025-11-20T17:00:11.393Z",
   "source": "metaforge",
   "traders": [
     {
@@ -270,10 +270,10 @@
           "id": "complex-gun-parts",
           "name": "Complex Gun Parts",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/complex-gun-parts.webp",
-          "description": "Used to craft advanced Weapons: Equalizer, Jupiter",
+          "description": "Used to craft advanced weapons.",
           "rarity": "Epic",
           "type": "Topside Material",
-          "value": 2000,
+          "value": 3000,
           "price": 60,
           "currency": null
         },
