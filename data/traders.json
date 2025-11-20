@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-20T12:00:11.336Z",
+  "lastUpdated": "2025-11-20T13:00:11.312Z",
   "source": "metaforge",
   "traders": [
     {
@@ -40,8 +40,8 @@
           "description": "A mine that deals damage to anything within its radius once the timer runs out",
           "rarity": "Epic",
           "type": "Quick Use",
-          "value": 2700,
-          "price": 8100,
+          "value": 5000,
+          "price": 15000,
           "currency": null
         },
         {
@@ -939,8 +939,8 @@
           "description": "Anti-ARC payloads used mainly by the Hullcracker",
           "rarity": "Rare",
           "type": "Ammunition",
-          "value": 200,
-          "price": 6000,
+          "value": 250,
+          "price": 4500,
           "currency": null
         },
         {
