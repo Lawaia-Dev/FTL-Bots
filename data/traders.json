@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-21T13:00:11.167Z",
+  "lastUpdated": "2025-11-21T14:00:11.152Z",
   "source": "metaforge",
   "traders": [
     {
@@ -241,7 +241,7 @@
           "rarity": "Uncommon",
           "type": "Topside Material",
           "value": 250,
-          "price": null,
+          "price": 5,
           "currency": null
         },
         {
@@ -340,7 +340,7 @@
           "rarity": "Rare",
           "type": "Topside Material",
           "value": 700,
-          "price": 12,
+          "price": 15,
           "currency": null
         },
         {
@@ -362,7 +362,7 @@
           "rarity": "Rare",
           "type": "Topside Material",
           "value": 700,
-          "price": 11,
+          "price": 15,
           "currency": null
         },
         {
@@ -373,7 +373,7 @@
           "rarity": "Common",
           "type": "Basic Material",
           "value": 75,
-          "price": null,
+          "price": 1,
           "currency": null
         },
         {
@@ -384,7 +384,7 @@
           "rarity": "Rare",
           "type": "Topside Material",
           "value": 500,
-          "price": 6,
+          "price": 10,
           "currency": null
         },
         {
@@ -428,7 +428,7 @@
           "rarity": "Common",
           "type": "Basic Material",
           "value": 50,
-          "price": 0,
+          "price": 1,
           "currency": null
         },
         {
