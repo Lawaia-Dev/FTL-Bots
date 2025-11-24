@@ -7666,6 +7666,7 @@
     "stat_block": {
       "range": 0,
       "damage": 0,
+      "health": 0,
       "radius": 0,
       "shield": 0,
       "weight": 0.25,
@@ -7682,6 +7683,10 @@
       "damageMult": 0,
       "raiderStun": 0,
       "weightLimit": 0,
+      "augmentSlots": 0,
+      "healingSlots": 0,
+      "magazineSize": 0,
+      "reducedNoise": 0,
       "shieldCharge": 0,
       "backpackSlots": 0,
       "quickUseSlots": 0,
@@ -7695,17 +7700,25 @@
       "increasedADSSpeed": 0,
       "increasedFireRate": 0,
       "reducedReloadTime": 0,
+      "illuminationRadius": 0,
+      "increasedEquipTime": 0,
       "reducedUnequipTime": 0,
       "shieldCompatibility": "",
+      "increasedUnequipTime": 0,
       "reducedVerticalRecoil": 0,
+      "increasedBulletVelocity": 0,
       "increasedVerticalRecoil": 0,
+      "reducedMaxShotDispersion": 0,
+      "reducedPerShotDispersion": 0,
       "reducedDurabilityBurnRate": 0,
-      "increasedRecoilRecoveryTime": 0
+      "reducedRecoilRecoveryTime": 0,
+      "increasedRecoilRecoveryTime": 0,
+      "reducedDispersionRecoveryTime": 0
     },
     "subcategory": null,
     "type": "Topside Material",
     "updatedAt": "11/11/2025",
-    "updated_at": "2025-10-28T12:58:32.940898+00:00",
+    "updated_at": "2025-11-21T13:06:04.660114+00:00",
     "value": 250,
     "weightKg": 0.25,
     "workbench": null
@@ -10118,7 +10131,7 @@
       "mechanical_components": 2,
       "simple_gun_parts": 2
     },
-    "type": "Weapon",
+    "type": "Pistol",
     "updatedAt": "10/30/2025",
     "value": 5000,
     "weightKg": 4
@@ -10171,7 +10184,7 @@
       "mechanical_components": 3,
       "simple_gun_parts": 3
     },
-    "type": "Weapon",
+    "type": "Pistol",
     "updatedAt": "10/30/2025",
     "value": 7000,
     "weightKg": 4
@@ -10224,59 +10237,10 @@
       "mechanical_components": 4,
       "simple_gun_parts": 4
     },
-    "type": "Weapon",
+    "type": "Pistol",
     "updatedAt": "10/30/2025",
     "value": 9000,
     "weightKg": 4
-  },
-  {
-    "description": {
-      "en": "Can be recycled into crafting materials.",
-      "de": "Kann zu Handwerksmaterialien recycelt werden.",
-      "fr": "Peut être recyclé en matériaux de fabrication.",
-      "es": "Puede reciclarse en materiales de fabricación.",
-      "pt": "Pode ser reciclado em materiais de fabricação.",
-      "pl": "Można przetworzyć na materiały rzemieślnicze.",
-      "no": "Kan resirkuleres til håndverksmaterialer.",
-      "da": "Kan genbruges til håndværksmaterialer.",
-      "it": "Può essere riciclato in materiali da crafting.",
-      "ja": "クラフト素材にリサイクルできます。",
-      "kr": "제작 재료로 재활용할 수 있습니다.",
-      "zh-CN": "可以回收为制作材料。",
-      "zh-TW": "可以回收為製作材料。",
-      "ru": "Можно переработать в материалы для крафта.",
-      "tr": "İşleme malzemelerine geri dönüştürülebilir.",
-      "uk": "Можна переробити на матеріали для крафту.",
-      "sr": "Može se reciklirati u materijale za izradu.",
-      "hr": "Može se reciklirati u materijale za izradu."
-    },
-    "foundIn": "ARC",
-    "id": "burned_arc_circuit",
-    "imageFilename": "https://cdn.arctracker.io/items/burned_arc_circuit.png",
-    "name": {
-      "en": "Burned Arc Circuit",
-      "de": "Verbrannter Arc-Schaltkreis",
-      "fr": "Circuit Arc brûlé",
-      "es": "Circuito Arc quemado",
-      "pt": "Circuito Arc queimado",
-      "pl": "Spalony obwód Arc",
-      "no": "Brent Arc-krets",
-      "da": "Brændt Arc-kredsløb",
-      "it": "Circuito Arc bruciato",
-      "ja": "焼損したアークサーキット",
-      "kr": "타버린 아크 회로",
-      "zh-CN": "烧毁的电弧电路",
-      "zh-TW": "燒毀的電弧電路",
-      "ru": "Сгоревшая Arc-схема",
-      "tr": "Yanmış Arc Devresi",
-      "uk": "Згоріла Arc-схема",
-      "sr": "Izgorela Arc struja",
-      "hr": "Izgoreli Arc sklop"
-    },
-    "rarity": "Uncommon",
-    "type": "Recyclable",
-    "updatedAt": "11/04/2025",
-    "weightKg": 1
   },
   {
     "description": {
@@ -11934,6 +11898,7 @@
       "chemicals": 6,
       "steel_spring": 2
     },
+    "stackSize": 3,
     "type": "Recyclable",
     "updatedAt": "10/30/2025",
     "value": 1000,
@@ -11988,6 +11953,7 @@
       "plastic_parts": 14,
       "battery": 4
     },
+    "stackSize": 3,
     "type": "Recyclable",
     "updatedAt": "10/30/2025",
     "value": 2000,
@@ -12042,6 +12008,7 @@
       "rubber_parts": 3,
       "battery": 3
     },
+    "stackSize": 3,
     "type": "Recyclable",
     "updatedAt": "11/14/2025",
     "value": 1000,
@@ -12507,6 +12474,7 @@
     "salvagesInto": {
       "arc_alloy": 1
     },
+    "stackSize": 5,
     "type": "Recyclable",
     "updatedAt": "11/07/2025",
     "value": 640,
@@ -13476,9 +13444,13 @@
       "sr": "Ronilačke Naočare"
     },
     "rarity": "Rare",
+    "recyclesInto": {
+      "rubber_parts": 12
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "11/21/2025",
+    "value": 640,
     "weightKg": 2
   },
   {
@@ -14228,7 +14200,7 @@
       "ja": "エクソダスモジュール",
       "zh-TW": "出埃及模組",
       "uk": "Модулі Виходу",
-      "zh-CN": "出埃及模组",
+      "zh-CN": "离浊模块",
       "kr": "엑소더스 모듈",
       "tr": "Exodus Modülleri",
       "hr": "Exodus Moduli",
@@ -16207,7 +16179,7 @@
       "metal_parts": 6,
       "simple_gun_parts": 1
     },
-    "type": "Weapon",
+    "type": "Battle Rifle",
     "updatedAt": "11/17/2025",
     "upgradeCost": {
       "mechanical_components": 1,
@@ -16915,7 +16887,7 @@
       "sr": "Plamen Sprej"
     },
     "rarity": "Uncommon",
-    "type": "Weapon",
+    "type": "Quick Use",
     "updatedAt": "11/04/2025",
     "value": 640,
     "weightKg": 1
@@ -22520,7 +22492,7 @@
       "plastic_parts": 6,
       "rubber_parts": 6
     },
-    "type": "Weapon",
+    "type": "Assault Rifle",
     "updatedAt": "10/30/2025",
     "value": 840,
     "weightKg": 7
@@ -22701,7 +22673,7 @@
       "sr": "Kettle III"
     },
     "rarity": "Common",
-    "type": "Weapon",
+    "type": "Assault Rifle",
     "updatedAt": "10/31/2025",
     "value": 3000,
     "weightKg": 7
@@ -22858,7 +22830,7 @@
       "sr": "Kettle IV"
     },
     "rarity": "Common",
-    "type": "Weapon",
+    "type": "Assault Rifle",
     "updatedAt": "10/31/2025",
     "value": 5000,
     "weightKg": 7
@@ -23002,6 +22974,7 @@
       "hr": "Set kemijskih reagenasa korištenih u laboratorijskim eksperimentima.",
       "sr": "Set hemijskih reagenasa korišćenih u laboratorijskim eksperimentima."
     },
+    "foundIn": "Medical",
     "id": "laboratory_reagents",
     "imageFilename": "https://cdn.arctracker.io/items/laboratory_reagents.png",
     "name": {
@@ -23084,6 +23057,9 @@
     "weightKg": 0
   },
   {
+    "compatibleWith": [
+      "Hullcracker"
+    ],
     "craftBench": "workbench",
     "description": {
       "en": "Anti-ARC payloads used mainly by the Hullcracker. Compatible with: Hullcracker",
@@ -23715,6 +23691,7 @@
       "workbench",
       "equipment_bench"
     ],
+    "damageMitigation": 40,
     "description": {
       "en": "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",
       "de": "Ein leichter Schild, der einen kleinen Teil des eingehenden Schadens blockiert, ohne die Mobilität zu beeinträchtigen.",
@@ -23735,6 +23712,7 @@
       "hr": "Lagani štit koji blokira malu količinu dolazne štete bez utjecaja na pokretljivost.",
       "sr": "Lagani štit koji blokira malu količinu dolazne štete bez uticaja na pokretljivost."
     },
+    "durability": 100,
     "effects": {
       "Durability": {
         "en": "Durability",
@@ -23802,6 +23780,7 @@
     },
     "id": "light_shield",
     "imageFilename": "https://cdn.arctracker.io/items/light_shield.png",
+    "movementSpeedModifier": 0,
     "name": {
       "en": "Light Shield",
       "de": "Leichter Schild",
@@ -23830,6 +23809,7 @@
     "recyclesInto": {
       "plastic_parts": 4
     },
+    "shieldCharge": 40,
     "type": "Shield",
     "updatedAt": "11/03/2025",
     "value": 640,
@@ -25059,12 +25039,12 @@
       "rubber_parts": 3
     },
     "recyclesInto": {
-      "metal_parts": 8,
-      "steel_spring": 2
+      "metal_parts": 3,
+      "rubber_parts": 2
     },
     "stackSize": 10,
     "type": "Refined Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "11/23/2025",
     "value": 640,
     "weightKg": 0.5
   },
@@ -25806,6 +25786,7 @@
       "hr": "Mali električni motor, koristan za razne uređaje.",
       "sr": "Mali električni motor, koristan za razne uređaje."
     },
+    "foundIn": "Mechanical",
     "id": "motor",
     "imageFilename": "https://cdn.arctracker.io/items/motor.png",
     "name": {
@@ -28635,6 +28616,7 @@
       "hr": "Može se konzumirati za malu količinu izdržljivosti.",
       "sr": "Može se konzumirati za malu količinu izdržljivosti."
     },
+    "foundIn": "Nature",
     "id": "prickly_pear",
     "imageFilename": "https://cdn.arctracker.io/items/prickly_pear.png",
     "name": {
@@ -28876,6 +28858,7 @@
       "hr": "Može se reciklirati u materijale za izradu.",
       "sr": "Može se reciklirati u materijale za izradu."
     },
+    "foundIn": "ARC",
     "id": "queen_reactor",
     "imageFilename": "https://cdn.arctracker.io/items/queen_part.png",
     "name": {
@@ -31696,6 +31679,7 @@
       "hr": "Može se reciklirati u materijale za izradu",
       "sr": "Može se reciklirati u materijale za izradu"
     },
+    "foundIn": "Security",
     "id": "ruined_baton",
     "imageFilename": "https://cdn.arctracker.io/items/ruined_baton.png",
     "name": {
@@ -32075,6 +32059,7 @@
       "hr": "Medicinski komplet zahrđao i zatvoren, sadržaj nepoznat.",
       "sr": "Medicinski komplet zahrđao i zatvoren, sadržaj nepoznat."
     },
+    "foundIn": "Medical",
     "id": "rusted_shut_medical_kit",
     "imageFilename": "https://cdn.arctracker.io/items/rusted_shut_medical_kit.png",
     "name": {
@@ -32128,6 +32113,7 @@
       "hr": "Komplet alata, zahrđalih ali još uvijek upotrebljivih za izradu.",
       "sr": "Komplet alata, zahrđalih ali još uvek upotrebljivih za izradu."
     },
+    "foundIn": "Mechanical",
     "id": "rusted_tools",
     "imageFilename": "https://cdn.arctracker.io/items/rusted_tools.png",
     "name": {
@@ -32184,6 +32170,7 @@
       "no": "Oppnådd fra ARC-fiender og aktiviteter. Kan resirkuleres til skrapmetall.",
       "ja": "ARCの敵や活動から入手。スクラップメタルにリサイクルできます。"
     },
+    "foundIn": "ARC",
     "id": "rusty_arc_steel",
     "imageFilename": "https://cdn.arctracker.io/items/rusty_arc_steel.png",
     "name": {
@@ -32614,6 +32601,10 @@
     "weightKg": 0.15
   },
   {
+    "compatibleWith": [
+      "Il Toro",
+      "Vulcano"
+    ],
     "craftBench": "workbench",
     "description": {
       "en": "Compatible with: Il Toro, Vulcano",
@@ -35788,7 +35779,7 @@
     "salvagesInto": {
       "metal_parts": 3
     },
-    "type": "Weapon",
+    "type": "SMG",
     "updatedAt": "11/20/2025",
     "value": 800,
     "weightKg": 5
@@ -35994,7 +35985,7 @@
     "salvagesInto": {
       "metal_parts": 6
     },
-    "type": "Weapon",
+    "type": "SMG",
     "updatedAt": "11/20/2025",
     "upgradeCost": {
       "metal_parts": 8,
@@ -36204,7 +36195,7 @@
     "salvagesInto": {
       "simple_gun_parts": 1
     },
-    "type": "Weapon",
+    "type": "SMG",
     "updatedAt": "11/20/2025",
     "upgradeCost": {
       "metal_parts": 10,
@@ -36414,7 +36405,7 @@
     "salvagesInto": {
       "simple_gun_parts": 2
     },
-    "type": "Weapon",
+    "type": "SMG",
     "updatedAt": "11/20/2025",
     "upgradeCost": {
       "mechanical_components": 3,
@@ -36604,6 +36595,7 @@
       "hr": "Kanister sintetičke mješavine goriva.",
       "sr": "Kanister sintetičke mešavine goriva."
     },
+    "foundIn": "Exodus",
     "id": "synthesized_fuel",
     "imageFilename": "https://cdn.arctracker.io/items/synthesized_fuel.png",
     "name": {
@@ -36684,6 +36676,9 @@
     "recyclesInto": {
       "plastic_parts": 3,
       "chemicals": 2
+    },
+    "salvagesInto": {
+      "plastic_parts": 2
     },
     "stackSize": 5,
     "type": "Topside Material",
@@ -37408,6 +37403,7 @@
       "hr": "Može se reciklirati u tkaninu.",
       "sr": "Može se reciklirati u tkaninu."
     },
+    "foundIn": "Residential",
     "id": "tattered_clothes",
     "imageFilename": "https://cdn.arctracker.io/items/tattered_clothes.png",
     "name": {
@@ -41064,6 +41060,10 @@
       "sr": "Vita Injekcija"
     },
     "rarity": "Rare",
+    "recipe": {
+      "antiseptic": 1,
+      "syringe": 1
+    },
     "recyclesInto": {
       "chemicals": 4,
       "syringe": 1
@@ -41361,9 +41361,9 @@
       "it": "Convertitore di tensione",
       "ru": "Преобразователь напряжения",
       "ja": "電圧変換器",
-      "zh-TW": "電壓轉換器",
+      "zh-TW": "變壓器",
       "uk": "Перетворювач напруги",
-      "zh-CN": "电压转换器",
+      "zh-CN": "变电器",
       "kr": "전압 변환기",
       "tr": "Voltaj Dönüştürücü",
       "hr": "Pretvarač Napona",
@@ -42662,11 +42662,13 @@
       "arc_motion_core": 2
     },
     "recyclesInto": {
-      "crude_explosives": 2,
-      "synthesized_fuel": 2
+      "crude_explosives": 1,
+      "arc_motion_core": 1
     },
+    "stackSize": 1,
     "type": "Quick Use",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "11/21/2025",
+    "value": 5000,
     "weightKg": 1
   },
   {
