@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-25T13:00:11.135Z",
+  "lastUpdated": "2025-11-25T14:00:11.303Z",
   "source": "metaforge",
   "traders": [
     {
@@ -280,7 +280,7 @@
         {
           "id": "duct-tape-recipe",
           "name": "Duct Tape",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape.webp",
           "description": "Used to craft a wide range of items. Can be recycled into crafting materials",
           "rarity": "Uncommon",
           "type": "Topside Material",
@@ -423,7 +423,7 @@
         {
           "id": "rubber-parts-recipe",
           "name": "Rubber Parts",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/rubber-parts-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/rubber-parts.webp",
           "description": "Used to craft a wide range of items.",
           "rarity": "Common",
           "type": "Basic Material",
@@ -434,7 +434,7 @@
         {
           "id": "sensors-recipe",
           "name": "Sensors",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sensors-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sensors.webp",
           "description": "Used to craft utility items and explosives. Can be recycled into scrap metal.",
           "rarity": "Rare",
           "type": "Topside Material",
@@ -511,7 +511,7 @@
         {
           "id": "wires-recipe",
           "name": "Wires",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/wires-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/wires.webp",
           "description": "A bundle of old wires. Used to craft a wide range of items. Can be recycled into scrap metal.",
           "rarity": "Uncommon",
           "type": "Topside Material",
