@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-25T11:00:20.356Z",
+  "lastUpdated": "2025-11-26T11:00:20.341Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
@@ -44,7 +44,7 @@
           "id": "duct-tape-recipe",
           "itemId": "duct-tape-recipe",
           "name": "Duct Tape",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape.webp",
           "rarity": "Uncommon",
           "type": "Topside Material",
           "quantity": 5
@@ -541,7 +541,7 @@
           "id": "duct-tape-recipe",
           "itemId": "duct-tape-recipe",
           "name": "Duct Tape",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape.webp",
           "rarity": "Uncommon",
           "type": "Topside Material",
           "quantity": 5
@@ -728,7 +728,7 @@
           "id": "sensors-recipe",
           "itemId": "sensors-recipe",
           "name": "Sensors",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sensors-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sensors.webp",
           "rarity": "Rare",
           "type": "Topside Material",
           "quantity": 3
@@ -1581,7 +1581,7 @@
           "id": "wires-recipe",
           "itemId": "wires-recipe",
           "name": "Wires",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/wires-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/wires.webp",
           "rarity": "Uncommon",
           "type": "Topside Material",
           "quantity": 4
@@ -1658,7 +1658,7 @@
           "id": "lure-grenade-recipe",
           "itemId": "lure-grenade-recipe",
           "name": "Lure Grenade Blueprint",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/lure-grenade-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/lure-grenade.webp",
           "rarity": "Legendary",
           "type": "Blueprint",
           "quantity": 1
@@ -1965,7 +1965,7 @@
           "id": "duct-tape-recipe",
           "itemId": "duct-tape-recipe",
           "name": "Duct Tape",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape-recipe.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape.webp",
           "rarity": "Uncommon",
           "type": "Topside Material",
           "quantity": 5
