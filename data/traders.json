@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-27T15:00:11.336Z",
+  "lastUpdated": "2025-11-27T16:00:11.197Z",
   "source": "metaforge",
   "traders": [
     {
@@ -138,7 +138,7 @@
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/recorded.webp",
           "description": "A playable recorder used to attract ARC's attention and impress other Raiders.",
           "rarity": "Uncommon",
-          "type": "Trinket",
+          "type": "Quick Use",
           "value": 1000,
           "price": 3000,
           "currency": null
@@ -423,7 +423,7 @@
         {
           "id": "rubber-parts-recipe",
           "name": "Rubber Parts",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/rubber-parts.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/rubber-parts-recipe.webp",
           "description": "Used to craft a wide range of items.",
           "rarity": "Common",
           "type": "Basic Material",
