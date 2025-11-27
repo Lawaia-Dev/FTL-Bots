@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-27T16:00:11.197Z",
+  "lastUpdated": "2025-11-27T17:00:11.210Z",
   "source": "metaforge",
   "traders": [
     {
@@ -434,7 +434,7 @@
         {
           "id": "sensors-recipe",
           "name": "Sensors",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sensors.webp",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sensors-recipe.webp",
           "description": "Used to craft utility items and explosives. Can be recycled into scrap metal.",
           "rarity": "Rare",
           "type": "Topside Material",
