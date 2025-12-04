@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-03T11:00:22.237Z",
+  "lastUpdated": "2025-12-04T11:00:21.922Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
@@ -90,7 +90,7 @@
       "id": "matriarch",
       "slug": "matriarch",
       "name": "Matriarch",
-      "description": "One of the latest Arcs to visit us Topside. This ARC shoots rockets, gas and a big shield which you need to be inside of to shoot it.",
+      "description": "The head of the Family. This ARC shoots rockets, gas and has big shield. She will also spawn her Leapers, Bastions, Fireballs, Hornets and Wasps.",
       "icon": "https://cdn.metaforge.app/arc-raiders/icons/matriarch.webp",
       "image": "https://cdn.metaforge.app/arc-raiders/images/matriarch.webp",
       "search": "matriarch",
@@ -99,7 +99,7 @@
       ],
       "source": "metaforge",
       "createdAt": "2025-11-12T19:34:45.361835+00:00",
-      "updatedAt": "2025-11-16T17:24:36.641897+00:00"
+      "updatedAt": "2025-12-04T08:06:57.95006+00:00"
     },
     {
       "id": "pop",
