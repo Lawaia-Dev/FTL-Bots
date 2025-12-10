@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T16:00:48.238Z",
+  "lastUpdated": "2025-12-10T17:00:48.133Z",
   "source": "metaforge",
   "traders": [
     {
@@ -818,7 +818,7 @@
           "description": "Ammo used for energy weapons. One clip will fully charge a single weapon.",
           "rarity": "Rare",
           "type": "Ammunition",
-          "value": 5,
+          "value": 1000,
           "price": 3000,
           "currency": null
         },
