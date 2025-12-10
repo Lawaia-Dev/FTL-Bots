@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T11:00:29.304Z",
+  "lastUpdated": "2025-12-10T11:00:29.211Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
@@ -46,14 +46,14 @@
       "name": "Fireball",
       "description": "A small armored rolling ARC that spits flame. Will open up it's front panel when near Raiders to burn them alive. While the front is open its soft unarmored core is exposed.",
       "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/fireball.webp",
-      "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/fireball.webp",
+      "image": "https://cdn.metaforge.app/arc-raiders/images/fireball.webp",
       "search": "fireball",
       "aliases": [
         "fireball"
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T12:06:35.605684+00:00",
-      "updatedAt": "2025-11-04T15:57:05.629124+00:00"
+      "updatedAt": "2025-12-09T19:56:31.920703+00:00"
     },
     {
       "id": "hornet",
@@ -99,22 +99,22 @@
       ],
       "source": "metaforge",
       "createdAt": "2025-11-12T19:34:45.361835+00:00",
-      "updatedAt": "2025-12-04T08:06:57.95006+00:00"
+      "updatedAt": "2025-12-09T15:31:04.305795+00:00"
     },
     {
       "id": "pop",
       "slug": "pop",
       "name": "Pop",
-      "description": "This little menace is a Fireball ARC—a small, unarmored rolling unit that hides its true potential. It operates by rapidly closing the distance, looking like nothing more than a simple, harmless sphere until it's right on top of you. Once a Raider is nearby, it snaps open its side panels to reveal twin flamethrowers, quickly bathing the area in fire and burning targets to a crisp. It's a close-range ambush specialist designed to punish anyone caught off-guard.",
-      "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/pop.webp",
-      "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/pop.webp",
+      "description": "The Pop is a small, unarmored rolling machine. It's a quick, impulsive enemy that often roams in swarms. Often found indoors, the Pop's purpose is thought to be clearing out rubble and blockages that may inhibit ARC's operations. The Pop seems to have little regard for its own safety; carrying an explosive charge that \"pops\" upon impact, scorching any Raider that lets it get too close.",
+      "icon": "https://cdn.metaforge.app/arc-raiders/icons/pop.webp",
+      "image": "https://cdn.metaforge.app/arc-raiders/images/pop.webp",
       "search": "pop",
       "aliases": [
         "pop"
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T12:05:37.972313+00:00",
-      "updatedAt": "2025-11-04T16:00:06.006743+00:00"
+      "updatedAt": "2025-12-09T19:55:04.079569+00:00"
     },
     {
       "id": "queen",
@@ -129,7 +129,7 @@
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T07:57:53.043251+00:00",
-      "updatedAt": "2025-11-04T16:33:18.782712+00:00"
+      "updatedAt": "2025-12-09T15:34:31.669525+00:00"
     },
     {
       "id": "rocketeer",
@@ -205,7 +205,7 @@
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T11:32:47.592365+00:00",
-      "updatedAt": "2025-11-04T16:36:30.601096+00:00"
+      "updatedAt": "2025-12-09T15:28:04.010172+00:00"
     },
     {
       "id": "tick",
