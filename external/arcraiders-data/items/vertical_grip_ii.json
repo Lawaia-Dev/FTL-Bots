@@ -15,7 +15,7 @@
     "zh-TW": "垂直握把 II",
     "uk": "Вертикальна рукоятка II",
     "zh-CN": "垂直握把 II",
-    "kr": "수직 손잡이 II",
+    "kr": "수직 그립 II",
     "tr": "Dikey Kabza II",
     "hr": "Vertikalni Držač II",
     "sr": "Vertikalni Držač II"
@@ -35,7 +35,7 @@
     "zh-TW": "適度降低垂直後座力。相容武器：Arpeggio、Ferro、Venator、Il Toro、Stitcher",
     "uk": "Помірно зменшує вертикальну віддачу. Сумісно з: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "zh-CN": "适度降低垂直后坐力。兼容武器：Arpeggio、Ferro、Venator、Il Toro、Stitcher",
-    "kr": "수직 반동을 적당히 감소시킵니다. 호환 무기: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+    "kr": "수직 반동을 적당히 감소시킵니다. 호환 무기: 아르페지오, 페로, 베나토르, 일 토로, 스티처",
     "tr": "Dikey geri tepmesini orta derecede azaltır. Uyumlu silahlar: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "hr": "Umjereno smanjuje vertikalni trzaj. Kompatibilno s: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "sr": "Umereno smanjuje vertikalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Venator, Il Toro, Stitcher"
@@ -79,5 +79,12 @@
     "Stitcher"
   ],
   "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
-  "updatedAt": "11/05/2025"
+  "updatedAt": "12/07/2025",
+  "recipe": {
+    "mechanical_components": 2,
+    "duct_tape": 3
+  },
+  "craftBench": "weapon_bench",
+  "stationLevelRequired": 2,
+  "blueprintLocked": true
 }
