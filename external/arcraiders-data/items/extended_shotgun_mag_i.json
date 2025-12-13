@@ -15,7 +15,7 @@
     "zh-TW": "延長霰彈槍彈匣 I",
     "uk": "Розширений магазин для дробовика I",
     "zh-CN": "延长霰弹枪弹匣 I",
-    "kr": "확장 산탄총 탄창 I",
+    "kr": "확장형 산탄총 탄창 I",
     "tr": "Uzatılmış Pompalı Şarjör I",
     "hr": "Produženi Sačmarski Spremnik I",
     "sr": "Produženi Sačmarski Spremnik I"
@@ -35,7 +35,7 @@
     "zh-TW": "略微增加霰彈槍的彈藥容量。相容武器：Il Toro、Vulcano",
     "uk": "Трохи збільшує ємність патронів дробовиків. Сумісно з: Il Toro, Vulcano",
     "zh-CN": "略微增加霰弹枪的弹药容量。兼容武器：Il Toro、Vulcano",
-    "kr": "산탄총의 탄약 용량을 약간 확장한다. 호환 무기: Il Toro, Vulcano",
+    "kr": "산탄총의 탄약 용량을 약간 확장한다. 호환 무기: 일 토로, 불카노",
     "tr": "Pompalı tüfeklerin mermi kapasitesini hafifçe artırır. Uyumlu: Il Toro, Vulcano",
     "hr": "Blago povećava kapacitet streljiva sačmarica. Kompatibilno s: Il Toro, Vulcano",
     "sr": "Blago povećava kapacitet streljiva sačmarica. Kompatibilno sa: Il Toro, Vulcano"
@@ -54,7 +54,7 @@
       "pl": "Rozmiar magazynka",
       "no": "Magasinstørrelse",
       "da": "Magasinstørrelse",
-      "it": "Dimensione caricatore",
+      "it": "Dimensioni caricatore",
       "ru": "Размер магазина",
       "ja": "マガジンサイズ",
       "zh-TW": "彈匣容量",
