@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-13T20:00:48.318Z",
+  "lastUpdated": "2025-12-13T21:00:48.123Z",
   "source": "metaforge",
   "traders": [
     {
@@ -569,7 +569,7 @@
           "id": "combat-mk-2",
           "name": "Combat Mk. 2",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/combat-mk-2.webp",
-          "description": "A Combat augment more focused on manoeuvrability than absorbing damage. ",
+          "description": "A Combat augment is more focused on maneuverability than absorbing damage.",
           "rarity": "Rare",
           "type": "Augment",
           "value": 2000,
