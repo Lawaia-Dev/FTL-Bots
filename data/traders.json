@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T10:00:48.247Z",
+  "lastUpdated": "2025-12-16T11:00:48.322Z",
   "source": "metaforge",
   "traders": [
     {
@@ -977,6 +977,17 @@
           "currency": null
         },
         {
+          "id": "padded-stock",
+          "name": "Padded Stock",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/padded-stock.webp",
+          "description": "Significantly improves stability.",
+          "rarity": "Epic",
+          "type": "Modification",
+          "value": 0,
+          "price": 15000,
+          "currency": null
+        },
+        {
           "id": "renegade-i",
           "name": "Renegade I",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/renegade-i.webp",
@@ -1055,7 +1066,7 @@
         }
       ],
       "source": "metaforge",
-      "rawCount": 27
+      "rawCount": 28
     }
   ]
 }
