@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-12-15T11:00:27.347Z",
+  "lastUpdated": "2025-12-16T11:00:27.434Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
     "limit": 40,
-    "total": 68,
+    "total": 73,
     "totalPages": 2,
     "hasNextPage": true,
     "hasPrevPage": false
@@ -570,6 +570,71 @@
       "updatedAt": "2025-11-01T23:14:45.099773+00:00"
     },
     {
+      "id": "a-toxic-trail",
+      "slug": "a-toxic-trail",
+      "name": "A Toxic Trail",
+      "description": "Return to the Water Intake below the Water Treatment Control building",
+      "objectives": [
+        "Return to the Water Intake below the Water Treatment Control building",
+        "Search the swamp for traces of the barrel's origins",
+        "Take a photo of the barrel truck",
+        "Search the truck for clues about the saboteur's indentity"
+      ],
+      "xp": 0,
+      "grantedItems": [],
+      "requiredItems": [],
+      "rewards": [
+        {
+          "id": "tactical-mk-2",
+          "itemId": "tactical-mk-2",
+          "name": "Tactical Mk. 2",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/tactical-mk-2.webp",
+          "rarity": "Rare",
+          "type": "Augment",
+          "quantity": 1
+        },
+        {
+          "id": "zipline",
+          "itemId": "zipline",
+          "name": "Zipline",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/zipline.webp",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "quantity": 3
+        },
+        {
+          "id": "pulse-mine",
+          "itemId": "pulse-mine",
+          "name": "Pulse Mine",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/pulse-mine.webp",
+          "rarity": "Uncommon",
+          "type": "Quick Use",
+          "quantity": 3
+        },
+        {
+          "id": "gas-mine",
+          "itemId": "gas-mine",
+          "name": "Gas Mine",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/gas-mine.webp",
+          "rarity": "Common",
+          "type": "Quick Use",
+          "quantity": 3
+        }
+      ],
+      "locations": [],
+      "maps": [],
+      "markerCategory": null,
+      "search": "a toxic trail",
+      "aliases": [
+        "a toxic trail",
+        "atoxictrail",
+        "a-toxic-trail"
+      ],
+      "source": "metaforge",
+      "createdAt": "2025-12-16T10:12:43.399509+00:00",
+      "updatedAt": "2025-12-16T10:12:43.399509+00:00"
+    },
+    {
       "id": "a-warm-place-to-rest",
       "slug": "a-warm-place-to-rest",
       "name": "A Warm Place to Rest",
@@ -1097,6 +1162,32 @@
       "source": "metaforge",
       "createdAt": "2025-10-07T14:15:05.244382+00:00",
       "updatedAt": "2025-10-07T14:15:05.244382+00:00"
+    },
+    {
+      "id": "deciphering-the-data",
+      "slug": "deciphering-the-data",
+      "name": "Deciphering The Data",
+      "description": "Use the Magnetic Decryptor in the Fuel Control Building",
+      "objectives": [
+        "Use the Magnetic Decryptor in the Fuel Control Building"
+      ],
+      "xp": 0,
+      "grantedItems": [],
+      "requiredItems": [],
+      "rewards": [],
+      "locations": [],
+      "maps": [],
+      "markerCategory": null,
+      "search": "deciphering the data",
+      "aliases": [
+        "deciphering the data",
+        "decipheringthedata",
+        "deciphering",
+        "deciphering-the-data"
+      ],
+      "source": "metaforge",
+      "createdAt": "2025-12-16T10:54:43.159006+00:00",
+      "updatedAt": "2025-12-16T10:54:43.159006+00:00"
     },
     {
       "id": "digging-up-dirt",
@@ -2210,145 +2301,6 @@
       "source": "metaforge",
       "createdAt": "2025-11-01T11:54:20.108068+00:00",
       "updatedAt": "2025-11-01T11:54:20.108068+00:00"
-    },
-    {
-      "id": "medical-merchandise",
-      "slug": "medical-merchandise",
-      "name": "Medical Merchandise",
-      "description": "On Spaceport, search 2 containers in the Departure Building's exam rooms",
-      "objectives": [
-        "On Spaceport, search 2 containers in the Departure Building's exam rooms",
-        "Search 3 contrainers in the Hospital in Buried City",
-        "On Dam Battlegrounds, search 2 containers in the Research & Administration building's medical room"
-      ],
-      "xp": 0,
-      "grantedItems": [],
-      "requiredItems": [],
-      "rewards": [
-        {
-          "id": "banana-backpack-charm",
-          "itemId": "banana-backpack-charm",
-          "name": "Banana (Backpack Charm)",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/banana-backpack-charm.webp",
-          "rarity": "",
-          "type": "Misc",
-          "quantity": 1
-        },
-        {
-          "id": "defibrillator",
-          "itemId": "defibrillator",
-          "name": "Defibrillator",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/defibrillator.webp",
-          "rarity": "Rare",
-          "type": "Quick Use",
-          "quantity": 3
-        },
-        {
-          "id": "vita-shot",
-          "itemId": "vita-shot",
-          "name": "Vita Shot",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/vita-shot.webp",
-          "rarity": "Rare",
-          "type": "Quick Use",
-          "quantity": 2
-        }
-      ],
-      "locations": [
-        {
-          "x": 4149.080710359533,
-          "y": 3048.5324393094756,
-          "map": "dam"
-        }
-      ],
-      "maps": [
-        "dam"
-      ],
-      "markerCategory": null,
-      "search": "medical merchandise",
-      "aliases": [
-        "medical merchandise",
-        "medicalmerchandise",
-        "medical",
-        "medical-merchandise"
-      ],
-      "source": "metaforge",
-      "createdAt": "2025-11-01T14:13:24.014946+00:00",
-      "updatedAt": "2025-11-01T14:13:24.014946+00:00"
-    },
-    {
-      "id": "mixed-signals",
-      "slug": "mixed-signals",
-      "name": "Mixed Signals",
-      "description": "Destroy an ARC Surveyor",
-      "objectives": [
-        "Destroy an ARC Surveyor",
-        "Obtain 1 Surveyor Vault"
-      ],
-      "xp": 0,
-      "grantedItems": [
-        {
-          "id": "jolt-mine",
-          "itemId": "jolt-mine",
-          "name": "Jolt Mine",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/jolt-mine.webp",
-          "rarity": "Rare",
-          "type": "Quick Use",
-          "quantity": 3
-        },
-        {
-          "id": "showstopper",
-          "itemId": "showstopper",
-          "name": "Showstopper",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/showstopper.webp",
-          "rarity": "Rare",
-          "type": "Throwable",
-          "quantity": 2
-        }
-      ],
-      "requiredItems": [
-        {
-          "id": "surveyor-vault",
-          "itemId": "surveyor-vault",
-          "name": "Surveyor Vault",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/surveyor-vault.webp",
-          "rarity": "Rare",
-          "type": "Recyclable",
-          "quantity": 1
-        }
-      ],
-      "rewards": [
-        {
-          "id": "photoelectric-cloak",
-          "itemId": "photoelectric-cloak",
-          "name": "Photoelectric Cloak",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/photoelectric-cloak.webp",
-          "rarity": "Epic",
-          "type": "Quick Use",
-          "quantity": 1
-        },
-        {
-          "id": "raider-hatch-key",
-          "itemId": "raider-hatch-key",
-          "name": "Raider Hatch Key",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/raider-hatch-key.webp",
-          "rarity": "Rare",
-          "type": "Key",
-          "quantity": 1
-        }
-      ],
-      "locations": [],
-      "maps": [],
-      "markerCategory": null,
-      "search": "mixed signals",
-      "aliases": [
-        "mixed signals",
-        "mixedsignals",
-        "mixed",
-        "mixed-signals"
-      ],
-      "source": "metaforge",
-      "createdAt": "2025-10-07T14:15:08.114262+00:00",
-      "updatedAt": "2025-10-07T14:15:08.114262+00:00"
     }
   ]
 }
