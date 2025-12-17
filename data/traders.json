@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-17T05:00:48.326Z",
+  "lastUpdated": "2025-12-17T06:00:48.282Z",
   "source": "metaforge",
   "traders": [
     {
@@ -531,9 +531,186 @@
       "aliases": [
         "lance"
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "id": "adrenaline-shot",
+          "name": "Adrenaline Shot",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/adrenaline-shot.webp",
+          "description": "A serum that fully restores stamina and temporarily increases stamina regeneration",
+          "rarity": "Common",
+          "type": "Quick Use",
+          "value": 300,
+          "price": 900,
+          "currency": null
+        },
+        {
+          "id": "bandage",
+          "name": "Bandage",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/bandage.webp",
+          "description": "A medical item that gradually restores health over time.",
+          "rarity": "Common",
+          "type": "Quick Use",
+          "value": 250,
+          "price": 750,
+          "currency": null
+        },
+        {
+          "id": "combat-mk-1",
+          "name": "Combat Mk. 1",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/combat-mk-1.webp",
+          "description": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
+          "rarity": "Uncommon",
+          "type": "Augment",
+          "value": 640,
+          "price": 1920,
+          "currency": null
+        },
+        {
+          "id": "combat-mk-2",
+          "name": "Combat Mk. 2",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/combat-mk-2.webp",
+          "description": "A Combat augment is more focused on maneuverability than absorbing damage.",
+          "rarity": "Rare",
+          "type": "Augment",
+          "value": 2000,
+          "price": 6000,
+          "currency": null
+        },
+        {
+          "id": "defibrillator",
+          "name": "Defibrillator",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/defibrillator.webp",
+          "description": "An injection that quickly revives downed raiders and restores some health.",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "value": 1000,
+          "price": 3000,
+          "currency": null
+        },
+        {
+          "id": "heavy-shield",
+          "name": "Heavy Shield",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/heavy-shield.webp",
+          "description": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",
+          "rarity": "Epic",
+          "type": "Shield",
+          "value": 5500,
+          "price": 16500,
+          "currency": null
+        },
+        {
+          "id": "herbal-bandage",
+          "name": "Herbal Bandage",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/herbal-bandage.webp",
+          "description": "An improvised medical item that gradually restores health over time.",
+          "rarity": "Uncommon",
+          "type": "Quick Use",
+          "value": 640,
+          "price": 2700,
+          "currency": null
+        },
+        {
+          "id": "light-shield",
+          "name": "Light Shield",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/light-shield.webp",
+          "description": "A lightweight shield that offers limited protection without severely impacting mobility.",
+          "rarity": "Uncommon",
+          "type": "Shield",
+          "value": 640,
+          "price": 1920,
+          "currency": null
+        },
+        {
+          "id": "looting-mk-1",
+          "name": "Looting Mk. 1",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/looting-mk-1.webp",
+          "description": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
+          "rarity": "Uncommon",
+          "type": "Augment",
+          "value": 640,
+          "price": 1920,
+          "currency": null
+        },
+        {
+          "id": "looting-mk-2",
+          "name": "Looting Mk. 2",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/looting-mk-2.webp",
+          "description": "Significantly increases looting potential; adds slots for trinkets.",
+          "rarity": "Rare",
+          "type": "Augment",
+          "value": 2000,
+          "price": 6000,
+          "currency": null
+        },
+        {
+          "id": "medium-shield",
+          "name": "Medium Shield",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/medium-shield.webp",
+          "description": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
+          "rarity": "Rare",
+          "type": "Shield",
+          "value": 2000,
+          "price": 6000,
+          "currency": null
+        },
+        {
+          "id": "shield-recharger",
+          "name": "Shield Recharger",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/shield-recharger.webp",
+          "description": "A handheld repair kit that recharges a shield on use.",
+          "rarity": "Uncommon",
+          "type": "Quick Use",
+          "value": 520,
+          "price": 1560,
+          "currency": null
+        },
+        {
+          "id": "sterilized-bandage",
+          "name": "Sterilized Bandage",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sterilized-bandage.webp",
+          "description": "A medical item that gradually restores a large amount health over time.",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "value": 2000,
+          "price": 6000,
+          "currency": null
+        },
+        {
+          "id": "surge-shield-recharger",
+          "name": "Surge Shield Recharger",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/surge-shield-recharger.webp",
+          "description": "A handkeld kit that recharges a shield",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "value": 1200,
+          "price": 3600,
+          "currency": null
+        },
+        {
+          "id": "tactical-mk-1",
+          "name": "Tactical Mk. 1",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/tactical-mk-1.webp",
+          "description": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
+          "rarity": "Uncommon",
+          "type": "Augment",
+          "value": 640,
+          "price": 1920,
+          "currency": null
+        },
+        {
+          "id": "tactical-mk-2",
+          "name": "Tactical Mk. 2",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/tactical-mk-2.webp",
+          "description": "Adds more backpack space and an extra utility item slot.",
+          "rarity": "Rare",
+          "type": "Augment",
+          "value": 2000,
+          "price": 6000,
+          "currency": null
+        }
+      ],
       "source": "metaforge",
-      "rawCount": 0
+      "rawCount": 16
     },
     {
       "id": "shani",
