@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2025-12-16T11:00:27.434Z",
+  "lastUpdated": "2025-12-17T11:00:27.345Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
     "limit": 40,
-    "total": 73,
+    "total": 74,
     "totalPages": 2,
     "hasNextPage": true,
     "hasPrevPage": false
@@ -578,7 +578,7 @@
         "Return to the Water Intake below the Water Treatment Control building",
         "Search the swamp for traces of the barrel's origins",
         "Take a photo of the barrel truck",
-        "Search the truck for clues about the saboteur's indentity"
+        "Search the truck for clues about the saboteur's identity"
       ],
       "xp": 0,
       "grantedItems": [],
@@ -1169,12 +1169,33 @@
       "name": "Deciphering The Data",
       "description": "Use the Magnetic Decryptor in the Fuel Control Building",
       "objectives": [
-        "Use the Magnetic Decryptor in the Fuel Control Building"
+        "Use the Magnetic Decryptor in the Fuel Control Building",
+        "Reach the Arrival Building in Spaceport",
+        "Use the Magnetic Decryptor on the top floor of the Arrival Building"
       ],
       "xp": 0,
       "grantedItems": [],
       "requiredItems": [],
-      "rewards": [],
+      "rewards": [
+        {
+          "id": "defibrillator",
+          "itemId": "defibrillator",
+          "name": "Defibrillator",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/defibrillator.webp",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "quantity": 3
+        },
+        {
+          "id": "trailblazer-grenade",
+          "itemId": "trailblazer-grenade",
+          "name": "Trailblazer Grenade",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/trailblazer-grenade.webp",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "quantity": 3
+        }
+      ],
       "locations": [],
       "maps": [],
       "markerCategory": null,
@@ -1788,6 +1809,61 @@
       "updatedAt": "2025-10-30T21:57:57.890654+00:00"
     },
     {
+      "id": "groundbreaking",
+      "slug": "groundbreaking",
+      "name": "Groundbreaking",
+      "description": "Enter the locked room at Pilgrim's Peak",
+      "objectives": [
+        "Enter the locked room at Pilgrim's Peak",
+        "Search the room for any construction research",
+        "Find the building pictured on the whiteboard",
+        "Photograph the abandoned housing project"
+      ],
+      "xp": 0,
+      "grantedItems": [
+        {
+          "id": "blue-gate-communication-tower-key",
+          "itemId": "blue-gate-communication-tower-key",
+          "name": "Blue Gate Communication Tower Key",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/blue-gate-communication-tower-key.webp",
+          "rarity": "Rare",
+          "type": "Key",
+          "quantity": 1
+        }
+      ],
+      "requiredItems": [],
+      "rewards": [
+        {
+          "id": "power-rod",
+          "itemId": "power-rod",
+          "name": "Power Rod",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/power-rod.webp",
+          "rarity": "Epic",
+          "type": "Advanced Material",
+          "quantity": 1
+        },
+        {
+          "id": "tangerine-warden-color",
+          "itemId": "tangerine-warden-color",
+          "name": "Tangerine (Warden Color)",
+          "icon": "",
+          "rarity": "Common",
+          "type": "Misc",
+          "quantity": 1
+        }
+      ],
+      "locations": [],
+      "maps": [],
+      "markerCategory": null,
+      "search": "groundbreaking",
+      "aliases": [
+        "groundbreaking"
+      ],
+      "source": "metaforge",
+      "createdAt": "2025-12-16T11:53:14.310127+00:00",
+      "updatedAt": "2025-12-16T11:53:14.310127+00:00"
+    },
+    {
       "id": "hatch-repairs",
       "slug": "hatch-repairs",
       "name": "Hatch Repairs",
@@ -2238,69 +2314,6 @@
       "source": "metaforge",
       "createdAt": "2025-11-01T23:02:32.804636+00:00",
       "updatedAt": "2025-11-01T23:02:32.804636+00:00"
-    },
-    {
-      "id": "market-correction",
-      "slug": "market-correction",
-      "name": "Market Correction",
-      "description": "Locate the cache near Marano Station.",
-      "objectives": [
-        "In One Round -",
-        "Locate the cache near Marano Station.",
-        "Sabotage the cache"
-      ],
-      "xp": 0,
-      "grantedItems": [],
-      "requiredItems": [],
-      "rewards": [
-        {
-          "id": "silencer-ii",
-          "itemId": "silencer-ii",
-          "name": "Silencer II",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/silencer-ii.webp",
-          "rarity": "Rare",
-          "type": "Modification",
-          "quantity": 1
-        },
-        {
-          "id": "extended-light-mag-i",
-          "itemId": "extended-light-mag-i",
-          "name": "Extended Light Mag I",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-light-mag-i.webp",
-          "rarity": "Common",
-          "type": "Modification",
-          "quantity": 1
-        },
-        {
-          "id": "compensator-i",
-          "itemId": "compensator-i",
-          "name": "Compensator I",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/compensator-i.webp",
-          "rarity": "Common",
-          "type": "Modification",
-          "quantity": 1
-        }
-      ],
-      "locations": [
-        {
-          "id": "dd620de831ce245c648f5a8fbcec809d",
-          "map": "buried-city"
-        }
-      ],
-      "maps": [
-        "buried-city"
-      ],
-      "markerCategory": null,
-      "search": "market correction",
-      "aliases": [
-        "market correction",
-        "marketcorrection",
-        "market",
-        "market-correction"
-      ],
-      "source": "metaforge",
-      "createdAt": "2025-11-01T11:54:20.108068+00:00",
-      "updatedAt": "2025-11-01T11:54:20.108068+00:00"
     }
   ]
 }
