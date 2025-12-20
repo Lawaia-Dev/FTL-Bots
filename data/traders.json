@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T04:00:51.666Z",
+  "lastUpdated": "2025-12-20T05:00:48.666Z",
   "source": "metaforge",
   "traders": [
     {
@@ -182,7 +182,7 @@
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/smoke-grenade.webp",
           "description": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from other Raiders.",
           "rarity": "Rare",
-          "type": "Quick Use",
+          "type": "Recyclable",
           "value": 1000,
           "price": 3000,
           "currency": null
