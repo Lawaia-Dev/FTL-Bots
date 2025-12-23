@@ -22,7 +22,7 @@
   },
   "description": {
     "en": "Fully automatic SMG with high fire rate but low accuracy.",
-    "de": "Vollautomatische MP mit hoher Feuerrate, aber geringer Genauigkeit.",
+    "de": "Hat eine hohe Feuerrate, aber eine niedrige Genauigkeit.",
     "fr": "SMG entièrement automatique avec une cadence de tir élevée mais une faible précision.",
     "es": "SMG totalmente automático con alta cadencia de fuego pero baja precisión.",
     "pt": "SMG totalmente automática com alta taxa de disparo mas baixa precisão.",
@@ -153,7 +153,7 @@
       "zh-TW": "ARC 護甲穿透",
       "uk": "Бронепробиття ARC",
       "zh-CN": "ARC 护甲穿透",
-      "kr": "ARC 방어구 관통",
+      "kr": "아크 장갑판 관통력",
       "tr": "ARC Zırh Delme",
       "hr": "ARC probijanje oklopa",
       "sr": "ARC probijanje oklopa",
