@@ -11,14 +11,16 @@
     "da": "Beskadiget Hornet-driver",
     "it": "Propulsore Hornet danneggiato",
     "ru": "Поврежденный драйвер Шершня",
-    "ja": "破損したホーネットドライバー",
+    "ja": "傷んだホーネットドライバー",
     "zh-TW": "損壞的黃蜂驅動器",
     "uk": "Пошкоджений драйвер Hornet",
     "zh-CN": "损坏的黄蜂驱动器",
     "kr": "손상된 호넷 드라이버",
     "tr": "Hasarlı Hornet Sürücüsü",
     "hr": "Oštećeni Hornet Pokretač",
-    "sr": "Oštećeni Hornet Pokretač"
+    "sr": "Oštećeni Hornet Pokretač",
+    "pt-BR": "Controlador de Hornet Danificado",
+    "he": "דרייבר הורנט פגום"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용할 수 있습니다.",
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Common",

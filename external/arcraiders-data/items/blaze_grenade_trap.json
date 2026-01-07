@@ -11,14 +11,16 @@
     "da": "Flammegranatefælde",
     "it": "Trappola con granata incendiaria",
     "ru": "Лазерная ловушка: Огонь",
-    "ja": "ブレイズグレネードトラップ",
+    "ja": "レーザートラップ：ブレイズ",
     "zh-TW": "烈焰手榴彈陷阱",
     "uk": "Пастка з вогняною гранатою",
     "zh-CN": "烈焰手榴弹陷阱",
     "kr": "화염 수류탄 함정",
     "tr": "Alev Bombası Tuzağı",
     "hr": "Zamka s Vatrenom Granatom",
-    "sr": "Zamka sa Vatrenom Granatom"
+    "sr": "Zamka sa Vatrenom Granatom",
+    "pt-BR": "Armadilha de Granada Incendiária",
+    "he": "מלכודת רימון תבערה"
   },
   "description": {
     "en": "A laser trip wire that detonates a Blaze Grenade.",
@@ -38,7 +40,9 @@
     "kr": "화염 수류탄을 폭발시키는 레이저 트립 와이어.",
     "tr": "Bir Alev Bombasını patlatan lazer tuzak teli.",
     "hr": "Laserska žica zamka koja detonira Vatrenu Granatu.",
-    "sr": "Laserska žica zamka koja detonira Vatrenu Granatu."
+    "sr": "Laserska žica zamka koja detonira Vatrenu Granatu.",
+    "pt-BR": "Um fio a laser que detona uma Granada Incendiária.",
+    "he": "תיל לייזר ממעיד המפוצץ רימון תבערה."
   },
   "type": "Quick Use",
   "rarity": "Rare",
@@ -65,7 +69,9 @@
       "tr": "Hasar",
       "hr": "Šteta",
       "sr": "Šteta",
-      "value": "5/s"
+      "value": "5/s",
+      "pt-BR": "Dano",
+      "he": "נזק"
     },
     "Duration": {
       "en": "Duration",
@@ -86,9 +92,17 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "10s"
+      "value": "10s",
+      "pt-BR": "Duração",
+      "he": "משך"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade_trap.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "12/19/2025",
+  "recipe": {
+    "blaze_grenade": 1,
+    "wires": 1
+  },
+  "craftBench": "workbench",
+  "stationLevelRequired": 1
 }

@@ -11,14 +11,16 @@
     "da": "Osprey-tegning",
     "it": "Progetto Osprey",
     "ru": "Чертеж — Ястреб",
-    "ja": "オスプレイ設計図",
+    "ja": "オスプレー設計図",
     "zh-TW": "Osprey藍圖",
     "uk": "Креслення Osprey",
     "zh-CN": "Osprey蓝图",
     "kr": "오스프레이 설계도",
     "tr": "Osprey Planı",
     "hr": "Osprey Nacrt",
-    "sr": "Osprey Nacrt"
+    "sr": "Osprey Nacrt",
+    "pt-BR": "Projeto da Osprey",
+    "he": "שרטוט אוספריי"
   },
   "description": {
     "en": "Has reliable damage output and accuracy.",
@@ -38,7 +40,9 @@
     "kr": "안정적인 피해량과 정확도를 가지고 있습니다.",
     "tr": "Güvenilir hasar çıkışı ve isabete sahiptir.",
     "hr": "Ima pouzdanu štetu i preciznost.",
-    "sr": "Ima pouzdanu štetu i preciznost."
+    "sr": "Ima pouzdanu štetu i preciznost.",
+    "pt-BR": "Possui dano e precisão confiáveis.",
+    "he": "בעל תפוקת נזק ודיוק אמינים."
   },
   "type": "Blueprint",
   "value": 5000,

@@ -10,7 +10,7 @@
     "no": "Romhavn skyttergravstårn nøkkel",
     "da": "Rumhavn skyttegravstårn nøgle",
     "it": "Chiave della torre delle trincee dello spazioporto",
-    "ja": "宇宙港塹壕タワーの鍵",
+    "ja": "宇宙港のトレンチタワーの鍵",
     "kr": "우주 기지 도랑 탑 열쇠",
     "zh-CN": "太空港战壕塔钥匙",
     "zh-TW": "太空港戰壕塔鑰匙",
@@ -18,7 +18,9 @@
     "tr": "Uzay limanı siper kulesi anahtarı",
     "uk": "Ключ від вежі траншей космопорту",
     "sr": "Ključ kule rova svemirske luke",
-    "hr": "Ključ kule rova svemirske luke"
+    "hr": "Ključ kule rova svemirske luke",
+    "pt-BR": "Chave da Torre da Trincheira do Espaçoporto",
+    "he": "מפתח מגדל התעלה בנמל החלל"
   },
   "description": {
     "en": "Unlocks a door to the Trench Towers in Spaceport",
@@ -38,7 +40,9 @@
     "tr": "Uzay limanındaki siper kulelerine giden bir kapıyı açar",
     "uk": "Відкриває двері до веж траншей у космопорту",
     "sr": "Otključava vrata ka kulama rova u svemirskoj luci",
-    "hr": "Otključava vrata prema kulama rova u svemirskoj luci"
+    "hr": "Otključava vrata prema kulama rova u svemirskoj luci",
+    "pt-BR": "Destranca uma porta para as Torres da Trincheira no Espaçoporto",
+    "he": "פותח דלת למגדלי התעלה בנמל החלל"
   },
   "type": "Key",
   "value": 100,

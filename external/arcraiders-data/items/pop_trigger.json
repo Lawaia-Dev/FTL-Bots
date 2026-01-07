@@ -2,7 +2,7 @@
   "id": "pop_trigger",
   "name": {
     "en": "Pop Trigger",
-    "de": "Direktabzug",
+    "de": "Pop-Auslöser",
     "fr": "Gâchette Pop",
     "es": "Gatillo de tronador",
     "pt": "Gatilho de Estalinho",
@@ -18,9 +18,11 @@
     "kr": "팝 트리거",
     "tr": "Pop Tetik",
     "hr": "Pop Okidač",
-    "sr": "Pop Okidač"
+    "sr": "Pop Okidač",
+    "pt-BR": "Gatilho de Disparo",
+    "he": "הדק קפיצי"
   },
-  "rarity": "Common",
+  "rarity": "Uncommon",
   "type": "Recyclable",
   "value": 640,
   "recyclesInto": {
@@ -46,7 +48,9 @@
     "kr": "제작 재료로 재활용할 수 있다.",
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למחזור לחומרי יצירה."
   },
   "weightKg": 0.5,
   "stackSize": 3,

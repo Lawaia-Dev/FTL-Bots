@@ -11,14 +11,16 @@
     "da": "Blå port kælder-nøgle",
     "it": "Chiave della cantina del cancello blu",
     "ru": "Ключ от подвала Синих Врат",
-    "ja": "青い門の地下室の鍵",
+    "ja": "ブルーゲートの地下の鍵",
     "zh-TW": "藍門地窖鑰匙",
     "uk": "Ключ від підвалу Синіх Воріт",
     "zh-CN": "蓝门地窖钥匙",
     "kr": "파란 문 지하실 열쇠",
     "tr": "Mavi Kapı Mahzen Anahtarı",
     "hr": "Ključ podruma plavog portala",
-    "sr": "Ključ podruma plavog portala"
+    "sr": "Ključ podruma plavog portala",
+    "pt-BR": "Chave do Porão do Portão Azul",
+    "he": "מפתח מרתף השער הכחול"
   },
   "description": {
     "en": "A key to the cellar in Blue Gate.",
@@ -38,7 +40,9 @@
     "kr": "파란 문의 지하실 열쇠.",
     "tr": "Mavi Kapı'daki mahzen anahtarı.",
     "hr": "Ključ za podrum u plavom portalu.",
-    "sr": "Ključ za podrum u plavom portalu."
+    "sr": "Ključ za podrum u plavom portalu.",
+    "pt-BR": "Uma chave para o porão no Portão Azul.",
+    "he": "מפתח למרתף בשער הכחול."
   },
   "type": "Key",
   "rarity": "Uncommon",
