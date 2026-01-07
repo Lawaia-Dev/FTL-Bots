@@ -10,7 +10,7 @@
     "no": "Skadet ARC-bevegelseskjerne",
     "da": "Beskadiget ARC-bevægelseskerne",
     "it": "Nucleo di movimento ARC danneggiato",
-    "ja": "破損したARC動作コア",
+    "ja": "傷んだARC動作コア",
     "kr": "손상된 아크 모션 코어",
     "zh-CN": "损坏的ARC运动核心",
     "zh-TW": "損壞的ARC動力核心",
@@ -18,7 +18,9 @@
     "tr": "Hasarlı ARC Hareket Çekirdeği",
     "uk": "Пошкоджене ядро руху ARC",
     "sr": "Oštećeno ARC jezgro pokreta",
-    "hr": "Oštećena ARC jezgra pokreta"
+    "hr": "Oštećena ARC jezgra pokreta",
+    "pt-BR": "Núcleo de Movimento ARC Danificado",
+    "he": "ליבת תנועת ARC פגומה"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "hr": "Može se reciklirati u materijale za izradu."
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Uncommon",

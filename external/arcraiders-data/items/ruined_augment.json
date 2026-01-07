@@ -11,14 +11,16 @@
     "da": "Ødelagt forstærkning",
     "it": "Potenziamento rovinato",
     "ru": "Испорченный аугмент",
-    "ja": "壊れた強化パーツ",
+    "ja": "壊れたオーグメント",
     "zh-TW": "損毀的強化件",
     "uk": "Зіпсований аугмент",
     "zh-CN": "损毁的强化件",
     "kr": "망가진 증강체",
     "tr": "Harap Güçlendirme",
     "hr": "Uništeno Poboljšanje",
-    "sr": "Uništeno Poboljšanje"
+    "sr": "Uništeno Poboljšanje",
+    "pt-BR": "Aprimoramento Arruinado",
+    "he": "תוסף הרוס"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "kr": "제작 재료로 재활용할 수 있습니다.",
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי יצירה."
   },
   "type": "Recyclable",
   "rarity": "Common",

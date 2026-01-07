@@ -9,7 +9,7 @@
     "no": "Stella Montis Monteringsadministratornøkkel",
     "da": "Stella Montis Samlings-Administratornøgle",
     "it": "Chiave Amministratore Montaggio di Stella Montis",
-    "ja": "ステラ・モンティス組立管理者キー",
+    "ja": "ステラ・モンティスの組み立て場管理室の鍵",
     "kr": "스텔라 몬티스 조립 관리자 열쇠",
     "zh-CN": "星山组装区管理员钥匙",
     "zh-TW": "星山組裝區管理員鑰匙",
@@ -17,7 +17,9 @@
     "tr": "Stella Montis Montaj Yönetici Anahtarı",
     "uk": "Адміністративний Ключ Складального Цеху Стелла Монтіс",
     "sr": "Административни Кључ Монтаже Стела Монтис",
-    "hr": "Administratorski Ključ Montaže Stella Montis"
+    "hr": "Administratorski Ključ Montaže Stella Montis",
+    "pt-BR": "Chave da Administração da Montagem de Stella Montis",
+    "he": "מפתח למנהלת ההרכבה בסטלה מונטיס"
   },
   "description": {
     "en": "Unlocks a door in Assembly in Stella Montis",
@@ -37,7 +39,9 @@
     "tr": "Stella Montis'teki Montaj bölümünde bir kapıyı açar",
     "uk": "Відмикає двері у Складальному Цеху в Стелла Монтіс",
     "sr": "Откључава врата у Монтажи у Стела Монтис",
-    "hr": "Otključava vrata u Montaži u Stella Montis"
+    "hr": "Otključava vrata u Montaži u Stella Montis",
+    "pt-BR": "Destranca uma porta na Montagem em Stella Montis",
+    "he": "פותח דלת באזור ההרכבה בסטלה מונטיס"
   },
   "id": "stella_montis_assembly_admin_key",
   "type": "Key",

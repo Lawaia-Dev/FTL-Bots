@@ -2,7 +2,7 @@
   "id": "light_gun_parts_blueprint",
   "name": {
     "en": "Light Gun Parts Blueprint",
-    "de": "Bauplan: Teile für Waffe mit leichter Munition",
+    "de": "Bauplan: Leichte Waffenteile",
     "fr": "Schéma de Pièces d'Arme Légère",
     "es": "Plano de piezas de armas ligeras",
     "pt": "Projeto de peças de armas leves",
@@ -18,11 +18,13 @@
     "kr": "경량 총기 부품 설계도",
     "tr": "Hafif Silah Parçaları Planı",
     "hr": "Nacrt za lake dijelove oružja",
-    "sr": "Nacrt za lake delove oružja"
+    "sr": "Nacrt za lake delove oružja",
+    "pt-BR": "Projeto de Peças de Arma Leve",
+    "he": "שרטוט חלקי נשק קל"
   },
   "description": {
     "en": "Assorted spare parts used for pistols and SMGs.",
-    "de": "Verschiedenste Ersatzteile, die in Pistolen und MPs zum Einsatz kommen. Zur Herstellung von: Bobcat, Komplexe Waffenteile",
+    "de": "Verschiedenste Ersatzteile, die in Pistolen und MPs zum Einsatz kommen.",
     "fr": "Pièces de rechange assorties utilisées pour les pistolets et les mitraillettes.",
     "es": "Piezas de repuesto variadas usadas para pistolas y subfusiles.",
     "pt": "Peças sobressalentes variadas usadas para pistolas e submetralhadoras.",
@@ -38,11 +40,14 @@
     "kr": "권총과 기관단총에 사용되는 각종 예비 부품.",
     "tr": "Tabancalar ve hafif makineli tüfekler için çeşitli yedek parçalar.",
     "hr": "Razni rezervni dijelovi koji se koriste za pištolje i automatske pištolje.",
-    "sr": "Razni rezervni delovi koji se koriste za pištolje i automatske pištolje."
+    "sr": "Razni rezervni delovi koji se koriste za pištolje i automatske pištolje.",
+    "pt-BR": "Peças sobressalentes variadas para pistolas e SMTs. Usado para fabricar: Lince, Peças de Armas Complexas",
+    "he": "מגוון חלקי חילוף המשמשים לאקדחים ותת-מקלעים."
   },
   "type": "Blueprint",
   "value": 5000,
   "weightKg": 0,
+  "stackSize": 1,
   "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts_blueprint.png",
   "rarity": "Legendary",
   "updatedAt": "11/12/2025"

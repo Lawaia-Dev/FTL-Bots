@@ -10,7 +10,7 @@
     "no": "Ubrukelig våpen",
     "da": "Ubrugeligt våben",
     "it": "Arma inutilizzabile",
-    "ja": "使用できない武器",
+    "ja": "使い物にならない武器",
     "kr": "사용 불가능한 무기",
     "zh-CN": "无法使用的武器",
     "zh-TW": "無法使用的武器",
@@ -18,7 +18,9 @@
     "tr": "Kullanılamaz Silah",
     "uk": "Непридатна зброя",
     "sr": "Neupotrebljivo oružje",
-    "hr": "Neupotrebljivo oružje"
+    "hr": "Neupotrebljivo oružje",
+    "pt-BR": "Arma Inutilizável",
+    "he": "נשק לא שמיש"
   },
   "description": {
     "en": "Can be recycled into crafting materials.",
@@ -38,7 +40,9 @@
     "tr": "İşleme malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
     "sr": "Može se reciklirati u materijale za izradu.",
-    "hr": "Može se reciklirati u materijale za izradu."
+    "hr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de fabricação.",
+    "he": "ניתן למיחזור לחומרי ייצור."
   },
   "type": "Recyclable",
   "rarity": "Rare",

@@ -10,7 +10,7 @@
     "no": "Arbeidsbenk",
     "da": "Arbejdsbænk",
     "ru": "Верстак",
-    "ja": "作業台",
+    "ja": "ワークベンチ",
     "it": "Banco da Lavoro",
     "kr": "작업대",
     "zh-CN": "工作台",
@@ -18,7 +18,9 @@
     "uk": "Верстат",
     "tr": "Çalışma Tezgahı",
     "hr": "Radni Stol",
-    "sr": "Radni Sto"
+    "sr": "Radni Sto",
+    "pt-BR": "Bancada de Trabalho",
+    "he": "שולחן עבודה"
   },
   "maxLevel": 0,
   "levels": []

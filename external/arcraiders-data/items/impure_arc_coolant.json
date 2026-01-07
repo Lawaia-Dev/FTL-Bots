@@ -11,14 +11,16 @@
     "da": "Uren ARC-kølevæske",
     "it": "Refrigerante ARC Impuro",
     "ru": "Загрязненное охлаждающее вещество ARC",
-    "ja": "不純なARC冷却剤",
+    "ja": "不潔なARC冷却材",
     "zh-TW": "不純ARC冷卻液",
     "uk": "Нечистий охолоджувач ARC",
     "zh-CN": "不纯ARC冷却液",
     "kr": "불순한 아크 냉각수",
     "tr": "Saf Olmayan ARC Soğutucu",
     "hr": "Nečisto ARC rashladivo sredstvo",
-    "sr": "Nečisto ARC rashladivo sredstvo"
+    "sr": "Nečisto ARC rashladivo sredstvo",
+    "pt-BR": "Refrigerante ARC Impuro",
+    "he": "נוזל קירור ARC לא טהור"
   },
   "rarity": "Uncommon",
   "type": "Recyclable",
@@ -44,7 +46,9 @@
     "kr": "제작 재료로 재활용할 수 있습니다.",
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "hr": "Može se reciklirati u materijale za izradu.",
-    "sr": "Može se reciklirati u materijale za izradu."
+    "sr": "Može se reciklirati u materijale za izradu.",
+    "pt-BR": "Pode ser reciclado em materiais de criação.",
+    "he": "ניתן למחזור לחומרי יצירה."
   },
   "foundIn": "ARC",
   "weightKg": 0.33,

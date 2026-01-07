@@ -11,14 +11,16 @@
     "da": "Røggranатfælde",
     "it": "Trappola con granata fumogena",
     "ru": "Лазерная ловушка: Дым",
-    "ja": "スモークグレネードトラップ",
+    "ja": "レーザートラップ：スモーク",
     "zh-TW": "煙霧手榴彈陷阱",
     "uk": "Пастка з димовою гранатою",
     "zh-CN": "烟雾手榴弹陷阱",
     "kr": "연막탄 함정",
     "tr": "Sis Bombası Tuzağı",
     "hr": "Zamka s dimnom granatom",
-    "sr": "Zamka sa dimnom granatom"
+    "sr": "Zamka sa dimnom granatom",
+    "pt-BR": "Armadilha de Granada de Fumaça",
+    "he": "מלכודת רימון עשן"
   },
   "description": {
     "en": "A laser trip wire that detonates a Smoke Grenade.",
@@ -38,12 +40,15 @@
     "kr": "연막탄을 폭발시키는 레이저 트립와이어.",
     "tr": "Sis Bombasını patlatacak lazer tuzak teli.",
     "hr": "Laserska žica zamka koja aktivira dimnu granatu.",
-    "sr": "Laserska žica zamka koja aktivira dimnu granatu."
+    "sr": "Laserska žica zamka koja aktivira dimnu granatu.",
+    "pt-BR": "Um fio de disparo a laser que detona uma Granada de Fumaça.",
+    "he": "תיל ממעיד לייזר שמפוצץ רימון עשן."
   },
   "type": "Quick Use",
   "rarity": "Rare",
   "weightKg": 0.3,
   "stackSize": 3,
+  "value": 640,
   "effects": {
     "Duration": {
       "en": "Duration",
@@ -64,7 +69,9 @@
       "tr": "Süre",
       "hr": "Trajanje",
       "sr": "Trajanje",
-      "value": "20s"
+      "value": "20s",
+      "pt-BR": "Duração",
+      "he": "משך זמן"
     },
     "Radius": {
       "en": "Radius",
@@ -85,9 +92,17 @@
       "tr": "Yarıçap",
       "hr": "Radijus",
       "sr": "Radijus",
-      "value": "7.5m"
+      "value": "7.5m",
+      "pt-BR": "Raio",
+      "he": "רדיוס"
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade_trap.png",
-  "updatedAt": "11/01/2025"
+  "updatedAt": "12/19/2025",
+  "recipe": {
+    "smoke_grenade": 1,
+    "wires": 1
+  },
+  "craftBench": "workbench",
+  "stationLevelRequired": 1
 }
