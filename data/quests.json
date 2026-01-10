@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T11:00:53.422Z",
+  "lastUpdated": "2026-01-10T11:00:53.816Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
@@ -23,13 +23,13 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "metal-parts",
-          "itemId": "metal-parts",
-          "name": "Metal Parts",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/metal-parts.webp",
-          "rarity": "Common",
-          "type": "Basic Material",
-          "quantity": 10
+          "id": "duct-tape-recipe",
+          "itemId": "duct-tape-recipe",
+          "name": "Duct Tape",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape.webp",
+          "rarity": "Uncommon",
+          "type": "Topside Material",
+          "quantity": 5
         },
         {
           "id": "spring",
@@ -41,13 +41,13 @@
           "quantity": 5
         },
         {
-          "id": "duct-tape-recipe",
-          "itemId": "duct-tape-recipe",
-          "name": "Duct Tape",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/duct-tape.webp",
-          "rarity": "Uncommon",
-          "type": "Topside Material",
-          "quantity": 5
+          "id": "metal-parts",
+          "itemId": "metal-parts",
+          "name": "Metal Parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/metal-parts.webp",
+          "rarity": "Common",
+          "type": "Basic Material",
+          "quantity": 10
         }
       ],
       "locations": [],
@@ -88,15 +88,6 @@
           "quantity": 3
         },
         {
-          "id": "medium-gun-parts",
-          "itemId": "medium-gun-parts",
-          "name": "Medium Gun Parts",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/medium-gun-parts.webp",
-          "rarity": "Rare",
-          "type": "Topside Material",
-          "quantity": 3
-        },
-        {
           "id": "spring",
           "itemId": "spring",
           "name": "Steel Spring",
@@ -104,6 +95,15 @@
           "rarity": "Uncommon",
           "type": "Topside Material",
           "quantity": 10
+        },
+        {
+          "id": "medium-gun-parts",
+          "itemId": "medium-gun-parts",
+          "name": "Medium Gun Parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/medium-gun-parts.webp",
+          "rarity": "Rare",
+          "type": "Topside Material",
+          "quantity": 3
         }
       ],
       "locations": [],
@@ -133,19 +133,19 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "extended-light-mag-i",
-          "itemId": "extended-light-mag-i",
-          "name": "Extended Light Mag I",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-light-mag-i.webp",
+          "id": "stable-stock-i",
+          "itemId": "stable-stock-i",
+          "name": "Stable Stock I",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/stable-stock-i.webp",
           "rarity": "Common",
           "type": "Modification",
           "quantity": 1
         },
         {
-          "id": "stable-stock-i",
-          "itemId": "stable-stock-i",
-          "name": "Stable Stock I",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/stable-stock-i.webp",
+          "id": "extended-light-mag-i",
+          "itemId": "extended-light-mag-i",
+          "name": "Extended Light Mag I",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-light-mag-i.webp",
           "rarity": "Common",
           "type": "Modification",
           "quantity": 1
@@ -189,6 +189,15 @@
       "requiredItems": [],
       "rewards": [
         {
+          "id": "heavy-fuze-grenade",
+          "itemId": "heavy-fuze-grenade",
+          "name": "Heavy Fuze Grenade",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/heavy-fuze-grenade.webp",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "quantity": 3
+        },
+        {
           "id": "shrapnel-grenade",
           "itemId": "shrapnel-grenade",
           "name": "Shrapnel Grenade",
@@ -203,15 +212,6 @@
           "name": "Snap Blast Grenade",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/snap-blast-grenade.webp",
           "rarity": "Uncommon",
-          "type": "Quick Use",
-          "quantity": 3
-        },
-        {
-          "id": "heavy-fuze-grenade",
-          "itemId": "heavy-fuze-grenade",
-          "name": "Heavy Fuze Grenade",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/heavy-fuze-grenade.webp",
-          "rarity": "Rare",
           "type": "Quick Use",
           "quantity": 3
         }
@@ -253,15 +253,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "blue-light-stick",
-          "itemId": "blue-light-stick",
-          "name": "Blue Light Stick",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/blue-light-stick.webp",
-          "rarity": "Common",
-          "type": "Quick Use",
-          "quantity": 5
-        },
-        {
           "id": "antiseptic",
           "itemId": "antiseptic",
           "name": "Antiseptic",
@@ -277,6 +268,15 @@
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/durable-cloth.webp",
           "rarity": "Uncommon",
           "type": "Refined Material",
+          "quantity": 5
+        },
+        {
+          "id": "blue-light-stick",
+          "itemId": "blue-light-stick",
+          "name": "Blue Light Stick",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/blue-light-stick.webp",
+          "rarity": "Common",
+          "type": "Quick Use",
           "quantity": 5
         }
       ],
@@ -311,13 +311,13 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "dam-testing-annex-key",
-          "itemId": "dam-testing-annex-key",
-          "name": "Dam Testing Annex Key",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/dam-testing-annex-key.webp",
+          "id": "smoke-grenade",
+          "itemId": "smoke-grenade",
+          "name": "Smoke Grenade",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/smoke-grenade.webp",
           "rarity": "Rare",
-          "type": "Key",
-          "quantity": 1
+          "type": "Recyclable",
+          "quantity": 2
         },
         {
           "id": "zipline",
@@ -329,13 +329,13 @@
           "quantity": 3
         },
         {
-          "id": "smoke-grenade",
-          "itemId": "smoke-grenade",
-          "name": "Smoke Grenade",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/smoke-grenade.webp",
+          "id": "dam-testing-annex-key",
+          "itemId": "dam-testing-annex-key",
+          "name": "Dam Testing Annex Key",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/dam-testing-annex-key.webp",
           "rarity": "Rare",
-          "type": "Recyclable",
-          "quantity": 2
+          "type": "Key",
+          "quantity": 1
         }
       ],
       "locations": [
@@ -472,13 +472,13 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "smoke-grenade",
-          "itemId": "smoke-grenade",
-          "name": "Smoke Grenade",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/smoke-grenade.webp",
-          "rarity": "Rare",
-          "type": "Recyclable",
-          "quantity": 3
+          "id": "blue-yellow-aviator-color",
+          "itemId": "blue-yellow-aviator-color",
+          "name": "Blue Yellow (Aviator Color)",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/blue-yellow-aviator-color.webp",
+          "rarity": "Common",
+          "type": "Misc",
+          "quantity": 1
         },
         {
           "id": "defibrillator",
@@ -490,13 +490,13 @@
           "quantity": 3
         },
         {
-          "id": "blue-yellow-aviator-color",
-          "itemId": "blue-yellow-aviator-color",
-          "name": "Blue Yellow (Aviator Color)",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/blue-yellow-aviator-color.webp",
-          "rarity": "Common",
-          "type": "Misc",
-          "quantity": 1
+          "id": "smoke-grenade",
+          "itemId": "smoke-grenade",
+          "name": "Smoke Grenade",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/smoke-grenade.webp",
+          "rarity": "Rare",
+          "type": "Recyclable",
+          "quantity": 3
         }
       ],
       "locations": [],
@@ -529,15 +529,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "mod-components",
-          "itemId": "mod-components",
-          "name": "Mod Components",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/mod-components.webp",
-          "rarity": "Rare",
-          "type": "Refined Material",
-          "quantity": 3
-        },
-        {
           "id": "duct-tape-recipe",
           "itemId": "duct-tape-recipe",
           "name": "Duct Tape",
@@ -545,6 +536,15 @@
           "rarity": "Uncommon",
           "type": "Topside Material",
           "quantity": 5
+        },
+        {
+          "id": "mod-components",
+          "itemId": "mod-components",
+          "name": "Mod Components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/mod-components.webp",
+          "rarity": "Rare",
+          "type": "Refined Material",
+          "quantity": 3
         },
         {
           "id": "aviator-outfit",
@@ -594,15 +594,6 @@
           "quantity": 1
         },
         {
-          "id": "zipline",
-          "itemId": "zipline",
-          "name": "Zipline",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/zipline.webp",
-          "rarity": "Rare",
-          "type": "Quick Use",
-          "quantity": 3
-        },
-        {
           "id": "pulse-mine",
           "itemId": "pulse-mine",
           "name": "Pulse Mine",
@@ -617,6 +608,15 @@
           "name": "Gas Mine",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/gas-mine.webp",
           "rarity": "Common",
+          "type": "Quick Use",
+          "quantity": 3
+        },
+        {
+          "id": "zipline",
+          "itemId": "zipline",
+          "name": "Zipline",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/zipline.webp",
+          "rarity": "Rare",
           "type": "Quick Use",
           "quantity": 3
         }
@@ -650,15 +650,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "rosary",
-          "itemId": "rosary",
-          "name": "Rosary",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/rosary.webp",
-          "rarity": "Rare",
-          "type": "Trinket",
-          "quantity": 1
-        },
-        {
           "id": "blue-light-stick",
           "itemId": "blue-light-stick",
           "name": "Blue Light Stick",
@@ -666,6 +657,15 @@
           "rarity": "Common",
           "type": "Quick Use",
           "quantity": 5
+        },
+        {
+          "id": "rosary",
+          "itemId": "rosary",
+          "name": "Rosary",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/rosary.webp",
+          "rarity": "Rare",
+          "type": "Trinket",
+          "quantity": 1
         },
         {
           "id": "noisemaker",
@@ -715,15 +715,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "renegade-i",
-          "itemId": "renegade-i",
-          "name": "Renegade I",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/renegade-i.webp",
-          "rarity": "Rare",
-          "type": "Weapon",
-          "quantity": 1
-        },
-        {
           "id": "stable-stock-iii",
           "itemId": "stable-stock-iii",
           "name": "Stable Stock III",
@@ -740,6 +731,15 @@
           "rarity": "Common",
           "type": "Ammunition",
           "quantity": 80
+        },
+        {
+          "id": "renegade-i",
+          "itemId": "renegade-i",
+          "name": "Renegade I",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/renegade-i.webp",
+          "rarity": "Rare",
+          "type": "Weapon",
+          "quantity": 1
         }
       ],
       "locations": [],
@@ -831,12 +831,12 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "arpeggio-i",
-          "itemId": "arpeggio-i",
-          "name": "Arpeggio I",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arpeggio-i.webp",
+          "id": "compensator-ii",
+          "itemId": "compensator-ii",
+          "name": "Compensator II",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/compensator-ii.webp",
           "rarity": "Uncommon",
-          "type": "Weapon",
+          "type": "Modification",
           "quantity": 1
         },
         {
@@ -849,12 +849,12 @@
           "quantity": 80
         },
         {
-          "id": "compensator-ii",
-          "itemId": "compensator-ii",
-          "name": "Compensator II",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/compensator-ii.webp",
+          "id": "arpeggio-i",
+          "itemId": "arpeggio-i",
+          "name": "Arpeggio I",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arpeggio-i.webp",
           "rarity": "Uncommon",
-          "type": "Modification",
+          "type": "Weapon",
           "quantity": 1
         }
       ],
@@ -896,6 +896,15 @@
       "requiredItems": [],
       "rewards": [
         {
+          "id": "explosive-mine",
+          "itemId": "explosive-mine",
+          "name": "Explosive Mine",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/explosive-mine.webp",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "quantity": 1
+        },
+        {
           "id": "jolt-mine",
           "itemId": "jolt-mine",
           "name": "Jolt Mine",
@@ -909,15 +918,6 @@
           "itemId": "heavy-fuze-grenade",
           "name": "Heavy Fuze Grenade",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/heavy-fuze-grenade.webp",
-          "rarity": "Rare",
-          "type": "Quick Use",
-          "quantity": 1
-        },
-        {
-          "id": "explosive-mine",
-          "itemId": "explosive-mine",
-          "name": "Explosive Mine",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/explosive-mine.webp",
           "rarity": "Rare",
           "type": "Quick Use",
           "quantity": 1
@@ -952,12 +952,12 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "magnetic-accelerator",
-          "itemId": "magnetic-accelerator",
-          "name": "Magnetic Accelerator",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/magnetic-accelerator.webp",
+          "id": "exodus-modules",
+          "itemId": "exodus-modules",
+          "name": "Exodus Modules",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/exodus-modules.webp",
           "rarity": "Epic",
-          "type": "Refined Material",
+          "type": "Topside Material",
           "quantity": 1
         },
         {
@@ -970,12 +970,12 @@
           "quantity": 3
         },
         {
-          "id": "exodus-modules",
-          "itemId": "exodus-modules",
-          "name": "Exodus Modules",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/exodus-modules.webp",
+          "id": "magnetic-accelerator",
+          "itemId": "magnetic-accelerator",
+          "name": "Magnetic Accelerator",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/magnetic-accelerator.webp",
           "rarity": "Epic",
-          "type": "Topside Material",
+          "type": "Refined Material",
           "quantity": 1
         }
       ],
@@ -1018,15 +1018,6 @@
       ],
       "rewards": [
         {
-          "id": "light-shield",
-          "itemId": "light-shield",
-          "name": "Light Shield",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/light-shield.webp",
-          "rarity": "Uncommon",
-          "type": "Shield",
-          "quantity": 1
-        },
-        {
           "id": "sterilized-bandage",
           "itemId": "sterilized-bandage",
           "name": "Sterilized Bandage",
@@ -1034,6 +1025,15 @@
           "rarity": "Rare",
           "type": "Quick Use",
           "quantity": 3
+        },
+        {
+          "id": "light-shield",
+          "itemId": "light-shield",
+          "name": "Light Shield",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/light-shield.webp",
+          "rarity": "Uncommon",
+          "type": "Shield",
+          "quantity": 1
         },
         {
           "id": "black-hiker-colour",
@@ -1122,15 +1122,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "crimson-racer-aviator-colour",
-          "itemId": "crimson-racer-aviator-colour",
-          "name": "Crimson Racer (Aviator Colour)",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/crimson-racer-aviator-colour.webp",
-          "rarity": "Common",
-          "type": "Misc",
-          "quantity": 1
-        },
-        {
           "id": "anvil-iii",
           "itemId": "anvil-iii",
           "name": "Anvil III",
@@ -1147,6 +1138,15 @@
           "rarity": "Common",
           "type": "Ammunition",
           "quantity": 40
+        },
+        {
+          "id": "crimson-racer-aviator-colour",
+          "itemId": "crimson-racer-aviator-colour",
+          "name": "Crimson Racer (Aviator Colour)",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/crimson-racer-aviator-colour.webp",
+          "rarity": "Common",
+          "type": "Misc",
+          "quantity": 1
         }
       ],
       "locations": [],
@@ -1178,19 +1178,19 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "defibrillator",
-          "itemId": "defibrillator",
-          "name": "Defibrillator",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/defibrillator.webp",
+          "id": "trailblazer-grenade",
+          "itemId": "trailblazer-grenade",
+          "name": "Trailblazer Grenade",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/trailblazer-grenade.webp",
           "rarity": "Rare",
           "type": "Quick Use",
           "quantity": 3
         },
         {
-          "id": "trailblazer-grenade",
-          "itemId": "trailblazer-grenade",
-          "name": "Trailblazer Grenade",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/trailblazer-grenade.webp",
+          "id": "defibrillator",
+          "itemId": "defibrillator",
+          "name": "Defibrillator",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/defibrillator.webp",
           "rarity": "Rare",
           "type": "Quick Use",
           "quantity": 3
@@ -1271,6 +1271,15 @@
       "grantedItems": [],
       "requiredItems": [
         {
+          "id": "great-muullein",
+          "itemId": "great-muullein",
+          "name": "Great Mullein",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/great-muullein.webp",
+          "rarity": "Uncommon",
+          "type": "Nature",
+          "quantity": 1
+        },
+        {
           "id": "syringe",
           "itemId": "syringe",
           "name": "Syringe",
@@ -1295,15 +1304,6 @@
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/durable-cloth.webp",
           "rarity": "Uncommon",
           "type": "Refined Material",
-          "quantity": 1
-        },
-        {
-          "id": "great-muullein",
-          "itemId": "great-muullein",
-          "name": "Great Mullein",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/great-muullein.webp",
-          "rarity": "Uncommon",
-          "type": "Nature",
           "quantity": 1
         }
       ],
@@ -1422,21 +1422,21 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "combat-mk-1",
-          "itemId": "combat-mk-1",
-          "name": "Combat Mk. 1",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/combat-mk-1.webp",
-          "rarity": "Uncommon",
-          "type": "Augment",
-          "quantity": 1
-        },
-        {
           "id": "medium-shield",
           "itemId": "medium-shield",
           "name": "Medium Shield",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/medium-shield.webp",
           "rarity": "Rare",
           "type": "Shield",
+          "quantity": 1
+        },
+        {
+          "id": "combat-mk-1",
+          "itemId": "combat-mk-1",
+          "name": "Combat Mk. 1",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/combat-mk-1.webp",
+          "rarity": "Uncommon",
+          "type": "Augment",
           "quantity": 1
         }
       ],
@@ -1479,15 +1479,6 @@
           "quantity": 6
         },
         {
-          "id": "processor",
-          "itemId": "processor",
-          "name": "Processor",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/processor.webp",
-          "rarity": "Rare",
-          "type": "Topside Material",
-          "quantity": 2
-        },
-        {
           "id": "music-box",
           "itemId": "music-box",
           "name": "Music Box",
@@ -1495,6 +1486,15 @@
           "rarity": "Rare",
           "type": "Trinket",
           "quantity": 1
+        },
+        {
+          "id": "processor",
+          "itemId": "processor",
+          "name": "Processor",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/processor.webp",
+          "rarity": "Rare",
+          "type": "Topside Material",
+          "quantity": 2
         }
       ],
       "locations": [
@@ -1533,15 +1533,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "adrenaline-shot",
-          "itemId": "adrenaline-shot",
-          "name": "Adrenaline Shot",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/adrenaline-shot.webp",
-          "rarity": "Common",
-          "type": "Quick Use",
-          "quantity": 3
-        },
-        {
           "id": "coffee-pot",
           "itemId": "coffee-pot",
           "name": "Coffee Pot",
@@ -1549,6 +1540,15 @@
           "rarity": "Common",
           "type": "Trinket",
           "quantity": 1
+        },
+        {
+          "id": "adrenaline-shot",
+          "itemId": "adrenaline-shot",
+          "name": "Adrenaline Shot",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/adrenaline-shot.webp",
+          "rarity": "Common",
+          "type": "Quick Use",
+          "quantity": 3
         }
       ],
       "locations": [],
@@ -1767,15 +1767,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "lure-grenade-recipe",
-          "itemId": "lure-grenade-recipe",
-          "name": "Lure Grenade Blueprint",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/lure-grenade.webp",
-          "rarity": "Legendary",
-          "type": "Blueprint",
-          "quantity": 1
-        },
-        {
           "id": "speaker-component",
           "itemId": "speaker-component",
           "name": "Speaker Component",
@@ -1783,6 +1774,15 @@
           "rarity": "Rare",
           "type": "Topside Material",
           "quantity": 3
+        },
+        {
+          "id": "lure-grenade-recipe",
+          "itemId": "lure-grenade-recipe",
+          "name": "Lure Grenade Blueprint",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/lure-grenade.webp",
+          "rarity": "Legendary",
+          "type": "Blueprint",
+          "quantity": 1
         },
         {
           "id": "electrical-components",
@@ -1834,21 +1834,21 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "power-rod",
-          "itemId": "power-rod",
-          "name": "Power Rod",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/power-rod.webp",
-          "rarity": "Epic",
-          "type": "Advanced Material",
-          "quantity": 1
-        },
-        {
           "id": "tangerine-warden-color",
           "itemId": "tangerine-warden-color",
           "name": "Tangerine (Warden Color)",
           "icon": "",
           "rarity": "Common",
           "type": "Misc",
+          "quantity": 1
+        },
+        {
+          "id": "power-rod",
+          "itemId": "power-rod",
+          "name": "Power Rod",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/power-rod.webp",
+          "rarity": "Epic",
+          "type": "Advanced Material",
           "quantity": 1
         }
       ],
@@ -1944,15 +1944,6 @@
       ],
       "rewards": [
         {
-          "id": "burltetta-recipe",
-          "itemId": "burltetta-recipe",
-          "name": "Burletta Blueprint",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/burltetta-recipe.webp",
-          "rarity": "Legendary",
-          "type": "Blueprint",
-          "quantity": 1
-        },
-        {
           "id": "mechanical-components",
           "itemId": "mechanical-components",
           "name": "Mechanical Components",
@@ -1969,6 +1960,15 @@
           "rarity": "Uncommon",
           "type": "Topside Material",
           "quantity": 3
+        },
+        {
+          "id": "burltetta-recipe",
+          "itemId": "burltetta-recipe",
+          "name": "Burletta Blueprint",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/burltetta-recipe.webp",
+          "rarity": "Legendary",
+          "type": "Blueprint",
+          "quantity": 1
         }
       ],
       "locations": [],
@@ -1999,15 +1999,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "looting-mk-2",
-          "itemId": "looting-mk-2",
-          "name": "Looting Mk. 2",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/looting-mk-2.webp",
-          "rarity": "Rare",
-          "type": "Augment",
-          "quantity": 1
-        },
-        {
           "id": "green-light-stick",
           "itemId": "green-light-stick",
           "name": "Green Light Stick",
@@ -2015,6 +2006,15 @@
           "rarity": "Common",
           "type": "Quick Use",
           "quantity": 5
+        },
+        {
+          "id": "looting-mk-2",
+          "itemId": "looting-mk-2",
+          "name": "Looting Mk. 2",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/looting-mk-2.webp",
+          "rarity": "Rare",
+          "type": "Augment",
+          "quantity": 1
         }
       ],
       "locations": [],
@@ -2054,15 +2054,6 @@
       ],
       "rewards": [
         {
-          "id": "radio-renegade-outfit",
-          "itemId": "radio-renegade-outfit",
-          "name": "Radio Renegade (Outfit)",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/radio-renegade-outfit.webp",
-          "rarity": "",
-          "type": "Misc",
-          "quantity": 1
-        },
-        {
           "id": "burgerboy-backpack-charm",
           "itemId": "burgerboy-backpack-charm",
           "name": "Burgerboy (Backpack Charm)",
@@ -2078,6 +2069,15 @@
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/vulcano-iii.webp",
           "rarity": "Epic",
           "type": "Weapon",
+          "quantity": 1
+        },
+        {
+          "id": "radio-renegade-outfit",
+          "itemId": "radio-renegade-outfit",
+          "name": "Radio Renegade (Outfit)",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/radio-renegade-outfit.webp",
+          "rarity": "",
+          "type": "Misc",
           "quantity": 1
         },
         {
@@ -2120,15 +2120,6 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "simple-gun-parts",
-          "itemId": "simple-gun-parts",
-          "name": "Simple Gun Parts",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/simple-gun-parts.webp",
-          "rarity": "Uncommon",
-          "type": "Topside Material",
-          "quantity": 5
-        },
-        {
           "id": "duct-tape-recipe",
           "itemId": "duct-tape-recipe",
           "name": "Duct Tape",
@@ -2142,6 +2133,15 @@
           "itemId": "magnet",
           "name": "Magnet",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/magnet.webp",
+          "rarity": "Uncommon",
+          "type": "Topside Material",
+          "quantity": 5
+        },
+        {
+          "id": "simple-gun-parts",
+          "itemId": "simple-gun-parts",
+          "name": "Simple Gun Parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/simple-gun-parts.webp",
           "rarity": "Uncommon",
           "type": "Topside Material",
           "quantity": 5
@@ -2283,19 +2283,19 @@
       "requiredItems": [],
       "rewards": [
         {
-          "id": "shotgun-choke-ii",
-          "itemId": "shotgun-choke-ii",
-          "name": "Shotgun Choke II",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/shotgun-choke-ii.webp",
+          "id": "angled-grip-ii",
+          "itemId": "angled-grip-ii",
+          "name": "Angled Grip II",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/angled-grip-ii.webp",
           "rarity": "Uncommon",
           "type": "Modification",
           "quantity": 1
         },
         {
-          "id": "angled-grip-ii",
-          "itemId": "angled-grip-ii",
-          "name": "Angled Grip II",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/angled-grip-ii.webp",
+          "id": "shotgun-choke-ii",
+          "itemId": "shotgun-choke-ii",
+          "name": "Shotgun Choke II",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/shotgun-choke-ii.webp",
           "rarity": "Uncommon",
           "type": "Modification",
           "quantity": 1
