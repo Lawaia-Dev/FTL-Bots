@@ -705,7 +705,7 @@
     "created_at": "2025-10-09T08:41:00.665851+00:00",
     "description": "Lets you craft an Angled Grip II",
     "flavor_text": "",
-    "game_asset_id": null,
+    "game_asset_id": -709850700,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/angled-grip-ii.webp",
     "id": "angled-grip-ii-recipe",
@@ -770,7 +770,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "",
-    "updated_at": "2025-11-25T23:41:53.186785+00:00",
+    "updated_at": "2026-01-09T21:25:10.143056+00:00",
     "value": 5000,
     "workbench": null
   },
@@ -839,7 +839,7 @@
     "created_at": "2025-10-09T07:57:24.883302+00:00",
     "description": "Lets you craft an Angled Grip III",
     "flavor_text": "",
-    "game_asset_id": null,
+    "game_asset_id": -2113309921,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/angled-grip-iii-recipe.webp",
     "id": "angled-grip-iii-recipe",
@@ -904,7 +904,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "",
-    "updated_at": "2025-12-29T12:35:58.696674+00:00",
+    "updated_at": "2026-01-09T22:01:03.17411+00:00",
     "value": 5000,
     "workbench": null
   },
@@ -1424,7 +1424,7 @@
     "created_at": "2025-11-13T10:37:57.481584+00:00",
     "description": "Lets you craft an Aphelion Rifle",
     "flavor_text": "",
-    "game_asset_id": null,
+    "game_asset_id": -692327830,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/aphelion-rifle-blueprint.webp",
     "id": "aphelion-rifle-blueprint",
@@ -1489,7 +1489,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "",
-    "updated_at": "2025-12-30T14:44:14.922174+00:00",
+    "updated_at": "2026-01-11T01:44:01.596473+00:00",
     "value": 5000,
     "workbench": null
   },
@@ -1652,7 +1652,7 @@
     "created_at": "2025-10-08T13:08:49.589736+00:00",
     "description": "Obtained from ARC enemies or activities. Can be recycled into chemicals",
     "flavor_text": "",
-    "game_asset_id": null,
+    "game_asset_id": 421801273,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-coolant.webp",
     "id": "arc-coolant",
@@ -1717,7 +1717,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "",
-    "updated_at": "2025-12-11T14:40:01.028222+00:00",
+    "updated_at": "2026-01-08T23:13:48.936152+00:00",
     "value": 1000,
     "workbench": null
   },
@@ -1880,7 +1880,7 @@
     "created_at": "2025-10-08T15:15:16.117639+00:00",
     "description": "Obtained from ARC enemies or activities. Can be recycled into scrap metal.",
     "flavor_text": "",
-    "game_asset_id": null,
+    "game_asset_id": -1068126131,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-performance-steel.webp",
     "id": "arc-performance-steel",
@@ -1945,7 +1945,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "",
-    "updated_at": "2025-12-11T14:39:06.009537+00:00",
+    "updated_at": "2026-01-09T22:36:01.467847+00:00",
     "value": 1000,
     "workbench": null
   },
@@ -2031,7 +2031,7 @@
     "created_at": "2025-10-08T15:16:31.235564+00:00",
     "description": "Obtained from ARC enemies or activities. Can be recycled into plastic.",
     "flavor_text": "",
-    "game_asset_id": null,
+    "game_asset_id": 10866537,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-synthetic-resin.webp",
     "id": "arc-synthetic-resin",
@@ -2096,7 +2096,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "",
-    "updated_at": "2025-12-11T16:31:37.65809+00:00",
+    "updated_at": "2026-01-08T23:34:48.776371+00:00",
     "value": 1000,
     "workbench": null
   },
@@ -2105,7 +2105,7 @@
     "created_at": "2025-10-08T15:17:16.489343+00:00",
     "description": "Obtained from ARC enemies and activities. Can be recycled into fabric.",
     "flavor_text": "",
-    "game_asset_id": null,
+    "game_asset_id": 1533374440,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-thermo-lining.webp",
     "id": "arc-thermo-lining",
@@ -2120,6 +2120,7 @@
     "stat_block": {
       "range": 0,
       "damage": 0,
+      "health": 0,
       "radius": 0,
       "shield": 0,
       "weight": 1,
@@ -2136,6 +2137,10 @@
       "damageMult": 0,
       "raiderStun": 0,
       "weightLimit": 0,
+      "augmentSlots": 0,
+      "healingSlots": 0,
+      "magazineSize": 0,
+      "reducedNoise": 0,
       "shieldCharge": 0,
       "backpackSlots": 0,
       "quickUseSlots": 0,
@@ -2149,15 +2154,23 @@
       "increasedADSSpeed": 0,
       "increasedFireRate": 0,
       "reducedReloadTime": 0,
+      "illuminationRadius": 0,
+      "increasedEquipTime": 0,
       "reducedUnequipTime": 0,
       "shieldCompatibility": "",
+      "increasedUnequipTime": 0,
       "reducedVerticalRecoil": 0,
+      "increasedBulletVelocity": 0,
       "increasedVerticalRecoil": 0,
+      "reducedMaxShotDispersion": 0,
+      "reducedPerShotDispersion": 0,
       "reducedDurabilityBurnRate": 0,
-      "increasedRecoilRecoveryTime": 0
+      "reducedRecoilRecoveryTime": 0,
+      "increasedRecoilRecoveryTime": 0,
+      "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "",
-    "updated_at": "2025-10-28T12:58:32.940898+00:00",
+    "updated_at": "2026-01-10T00:16:57.858669+00:00",
     "value": 1000,
     "workbench": null
   },
@@ -2166,7 +2179,7 @@
     "created_at": "2025-09-23T18:21:03.51415+00:00",
     "description": "Has decent damage output and accuracy.",
     "flavor_text": "Somewhat effective against ARC armor plating",
-    "game_asset_id": null,
+    "game_asset_id": -1174500500,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/arpeggio-i.webp",
     "id": "arpeggio-i",
@@ -2235,7 +2248,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "Assault Rifle",
-    "updated_at": "2025-11-04T00:43:36.38532+00:00",
+    "updated_at": "2026-01-08T14:44:34.479556+00:00",
     "value": 5500,
     "workbench": "Weapon Bench"
   },
@@ -2244,7 +2257,7 @@
     "created_at": "2025-10-09T07:48:50.636132+00:00",
     "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
     "flavor_text": "Somewhat effective against ARC armor plating",
-    "game_asset_id": null,
+    "game_asset_id": -1010165368,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/arpeggio-ii.webp",
     "id": "arpeggio-ii",
@@ -2309,7 +2322,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "Assault Rifle",
-    "updated_at": "2025-12-10T13:39:33.946102+00:00",
+    "updated_at": "2026-01-08T14:46:50.220203+00:00",
     "value": 8000,
     "workbench": "Weapon Bench I"
   },
@@ -2318,7 +2331,7 @@
     "created_at": "2025-09-23T18:21:03.51415+00:00",
     "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
     "flavor_text": null,
-    "game_asset_id": null,
+    "game_asset_id": -868064320,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/arpeggio-ii.webp",
     "id": "arpeggio-iii",
@@ -2385,7 +2398,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "Assault Rifle",
-    "updated_at": "2025-11-04T00:44:47.30443+00:00",
+    "updated_at": "2026-01-08T15:07:52.259468+00:00",
     "value": 11500,
     "workbench": null
   },
@@ -2394,7 +2407,7 @@
     "created_at": "2025-09-23T18:21:03.51415+00:00",
     "description": "A 3-round burst assault rifle with decent damage output and accuracy.",
     "flavor_text": null,
-    "game_asset_id": null,
+    "game_asset_id": 1657712312,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/arpeggio-ii.webp",
     "id": "arpeggio-iv",
@@ -2461,7 +2474,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "Assault Rifle",
-    "updated_at": "2025-11-04T00:48:18.55743+00:00",
+    "updated_at": "2026-01-08T15:08:42.388396+00:00",
     "value": 15000,
     "workbench": null
   },
@@ -3142,7 +3155,7 @@
     "created_at": "2025-11-04T00:59:51.515819+00:00",
     "description": "Has slow fire rate and high damage output.",
     "flavor_text": "",
-    "game_asset_id": null,
+    "game_asset_id": 392764783,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/bettina-ii.webp",
     "id": "bettina-ii",
@@ -3207,7 +3220,7 @@
       "reducedDispersionRecoveryTime": 0
     },
     "subcategory": "Assault Rifle ",
-    "updated_at": "2025-11-04T01:10:55.9807+00:00",
+    "updated_at": "2026-01-08T14:44:56.101395+00:00",
     "value": 11000,
     "workbench": "Weapon Bench"
   },
@@ -3497,9 +3510,12 @@
       "chemicals": 1,
       "plastic_parts": 1
     },
+    "salvagesInto": {
+      "chemicals": 2
+    },
     "stackSize": 5,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 300,
     "weightKg": 0.15
   },
@@ -3685,9 +3701,12 @@
       "chemicals": 1,
       "processor": 1
     },
+    "salvagesInto": {
+      "processor": 1
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.4
   },
@@ -3772,8 +3791,11 @@
     "recyclesInto": {
       "plastic_parts": 6
     },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
     "type": "Modification",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.25
   },
@@ -3825,10 +3847,16 @@
       "he": "גיטרה אקוסטית"
     },
     "rarity": "Legendary",
-    "recyclesInto": {},
+    "recyclesInto": {
+      "metal_parts": 4,
+      "wires": 6
+    },
+    "salvagesInto": {
+      "wires": 3
+    },
     "stackSize": 1,
     "type": "Quick Use",
-    "updatedAt": "12/17/2025",
+    "updatedAt": "01/09/2026",
     "value": 7000,
     "weightKg": 1
   },
@@ -4021,9 +4049,12 @@
     "recyclesInto": {
       "arc_powercell": 2
     },
+    "salvagesInto": {
+      "arc_powercell": 1
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "11/05/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.5
   },
@@ -4150,11 +4181,14 @@
     },
     "recyclesInto": {
       "mechanical_components": 1,
-      "wires": 1
+      "steel_spring": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 1
     },
     "stackSize": 5,
     "type": "Refined Material",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 1750,
     "weightKg": 1
   },
@@ -4256,7 +4290,7 @@
     },
     "flavor_text": null,
     "foundIn": "Nature",
-    "game_asset_id": null,
+    "game_asset_id": -127927282,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/agave.webp",
     "id": "agave",
@@ -4288,12 +4322,19 @@
       "he": "אגבה"
     },
     "rarity": "Uncommon",
+    "recyclesInto": {
+      "assorted_seeds": 3
+    },
+    "salvagesInto": {
+      "assorted_seeds": 2
+    },
     "shield_type": null,
     "sources": null,
     "stackSize": 10,
     "stat_block": {
       "range": 0,
       "damage": 0,
+      "health": 0,
       "radius": 0,
       "shield": 0,
       "weight": 0.2,
@@ -4310,6 +4351,10 @@
       "damageMult": 0,
       "raiderStun": 0,
       "weightLimit": 0,
+      "augmentSlots": 0,
+      "healingSlots": 0,
+      "magazineSize": 0,
+      "reducedNoise": 0,
       "shieldCharge": 0,
       "backpackSlots": 0,
       "quickUseSlots": 0,
@@ -4323,17 +4368,25 @@
       "increasedADSSpeed": 0,
       "increasedFireRate": 0,
       "reducedReloadTime": 0,
+      "illuminationRadius": 0,
+      "increasedEquipTime": 0,
       "reducedUnequipTime": 0,
       "shieldCompatibility": "",
+      "increasedUnequipTime": 0,
       "reducedVerticalRecoil": 0,
+      "increasedBulletVelocity": 0,
       "increasedVerticalRecoil": 0,
+      "reducedMaxShotDispersion": 0,
+      "reducedPerShotDispersion": 0,
       "reducedDurabilityBurnRate": 0,
-      "increasedRecoilRecoveryTime": 0
+      "reducedRecoilRecoveryTime": 0,
+      "increasedRecoilRecoveryTime": 0,
+      "reducedDispersionRecoveryTime": 0
     },
     "subcategory": null,
     "type": "Nature",
-    "updatedAt": "11/05/2025",
-    "updated_at": "2025-10-28T12:58:32.940898+00:00",
+    "updatedAt": "01/09/2026",
+    "updated_at": "2026-01-11T01:46:15.009371+00:00",
     "value": 1000,
     "weightKg": 0.2,
     "workbench": null
@@ -4533,8 +4586,14 @@
       "plastic_parts": 6,
       "duct_tape": 1
     },
+    "recyclesInto": {
+      "plastic_parts": 6
+    },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
     "type": "Modification",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.25
   },
@@ -4681,9 +4740,12 @@
       "mechanical_components": 1,
       "duct_tape": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "stationLevelRequired": 2,
     "type": "Modification",
-    "updatedAt": "11/05/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -4846,9 +4908,12 @@
       "mod_components": 1,
       "duct_tape": 2
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.75
   },
@@ -4922,6 +4987,9 @@
     "recyclesInto": {
       "chemicals": 10
     },
+    "salvagesInto": {
+      "chemicals": 5
+    },
     "shield_type": null,
     "sources": null,
     "stackSize": 5,
@@ -4979,7 +5047,7 @@
     },
     "subcategory": null,
     "type": "Refined Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "updated_at": "2026-01-07T13:20:57.347572+00:00",
     "value": 1000,
     "weightKg": 1,
@@ -6005,8 +6073,11 @@
       "mod_components": 1,
       "processor": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "type": "Modification",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "01/09/2026",
     "value": 7000,
     "weightKg": 0.5
   },
@@ -6301,7 +6372,7 @@
     },
     "flavor_text": null,
     "foundIn": "Nature",
-    "game_asset_id": null,
+    "game_asset_id": 1219069540,
     "guide_links": [],
     "icon": "https://cdn.metaforge.app/arc-raiders/icons/apricot.webp",
     "id": "apricot",
@@ -6338,6 +6409,9 @@
     "rarity": "Uncommon",
     "recyclesInto": {
       "assorted_seeds": 3
+    },
+    "salvagesInto": {
+      "assorted_seeds": 2
     },
     "shield_type": null,
     "sources": null,
@@ -6396,8 +6470,8 @@
     },
     "subcategory": null,
     "type": "Nature",
-    "updatedAt": "12/07/2025",
-    "updated_at": "2025-12-11T15:52:43.685788+00:00",
+    "updatedAt": "01/09/2026",
+    "updated_at": "2026-01-11T01:44:22.528945+00:00",
     "value": 640,
     "weightKg": 0.2,
     "workbench": null
@@ -6454,9 +6528,12 @@
     "recyclesInto": {
       "metal_parts": 2
     },
+    "salvagesInto": {
+      "metal_parts": 1
+    },
     "stackSize": 15,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 200,
     "weightKg": 0.25
   },
@@ -6516,9 +6593,12 @@
     "recyclesInto": {
       "arc_alloy": 2
     },
+    "salvagesInto": {
+      "arc_alloy": 1
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.3
   },
@@ -6700,9 +6780,12 @@
     "recyclesInto": {
       "arc_alloy": 2
     },
+    "salvagesInto": {
+      "arc_alloy": 1
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.3
   },
@@ -6947,11 +7030,11 @@
       "plastic_parts": 14
     },
     "salvagesInto": {
-      "plastic_parts": 8
+      "plastic_parts": 9
     },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 1
   },
@@ -7187,8 +7270,15 @@
       "mechanical_components": 6,
       "simple_gun_parts": 6
     },
+    "recyclesInto": {
+      "mechanical_components": 2,
+      "simple_gun_parts": 2
+    },
+    "salvagesInto": {
+      "simple_gun_parts": 2
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "value": 5500,
     "weightKg": 7
   },
@@ -7405,8 +7495,15 @@
       "he": "ארפג'יו II"
     },
     "rarity": "Uncommon",
+    "recyclesInto": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 3
+    },
+    "salvagesInto": {
+      "simple_gun_parts": 3
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 4,
       "simple_gun_parts": 1
@@ -7627,8 +7724,15 @@
       "he": "ארפג'יו III"
     },
     "rarity": "Uncommon",
+    "recyclesInto": {
+      "mechanical_components": 4,
+      "simple_gun_parts": 4
+    },
+    "salvagesInto": {
+      "simple_gun_parts": 4
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 5,
       "medium_gun_parts": 1
@@ -7853,8 +7957,11 @@
       "mechanical_components": 5,
       "simple_gun_parts": 5
     },
+    "salvagesInto": {
+      "simple_gun_parts": 5
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 5,
       "medium_gun_parts": 1
@@ -8162,6 +8269,9 @@
     "recyclesInto": {
       "fabric": 2
     },
+    "salvagesInto": {
+      "fabric": 1
+    },
     "shield_type": null,
     "sources": null,
     "stackSize": 5,
@@ -8219,7 +8329,7 @@
     },
     "subcategory": null,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "updated_at": "2026-01-06T23:08:47.716228+00:00",
     "value": 250,
     "weightKg": 0.1,
@@ -8381,10 +8491,13 @@
     "recyclesInto": {
       "metal_parts": 4
     },
+    "salvagesInto": {
+      "metal_parts": 3
+    },
     "stackSize": 3,
     "stationLevelRequired": 1,
     "type": "Quick Use",
-    "updatedAt": "11/13/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.4
   },
@@ -8803,8 +8916,15 @@
       "heavy_gun_parts": 3,
       "canister": 3
     },
+    "recyclesInto": {
+      "advanced_mechanical_components": 1,
+      "heavy_gun_parts": 2
+    },
+    "salvagesInto": {
+      "advanced_mechanical_components": 1
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/09/2025",
+    "updatedAt": "01/09/2026",
     "value": 8000,
     "weightKg": 11
   },
@@ -9021,8 +9141,15 @@
       "he": "בטינה II"
     },
     "rarity": "Epic",
+    "recyclesInto": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 2
+    },
+    "salvagesInto": {
+      "advanced_mechanical_components": 2
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "heavy_gun_parts": 2
@@ -9243,8 +9370,15 @@
       "he": "בטינה III"
     },
     "rarity": "Epic",
+    "recyclesInto": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 3
+    },
+    "salvagesInto": {
+      "advanced_mechanical_components": 3
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "heavy_gun_parts": 2
@@ -9465,8 +9599,15 @@
       "he": "בטינה IV"
     },
     "rarity": "Epic",
+    "recyclesInto": {
+      "advanced_mechanical_components": 3,
+      "heavy_gun_parts": 3
+    },
+    "salvagesInto": {
+      "advanced_mechanical_components": 4
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "heavy_gun_parts": 2
@@ -9618,8 +9759,11 @@
       "rubber_parts": 2,
       "plastic_parts": 4
     },
+    "salvagesInto": {
+      "plastic_parts": 4
+    },
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.5
   },
@@ -9912,10 +10056,13 @@
       "oil": 2,
       "metal_parts": 4
     },
+    "salvagesInto": {
+      "oil": 1
+    },
     "stackSize": 5,
     "stationLevelRequired": 3,
     "type": "Quick Use",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 1600,
     "weightKg": 0.2
   },
@@ -10445,10 +10592,13 @@
     "recyclesInto": {
       "chemicals": 1
     },
+    "salvagesInto": {
+      "chemicals": 1
+    },
     "stackSize": 5,
     "stationLevelRequired": 2,
     "type": "Quick Use",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 150,
     "weightKg": 0.75
   },
@@ -12287,9 +12437,12 @@
       "sensors": 3,
       "wires": 2
     },
+    "salvagesInto": {
+      "sensors": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -12346,9 +12499,12 @@
       "battery": 2,
       "wires": 2
     },
+    "salvagesInto": {
+      "battery": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 2
   },
@@ -12847,8 +13003,11 @@
       "mechanical_components": 1,
       "simple_gun_parts": 2
     },
+    "salvagesInto": {
+      "simple_gun_parts": 2
+    },
     "type": "Pistol",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2900,
     "weightKg": 4
   },
@@ -12905,8 +13064,11 @@
       "mechanical_components": 2,
       "simple_gun_parts": 2
     },
+    "salvagesInto": {
+      "simple_gun_parts": 2
+    },
     "type": "Pistol",
-    "updatedAt": "11/24/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 3,
       "simple_gun_parts": 1
@@ -12967,8 +13129,11 @@
       "mechanical_components": 3,
       "simple_gun_parts": 3
     },
+    "salvagesInto": {
+      "simple_gun_parts": 3
+    },
     "type": "Pistol",
-    "updatedAt": "11/24/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 3,
       "simple_gun_parts": 1
@@ -13029,8 +13194,11 @@
       "mechanical_components": 4,
       "simple_gun_parts": 4
     },
+    "salvagesInto": {
+      "simple_gun_parts": 3
+    },
     "type": "Pistol",
-    "updatedAt": "11/24/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 4,
       "light_gun_parts": 1
@@ -13386,9 +13554,12 @@
     "recyclesInto": {
       "plastic_parts": 3
     },
+    "salvagesInto": {
+      "plastic_parts": 1
+    },
     "stackSize": 15,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 300,
     "weightKg": 0.25
   },
@@ -13789,8 +13960,11 @@
       "plastic_parts": 3,
       "rubber_parts": 3
     },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
     "type": "Augment",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 2
   },
@@ -13945,8 +14119,11 @@
       "magnet": 1,
       "electrical_components": 1
     },
+    "salvagesInto": {
+      "electrical_components": 1
+    },
     "type": "Augment",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -14252,9 +14429,12 @@
       "processor": 2
     },
     "repairDurability": 50,
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Augment",
-    "updatedAt": "11/13/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 5
   },
@@ -14560,9 +14740,12 @@
       "processor": 2
     },
     "repairDurability": 50,
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Augment",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 5
   },
@@ -14858,8 +15041,11 @@
       "mechanical_components": 1,
       "wires": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "type": "Modification",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -15058,12 +15244,15 @@
       "wires": 8
     },
     "recyclesInto": {
-      "mechanical_components": 1,
-      "wires": 2
+      "wires": 2,
+      "mod_components": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 1
     },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.75
   },
@@ -15178,9 +15367,12 @@
     "recyclesInto": {
       "simple_gun_parts": 3
     },
+    "salvagesInto": {
+      "simple_gun_parts": 2
+    },
     "stackSize": 3,
     "type": "Topside Material",
-    "updatedAt": "11/21/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1
   },
@@ -15299,9 +15491,12 @@
       "chemicals": 6,
       "steel_spring": 2
     },
+    "salvagesInto": {
+      "steel_spring": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 2
   },
@@ -15358,9 +15553,12 @@
       "plastic_parts": 14,
       "wires": 4
     },
+    "salvagesInto": {
+      "wires": 4
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -15417,9 +15615,12 @@
       "rubber_parts": 3,
       "battery": 3
     },
+    "salvagesInto": {
+      "battery": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 2
   },
@@ -15914,14 +16115,14 @@
     },
     "rarity": "Uncommon",
     "recyclesInto": {
-      "arc_alloy": 2
+      "arc_alloy": 3
     },
     "salvagesInto": {
-      "arc_alloy": 1
+      "arc_alloy": 2
     },
     "stackSize": 5,
     "type": "Recyclable",
-    "updatedAt": "11/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.25
   },
@@ -16038,9 +16239,12 @@
     "recyclesInto": {
       "arc_alloy": 1
     },
+    "salvagesInto": {
+      "metal_parts": 1
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 270,
     "weightKg": 1
   },
@@ -16219,9 +16423,12 @@
     "recyclesInto": {
       "arc_alloy": 3
     },
+    "salvagesInto": {
+      "arc_alloy": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.25
   },
@@ -16636,11 +16843,15 @@
       "arc_circuitry": 2
     },
     "recyclesInto": {
+      "explosive_compound": 1,
+      "arc_circuitry": 1
+    },
+    "salvagesInto": {
       "explosive_compound": 1
     },
     "stackSize": 1,
     "type": "Quick Use",
-    "updatedAt": "11/21/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 1
   },
@@ -16803,9 +17014,12 @@
       "plastic_parts": 1,
       "moss": 1
     },
+    "salvagesInto": {
+      "chemicals": 2
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.75
   },
@@ -16859,14 +17073,15 @@
     },
     "rarity": "Uncommon",
     "recyclesInto": {
-      "rubber_parts": 15
+      "rubber_parts": 9,
+      "fabric": 9
     },
     "salvagesInto": {
       "rubber_parts": 9
     },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.8
   },
@@ -16983,9 +17198,12 @@
     "recyclesInto": {
       "rubber_parts": 12
     },
+    "salvagesInto": {
+      "rubber_parts": 5
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/23/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 2
   },
@@ -17107,9 +17325,12 @@
     "recyclesInto": {
       "metal_parts": 2
     },
+    "salvagesInto": {
+      "metal_parts": 1
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 270,
     "weightKg": 0.2
   },
@@ -17165,9 +17386,12 @@
     "recyclesInto": {
       "plastic_parts": 9
     },
+    "salvagesInto": {
+      "plastic_parts": 4
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 1
   },
@@ -17223,9 +17447,12 @@
     "recyclesInto": {
       "fabric": 3
     },
+    "salvagesInto": {
+      "fabric": 1
+    },
     "stackSize": 15,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 300,
     "weightKg": 0.25
   },
@@ -17285,9 +17512,12 @@
     "recyclesInto": {
       "fabric": 6
     },
+    "salvagesInto": {
+      "fabric": 2
+    },
     "stackSize": 10,
     "type": "Refined Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.25
   },
@@ -18258,13 +18488,16 @@
       "sensors": 1
     },
     "recyclesInto": {
-      "chemicals": 1,
-      "sensors": 1
+      "sensors": 1,
+      "oil": 2
+    },
+    "salvagesInto": {
+      "oil": 2
     },
     "stackSize": 3,
     "stationLevelRequired": 3,
     "type": "Quick Use",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 1500,
     "weightKg": 0.5
   },
@@ -18427,9 +18660,12 @@
       "mod_components": 1,
       "wires": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.5
   },
@@ -18665,9 +18901,12 @@
       "steel_spring": 1,
       "mechanical_components": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "stationLevelRequired": 2,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -18807,9 +19046,12 @@
       "mod_components": 1,
       "steel_spring": 2
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.75
   },
@@ -18891,8 +19133,14 @@
       "plastic_parts": 6,
       "steel_spring": 1
     },
+    "recyclesInto": {
+      "plastic_parts": 6
+    },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
     "type": "Modification",
-    "updatedAt": "11/22/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.25
   },
@@ -19027,8 +19275,15 @@
       "mechanical_components": 2,
       "steel_spring": 3
     },
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "steel_spring": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "type": "Modification",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -19193,8 +19448,11 @@
       "mod_components": 1,
       "steel_spring": 2
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "type": "Modification",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.75
   },
@@ -19330,9 +19588,16 @@
       "mechanical_components": 2,
       "steel_spring": 3
     },
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "steel_spring": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "stationLevelRequired": 2,
     "type": "Modification",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -19463,8 +19728,15 @@
       "he": "מחסנית מוגדלת לרובה ציד III"
     },
     "rarity": "Rare",
+    "recyclesInto": {
+      "mod_components": 1,
+      "steel_spring": 2
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "type": "Modification",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mod_components": 2,
       "steel_spring": 5
@@ -20015,8 +20287,11 @@
       "metal_parts": 4,
       "rubber_parts": 3
     },
+    "salvagesInto": {
+      "metal_parts": 2
+    },
     "type": "Battle Rifle",
-    "updatedAt": "11/24/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "metal_parts": 7
     },
@@ -20216,8 +20491,11 @@
       "metal_parts": 6,
       "simple_gun_parts": 1
     },
+    "salvagesInto": {
+      "simple_gun_parts": 1
+    },
     "type": "Battle Rifle",
-    "updatedAt": "11/24/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "metal_parts": 9,
       "simple_gun_parts": 1
@@ -20424,10 +20702,10 @@
       "materials": null
     },
     "salvagesInto": {
-      "metal_parts": 2
+      "simple_gun_parts": 2
     },
     "type": "Battle Rifle",
-    "updatedAt": "11/24/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 1,
       "simple_gun_parts": 1
@@ -20487,9 +20765,12 @@
     "recyclesInto": {
       "assorted_seeds": 2
     },
+    "salvagesInto": {
+      "assorted_seeds": 1
+    },
     "stackSize": 5,
     "type": "Nature",
-    "updatedAt": "11/04/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.4
   },
@@ -20728,9 +21009,12 @@
       "arc_alloy": 1,
       "chemicals": 1
     },
+    "salvagesInto": {
+      "arc_alloy": 1
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.5
   },
@@ -21205,8 +21489,15 @@
       "air_freshener": 1,
       "fireball_burner": 1
     },
+    "recyclesInto": {
+      "canister": 1,
+      "fireball_burner": 1
+    },
+    "salvagesInto": {
+      "fireball_burner": 1
+    },
     "type": "Quick Use",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 1
   },
@@ -21263,9 +21554,12 @@
       "advanced_mechanical_components": 1,
       "sensors": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -21375,9 +21669,12 @@
     "recyclesInto": {
       "explosive_compound": 3
     },
+    "salvagesInto": {
+      "explosive_compound": 2
+    },
     "stackSize": 3,
     "type": "Topside Material",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "01/09/2026",
     "value": 4000,
     "weightKg": 0.25
   },
@@ -21514,9 +21811,12 @@
       "advanced_electrical_components": 1,
       "speaker_component": 1
     },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -22095,9 +22395,12 @@
       "chemicals": 1,
       "rubber_parts": 1
     },
+    "salvagesInto": {
+      "chemicals": 1
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 270,
     "weightKg": 0.2
   },
@@ -22283,10 +22586,13 @@
       "chemicals": 1,
       "rubber_parts": 1
     },
+    "salvagesInto": {
+      "chemicals": 2
+    },
     "stackSize": 3,
     "stationLevelRequired": 1,
     "type": "Quick Use",
-    "updatedAt": "12/25/2025",
+    "updatedAt": "01/09/2026",
     "value": 270,
     "weightKg": 0.25
   },
@@ -22343,9 +22649,12 @@
       "battery": 3,
       "exodus_modules": 1
     },
+    "salvagesInto": {
+      "battery": 3
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3500,
     "weightKg": 1.5
   },
@@ -22401,9 +22710,12 @@
     "recyclesInto": {
       "assorted_seeds": 2
     },
+    "salvagesInto": {
+      "assorted_seeds": 1
+    },
     "stackSize": 15,
     "type": "Topside Material",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 300,
     "weightKg": 0.25
   },
@@ -22561,9 +22873,15 @@
     "recipe": {
       "chemicals": 3
     },
+    "recyclesInto": {
+      "chemicals": 1
+    },
+    "salvagesInto": {
+      "chemicals": 1
+    },
     "stackSize": 5,
     "type": "Quick Use",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 150,
     "weightKg": 0.15
   },
@@ -23014,13 +23332,13 @@
     "rarity": "Common",
     "recyclesInto": {
       "metal_parts": 4,
-      "plastic_parts": 4
+      "rubber_parts": 3
     },
     "salvagesInto": {
       "metal_parts": 4
     },
     "type": "Pistol",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "metal_parts": 8
     },
@@ -23584,9 +23902,12 @@
       "rubber_parts": 7,
       "speaker_component": 1
     },
+    "salvagesInto": {
+      "speaker_component": 1
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 2
   },
@@ -23760,9 +24081,12 @@
       "oil": 1,
       "rubber_parts": 2
     },
+    "salvagesInto": {
+      "crude_explosives": 1
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 1600,
     "weightKg": 0.2
   },
@@ -23876,9 +24200,12 @@
     "recyclesInto": {
       "simple_gun_parts": 2
     },
+    "salvagesInto": {
+      "simple_gun_parts": 1
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 700,
     "weightKg": 0.5
   },
@@ -24032,9 +24359,16 @@
       "power_rod": 1,
       "voltage_converter": 2
     },
+    "recyclesInto": {
+      "arc_circuitry": 2,
+      "voltage_converter": 1
+    },
+    "salvagesInto": {
+      "arc_alloy": 4
+    },
     "shieldCharge": 120,
     "type": "Shield",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 5500,
     "weightKg": 9
   },
@@ -24166,9 +24500,12 @@
       "assorted_seeds": 2,
       "fabric": 5
     },
+    "salvagesInto": {
+      "fabric": 8
+    },
     "stackSize": 5,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 900,
     "weightKg": 0.15
   },
@@ -24562,9 +24899,12 @@
     "recyclesInto": {
       "chemicals": 11
     },
+    "salvagesInto": {
+      "chemicals": 5
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.8
   },
@@ -24797,10 +25137,13 @@
       "advanced_mechanical_components": 2,
       "heavy_gun_parts": 2
     },
+    "salvagesInto": {
+      "heavy_gun_parts": 2
+    },
     "stackSize": 1,
     "stationLevelRequired": 3,
     "type": "Special",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "value": 10000,
     "weightKg": 7
   },
@@ -25428,11 +25771,14 @@
       "advanced_mechanical_components": 4,
       "heavy_gun_parts": 5
     },
+    "salvagesInto": {
+      "heavy_gun_parts": 5
+    },
     "stability": 97.2,
     "stationLevelRequired": 2,
     "stealth": 1,
     "type": "Special",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "heavy_gun_parts": 3
@@ -25493,9 +25839,12 @@
       "canister": 2,
       "wires": 2
     },
+    "salvagesInto": {
+      "canister": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/01/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 2
   },
@@ -25789,9 +26138,12 @@
       "mechanical_components": 2,
       "simple_gun_parts": 2
     },
+    "salvagesInto": {
+      "simple_gun_parts": 2
+    },
     "stationLevelRequired": 1,
     "type": "Shotgun",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 8
   },
@@ -25985,9 +26337,16 @@
       "he": "איל טורו II"
     },
     "rarity": "Uncommon",
+    "recyclesInto": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 3
+    },
+    "salvagesInto": {
+      "simple_gun_parts": 3
+    },
     "stationLevelRequired": 1,
     "type": "Shotgun",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 3,
       "simple_gun_parts": 1
@@ -26193,11 +26552,14 @@
       "mechanical_components": 4,
       "simple_gun_parts": 4
     },
+    "salvagesInto": {
+      "simple_gun_parts": 4
+    },
     "stability": 80.6,
     "stationLevelRequired": 1,
     "stealth": 18,
     "type": "Shotgun",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 4,
       "heavy_gun_parts": 1
@@ -26403,11 +26765,14 @@
       "mechanical_components": 5,
       "simple_gun_parts": 5
     },
+    "salvagesInto": {
+      "simple_gun_parts": 5
+    },
     "stability": 80.6,
     "stationLevelRequired": 1,
     "stealth": 18,
     "type": "Shotgun",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 4,
       "heavy_gun_parts": 1
@@ -26467,9 +26832,12 @@
     "recyclesInto": {
       "chemicals": 12
     },
+    "salvagesInto": {
+      "chemicals": 5
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.33
   },
@@ -26712,9 +27080,12 @@
       "voltage_converter": 4,
       "exodus_modules": 1
     },
+    "salvagesInto": {
+      "exodus_modules": 1
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/24/2025",
+    "updatedAt": "01/09/2026",
     "value": 6000,
     "weightKg": 1.5
   },
@@ -26900,9 +27271,12 @@
       "battery": 1,
       "plastic_parts": 2
     },
+    "salvagesInto": {
+      "battery": 1
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 850,
     "weightKg": 0.2
   },
@@ -27380,11 +27754,14 @@
       "rubber_parts": 8
     },
     "recyclesInto": {
-      "plastic_parts": 3,
-      "rubber_parts": 2
+      "rubber_parts": 2,
+      "metal_parts": 3
+    },
+    "salvagesInto": {
+      "metal_parts": 3
     },
     "type": "Assault Rifle",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 840,
     "weightKg": 7
   },
@@ -27438,11 +27815,14 @@
     },
     "rarity": "Common",
     "recyclesInto": {
-      "plastic_parts": 6,
-      "rubber_parts": 6
+      "rubber_parts": 6,
+      "metal_parts": 6
+    },
+    "salvagesInto": {
+      "metal_parts": 6
     },
     "type": "Assault Rifle",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 840,
     "weightKg": 7
   },
@@ -27638,8 +28018,15 @@
       "he": "קטל III"
     },
     "rarity": "Common",
+    "recyclesInto": {
+      "metal_parts": 12,
+      "simple_gun_parts": 1
+    },
+    "salvagesInto": {
+      "simple_gun_parts": 1
+    },
     "type": "Assault Rifle",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 7
   },
@@ -27809,8 +28196,15 @@
       "he": "קטל IV"
     },
     "rarity": "Common",
+    "recyclesInto": {
+      "mechanical_components": 2,
+      "simple_gun_parts": 2
+    },
+    "salvagesInto": {
+      "simple_gun_parts": 2
+    },
     "type": "Assault Rifle",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 7
   },
@@ -27937,8 +28331,11 @@
       "mod_components": 1,
       "duct_tape": 2
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "type": "Modification",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 7000,
     "weightKg": 0.75
   },
@@ -27992,11 +28389,14 @@
     },
     "rarity": "Rare",
     "recyclesInto": {
-      "chemicals": 2,
-      "crude_explosives": 2
+      "chemicals": 16,
+      "crude_explosives": 3
+    },
+    "salvagesInto": {
+      "crude_explosives": 3
     },
     "type": "Recyclable",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -28164,9 +28564,12 @@
       "advanced_mechanical_components": 2,
       "arc_alloy": 3
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 1
   },
@@ -28270,9 +28673,12 @@
     "recyclesInto": {
       "assorted_seeds": 3
     },
+    "salvagesInto": {
+      "assorted_seeds": 2
+    },
     "stackSize": 10,
     "type": "Nature",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.2
   },
@@ -28560,9 +28966,12 @@
     "recyclesInto": {
       "simple_gun_parts": 2
     },
+    "salvagesInto": {
+      "simple_gun_parts": 1
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 700,
     "weightKg": 0.3
   },
@@ -28816,9 +29225,12 @@
     "recyclesInto": {
       "plastic_parts": 4
     },
+    "salvagesInto": {
+      "arc_alloy": 1
+    },
     "shieldCharge": 40,
     "type": "Shield",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 5
   },
@@ -29045,8 +29457,15 @@
       "mod_components": 2,
       "duct_tape": 5
     },
+    "recyclesInto": {
+      "duct_tape": 1,
+      "mod_components": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "type": "Modification",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.25
   },
@@ -29181,8 +29600,11 @@
       "rubber_parts": 3,
       "plastic_parts": 3
     },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
     "type": "Augment",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 1
   },
@@ -29314,8 +29736,11 @@
       "magnet": 1,
       "electrical_components": 1
     },
+    "salvagesInto": {
+      "electrical_components": 1
+    },
     "type": "Augment",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 2
   },
@@ -29443,8 +29868,15 @@
       "advanced_electrical_components": 2,
       "processor": 3
     },
+    "recyclesInto": {
+      "advanced_electrical_components": 1,
+      "processor": 1
+    },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "type": "Augment",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 3
   },
@@ -29629,9 +30061,12 @@
       "advanced_electrical_components": 1,
       "processor": 1
     },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "stackSize": 1,
     "type": "Augment",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 4
   },
@@ -29852,8 +30287,11 @@
     "recyclesInto": {
       "speaker_component": 1
     },
+    "salvagesInto": {
+      "speaker_component": 1
+    },
     "type": "Quick Use",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.4
   },
@@ -29907,11 +30345,14 @@
     },
     "rarity": "Uncommon",
     "recyclesInto": {
-      "metal_parts": 3
+      "metal_parts": 2
+    },
+    "salvagesInto": {
+      "metal_parts": 1
     },
     "stackSize": 15,
     "type": "Topside Material",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 300,
     "weightKg": 0.25
   },
@@ -29973,9 +30414,12 @@
       "advanced_mechanical_components": 1,
       "arc_motion_core": 1
     },
+    "salvagesInto": {
+      "advanced_mechanical_components": 1
+    },
     "stackSize": 3,
     "type": "Refined Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 5500,
     "weightKg": 1
   },
@@ -30032,9 +30476,12 @@
       "magnetic_accelerator": 1,
       "steel_spring": 1
     },
+    "salvagesInto": {
+      "advanced_mechanical_components": 1
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 6000,
     "weightKg": 1.5
   },
@@ -30157,9 +30604,12 @@
       "metal_parts": 3,
       "rubber_parts": 2
     },
+    "salvagesInto": {
+      "metal_parts": 3
+    },
     "stackSize": 10,
     "type": "Refined Material",
-    "updatedAt": "11/23/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.5
   },
@@ -30339,9 +30789,12 @@
     "recyclesInto": {
       "simple_gun_parts": 2
     },
+    "salvagesInto": {
+      "simple_gun_parts": 1
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 700,
     "weightKg": 0.4
   },
@@ -30674,9 +31127,12 @@
       "advanced_mechanical_components": 1,
       "magnet": 3
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -30733,9 +31189,12 @@
       "advanced_mechanical_components": 1,
       "canister": 2
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -30797,9 +31256,12 @@
       "mechanical_components": 1,
       "steel_spring": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "stackSize": 5,
     "type": "Refined Material",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 1750,
     "weightKg": 1
   },
@@ -31315,8 +31777,11 @@
     "recyclesInto": {
       "metal_parts": 5
     },
+    "salvagesInto": {
+      "metal_parts": 3
+    },
     "type": "Modification",
-    "updatedAt": "11/10/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.25
   },
@@ -31534,8 +31999,11 @@
       "mechanical_components": 1,
       "wires": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "type": "Modification",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -31717,9 +32185,16 @@
       "mod_components": 2,
       "wires": 8
     },
+    "recyclesInto": {
+      "mod_components": 1,
+      "wires": 2
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.75
   },
@@ -31824,9 +32299,15 @@
       "speaker_component": 1,
       "plastic_parts": 2
     },
+    "recyclesInto": {
+      "speaker_component": 1
+    },
+    "salvagesInto": {
+      "speaker_component": 1
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.3
   },
@@ -31883,11 +32364,11 @@
       "metal_parts": 3
     },
     "salvagesInto": {
-      "metal_parts": 1
+      "metal_parts": 2
     },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/04/2025",
+    "updatedAt": "01/09/2026",
     "value": 270,
     "weightKg": 0.8
   },
@@ -31943,9 +32424,12 @@
     "recyclesInto": {
       "chemicals": 3
     },
+    "salvagesInto": {
+      "chemicals": 1
+    },
     "stackSize": 15,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 300,
     "weightKg": 0.25
   },
@@ -32049,9 +32533,12 @@
     "recyclesInto": {
       "assorted_seeds": 2
     },
+    "salvagesInto": {
+      "assorted_seeds": 1
+    },
     "stackSize": 10,
     "type": "Nature",
-    "updatedAt": "11/05/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.2
   },
@@ -32303,9 +32790,16 @@
       "medium_gun_parts": 3,
       "wires": 7
     },
+    "recyclesInto": {
+      "advanced_mechanical_components": 1,
+      "medium_gun_parts": 2
+    },
+    "salvagesInto": {
+      "medium_gun_parts": 2
+    },
     "stationLevelRequired": 2,
     "type": "Sniper Rifle",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "value": 7000,
     "weightKg": 7
   },
@@ -33332,9 +33826,16 @@
       "mod_components": 2,
       "duct_tape": 5
     },
+    "recyclesInto": {
+      "duct_tape": 1,
+      "mod_components": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.5
   },
@@ -33766,9 +34267,12 @@
       "crude_explosives": 1,
       "arc_alloy": 1
     },
+    "salvagesInto": {
+      "crude_explosives": 1
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.5
   },
@@ -33825,9 +34329,12 @@
       "battery": 2,
       "wires": 6
     },
+    "salvagesInto": {
+      "wires": 4
+    },
     "stackSize": 1,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -34056,9 +34563,12 @@
     "recyclesInto": {
       "wires": 4
     },
+    "salvagesInto": {
+      "wires": 3
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 2
   },
@@ -34120,9 +34630,12 @@
       "advanced_electrical_components": 1,
       "arc_circuitry": 1
     },
+    "salvagesInto": {
+      "advanced_electrical_components": 1
+    },
     "stackSize": 3,
     "type": "Refined Material",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 2
   },
@@ -34178,9 +34691,12 @@
     "recyclesInto": {
       "assorted_seeds": 3
     },
+    "salvagesInto": {
+      "assorted_seeds": 2
+    },
     "stackSize": 10,
     "type": "Nature",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 640
   },
   {
@@ -34236,9 +34752,12 @@
       "wires": 1,
       "plastic_parts": 1
     },
+    "salvagesInto": {
+      "plastic_parts": 2
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 500,
     "weightKg": 0.2
   },
@@ -34502,9 +35021,12 @@
       "power_rod": 1,
       "magnetic_accelerator": 1
     },
+    "salvagesInto": {
+      "power_rod": 1
+    },
     "tip": "The Queen Reactor is a legendary item only acquired by defeating The Queen that can be recycled into crafting materials.",
     "type": "Recyclable",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 13000,
     "weightKg": 10
   },
@@ -34561,9 +35083,12 @@
       "speaker_component": 2,
       "sensors": 2
     },
+    "salvagesInto": {
+      "sensors": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -34914,9 +35439,12 @@
     "recyclesInto": {
       "metal_parts": 8
     },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
     "stationLevelRequired": 1,
     "type": "Assault Rifle",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "01/09/2026",
     "value": 1750,
     "weightKg": 6
   },
@@ -35298,9 +35826,16 @@
       "he": "רטלר III"
     },
     "rarity": "Common",
+    "recyclesInto": {
+      "mechanical_components": 3,
+      "simple_gun_parts": 1
+    },
+    "salvagesInto": {
+      "metal_parts": 12
+    },
     "stationLevelRequired": 1,
     "type": "Assault Rifle",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "mechanical_components": 2,
       "simple_gun_parts": 1
@@ -35575,8 +36110,11 @@
     "recyclesInto": {
       "plastic_parts": 10
     },
+    "salvagesInto": {
+      "plastic_parts": 4
+    },
     "type": "Quick Use",
-    "updatedAt": "11/09/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.2
   },
@@ -35793,10 +36331,13 @@
     "recyclesInto": {
       "chemicals": 1
     },
+    "salvagesInto": {
+      "chemicals": 1
+    },
     "stackSize": 5,
     "stationLevelRequired": 1,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 150,
     "weightKg": 0.15
   },
@@ -35972,9 +36513,12 @@
       "chemicals": 1,
       "rubber_parts": 1
     },
+    "salvagesInto": {
+      "chemicals": 1
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 270,
     "weightKg": 0.2
   },
@@ -36154,9 +36698,12 @@
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
     },
+    "salvagesInto": {
+      "medium_gun_parts": 2
+    },
     "stationLevelRequired": 3,
     "type": "Battle Rifle",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "value": 7000,
     "weightKg": 10
   },
@@ -36377,11 +36924,18 @@
     },
     "range": 68.8,
     "rarity": "Rare",
+    "recyclesInto": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 2
+    },
+    "salvagesInto": {
+      "medium_gun_parts": 2
+    },
     "stability": 85.7,
     "stationLevelRequired": 1,
     "stealth": 16,
     "type": "Battle Rifle",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
@@ -36606,11 +37160,18 @@
     },
     "range": 68.8,
     "rarity": "Rare",
+    "recyclesInto": {
+      "advanced_mechanical_components": 2,
+      "medium_gun_parts": 3
+    },
+    "salvagesInto": {
+      "medium_gun_parts": 3
+    },
     "stability": 85.7,
     "stationLevelRequired": 1,
     "stealth": 16,
     "type": "Battle Rifle",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
@@ -36835,11 +37396,18 @@
     },
     "range": 68.8,
     "rarity": "Rare",
+    "recyclesInto": {
+      "advanced_mechanical_components": 3,
+      "medium_gun_parts": 3
+    },
+    "salvagesInto": {
+      "medium_gun_parts": 3
+    },
     "stability": 85.7,
     "stationLevelRequired": 1,
     "stealth": 16,
     "type": "Battle Rifle",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
@@ -37088,9 +37656,12 @@
       "synthesized_fuel": 2,
       "metal_parts": 6
     },
+    "salvagesInto": {
+      "synthesized_fuel": 1
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -37147,9 +37718,12 @@
       "advanced_electrical_components": 2,
       "arc_alloy": 3
     },
+    "salvagesInto": {
+      "arc_circuitry": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/2/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 1
   },
@@ -37205,9 +37779,12 @@
     "recyclesInto": {
       "assorted_seeds": 1
     },
+    "salvagesInto": {
+      "assorted_seeds": 1
+    },
     "stackSize": 10,
     "type": "Nature",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.2
   },
@@ -37263,9 +37840,12 @@
     "recyclesInto": {
       "fabric": 5
     },
+    "salvagesInto": {
+      "fabric": 2
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 500,
     "weightKg": 0.3
   },
@@ -37377,9 +37957,12 @@
       "electrical_components": 2,
       "processor": 2
     },
+    "salvagesInto": {
+      "processor": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -37729,9 +38312,12 @@
       "metal_parts": 6,
       "rubber_parts": 3
     },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.8
   },
@@ -37787,9 +38373,12 @@
     "recyclesInto": {
       "metal_parts": 8
     },
+    "salvagesInto": {
+      "metal_parts": 4
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.8
   },
@@ -38092,9 +38681,12 @@
       "metal_parts": 4,
       "mechanical_components": 2
     },
+    "salvagesInto": {
+      "metal_parts": 12
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/04/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -38151,9 +38743,12 @@
       "syringe": 2,
       "antiseptic": 1
     },
+    "salvagesInto": {
+      "syringe": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -38332,9 +38927,12 @@
       "electrical_components": 2,
       "assorted_seeds": 14
     },
+    "salvagesInto": {
+      "assorted_seeds": 12
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -38494,12 +39092,15 @@
       "arc_alloy": 2
     },
     "recyclesInto": {
-      "chemicals": 1
+      "crude_explosives": 1
+    },
+    "salvagesInto": {
+      "chemicals": 3
     },
     "stackSize": 5,
     "stationLevelRequired": 1,
     "type": "Quick Use",
-    "updatedAt": "11/13/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.2
   },
@@ -38676,9 +39277,15 @@
       "he": "שייקר"
     },
     "rarity": "Uncommon",
+    "recyclesInto": {
+      "plastic_parts": 10
+    },
+    "salvagesInto": {
+      "plastic_parts": 4
+    },
     "stackSize": 1,
     "type": "Quick Use",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.2
   },
@@ -38813,9 +39420,12 @@
     "recyclesInto": {
       "rubber_parts": 4
     },
+    "salvagesInto": {
+      "rubber_parts": 3
+    },
     "stackSize": 5,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 520,
     "weightKg": 0.15
   },
@@ -38961,8 +39571,14 @@
       "metal_parts": 6,
       "wires": 1
     },
+    "recyclesInto": {
+      "metal_parts": 5
+    },
+    "salvagesInto": {
+      "metal_parts": 3
+    },
     "type": "Modification",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.25
   },
@@ -39106,9 +39722,12 @@
       "mechanical_components": 1,
       "wires": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "stationLevelRequired": 2,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -39290,9 +39909,16 @@
       "mod_components": 2,
       "wires": 8
     },
+    "recyclesInto": {
+      "mod_components": 1,
+      "wires": 2
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.75
   },
@@ -39428,9 +40054,16 @@
       "mod_components": 2,
       "wires": 8
     },
+    "recyclesInto": {
+      "mod_components": 1,
+      "wires": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.5
   },
@@ -39616,10 +40249,13 @@
       "electrical_components": 1,
       "battery": 2
     },
+    "salvagesInto": {
+      "battery": 2
+    },
     "stackSize": 5,
     "stationLevelRequired": 3,
     "type": "Quick Use",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 2200,
     "weightKg": 0.4
   },
@@ -39728,9 +40364,12 @@
       "crude_explosives": 1,
       "metal_parts": 1
     },
+    "salvagesInto": {
+      "crude_explosives": 1
+    },
     "stackSize": 5,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 800,
     "weightKg": 0.15
   },
@@ -39787,9 +40426,12 @@
       "mechanical_components": 3,
       "arc_alloy": 3
     },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1
   },
@@ -39846,9 +40488,12 @@
       "electrical_components": 2,
       "voltage_converter": 2
     },
+    "salvagesInto": {
+      "voltage_converter": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -39983,9 +40628,16 @@
       "mechanical_components": 2,
       "wires": 4
     },
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "wires": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "stationLevelRequired": 2,
     "type": "Modification",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.25
   },
@@ -40120,9 +40772,16 @@
       "mod_components": 2,
       "wires": 8
     },
+    "recyclesInto": {
+      "mod_components": 1,
+      "wires": 2
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.5
   },
@@ -40235,11 +40894,11 @@
       "wires": 3
     },
     "salvagesInto": {
-      "mod_components": 1
+      "mod_components": 2
     },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "11/16/2025",
+    "updatedAt": "01/09/2026",
     "value": 7000,
     "weightKg": 0.75
   },
@@ -40351,9 +41010,12 @@
     "recyclesInto": {
       "metal_parts": 2
     },
+    "salvagesInto": {
+      "metal_parts": 1
+    },
     "stackSize": 10,
     "type": "Topside Material",
-    "updatedAt": "10/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 330,
     "weightKg": 0.3
   },
@@ -40624,10 +41286,13 @@
       "chemicals": 2,
       "canister": 1
     },
+    "salvagesInto": {
+      "chemicals": 3
+    },
     "stackSize": 3,
     "stationLevelRequired": 2,
     "type": "Quick Use",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.2
   },
@@ -40736,9 +41401,12 @@
       "chemicals": 1,
       "magnet": 1
     },
+    "salvagesInto": {
+      "chemicals": 2
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 800,
     "weightKg": 0.2
   },
@@ -40901,8 +41569,11 @@
       "power_rod": 1,
       "rope": 3
     },
+    "salvagesInto": {
+      "advanced_electrical_components": 2
+    },
     "type": "Quick Use",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 14000,
     "weightKg": 5
   },
@@ -40960,11 +41631,11 @@
       "electrical_components": 2
     },
     "salvagesInto": {
-      "electrical_components": 1
+      "electrical_components": 2
     },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/13/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.75
   },
@@ -41291,9 +41962,12 @@
       "plastic_parts": 2,
       "rubber_parts": 3
     },
+    "salvagesInto": {
+      "plastic_parts": 2
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 500,
     "weightKg": 0.3
   },
@@ -41350,9 +42024,12 @@
       "advanced_electrical_components": 1,
       "sensors": 1
     },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -41409,8 +42086,11 @@
       "sensors": 1,
       "exodus_modules": 1
     },
+    "salvagesInto": {
+      "processor": 2
+    },
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3500,
     "weightKg": 1.5
   },
@@ -41843,9 +42523,12 @@
       "mechanical_components": 1,
       "duct_tape": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "stationLevelRequired": 2,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -42050,9 +42733,16 @@
       "mod_components": 2,
       "duct_tape": 5
     },
+    "recyclesInto": {
+      "duct_tape": 2,
+      "mod_components": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.75
   },
@@ -42165,11 +42855,11 @@
       "metal_parts": 2
     },
     "salvagesInto": {
-      "metal_parts": 2
+      "metal_parts": 1
     },
     "stackSize": 15,
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 300,
     "weightKg": 0.25
   },
@@ -42561,9 +43251,16 @@
       "antiseptic": 1,
       "durable_cloth": 2
     },
+    "recyclesInto": {
+      "antiseptic": 1,
+      "fabric": 1
+    },
+    "salvagesInto": {
+      "durable_cloth": 1
+    },
     "stackSize": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.2
   },
@@ -43541,9 +44238,12 @@
     "recyclesInto": {
       "electrical_components": 1
     },
+    "salvagesInto": {
+      "plastic_parts": 5
+    },
     "stackSize": 5,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 1200,
     "weightKg": 0.2
   },
@@ -43662,9 +44362,12 @@
       "oil": 1,
       "plastic_parts": 1
     },
+    "salvagesInto": {
+      "oil": 1
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 700,
     "weightKg": 0.5
   },
@@ -43858,8 +44561,11 @@
       "plastic_parts": 3,
       "rubber_parts": 3
     },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
     "type": "Augment",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 2
   },
@@ -43988,11 +44694,14 @@
       "magnet": 3
     },
     "recyclesInto": {
-      "advanced_electrical_components": 1,
-      "magnet": 1
+      "magnet": 1,
+      "electrical_components": 1
+    },
+    "salvagesInto": {
+      "electrical_components": 1
     },
     "type": "Augment",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 2
   },
@@ -44178,9 +44887,12 @@
       "advanced_electrical_components": 1,
       "processor": 1
     },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Augment",
-    "updatedAt": "11/05/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 5
   },
@@ -44365,9 +45077,12 @@
       "advanced_electrical_components": 1,
       "processor": 1
     },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "stationLevelRequired": 3,
     "type": "Augment",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 4
   },
@@ -44592,9 +45307,12 @@
     "recyclesInto": {
       "fabric": 12
     },
+    "salvagesInto": {
+      "fabric": 5
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/06/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 1
   },
@@ -44710,9 +45428,12 @@
       "advanced_electrical_components": 1,
       "processor": 1
     },
+    "salvagesInto": {
+      "electrical_components": 2
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 3000,
     "weightKg": 1.5
   },
@@ -44946,9 +45667,12 @@
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
     },
+    "salvagesInto": {
+      "medium_gun_parts": 2
+    },
     "stationLevelRequired": 3,
     "type": "Assault Rifle",
-    "updatedAt": "12/7/2025",
+    "updatedAt": "01/09/2026",
     "value": 13000,
     "weightKg": 11
   },
@@ -45169,8 +45893,11 @@
       "advanced_mechanical_components": 3,
       "medium_gun_parts": 3
     },
+    "salvagesInto": {
+      "medium_gun_parts": 3
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 3
@@ -45395,8 +46122,11 @@
       "advanced_mechanical_components": 4,
       "medium_gun_parts": 4
     },
+    "salvagesInto": {
+      "medium_gun_parts": 4
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 4,
       "medium_gun_parts": 4
@@ -45621,8 +46351,11 @@
       "advanced_mechanical_components": 5,
       "medium_gun_parts": 4
     },
+    "salvagesInto": {
+      "medium_gun_parts": 5
+    },
     "type": "Assault Rifle",
-    "updatedAt": "11/11/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 3
@@ -45868,9 +46601,12 @@
     "recyclesInto": {
       "fabric": 12
     },
+    "salvagesInto": {
+      "fabric": 5
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 2
   },
@@ -46159,8 +46895,11 @@
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
     },
+    "salvagesInto": {
+      "medium_gun_parts": 2
+    },
     "type": "LMG",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "01/09/2026",
     "value": 7000,
     "weightKg": 12
   },
@@ -46357,8 +47096,11 @@
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
     },
+    "salvagesInto": {
+      "medium_gun_parts": 2
+    },
     "type": "LMG",
-    "updatedAt": "11/06/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
@@ -46559,8 +47301,11 @@
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 3
     },
+    "salvagesInto": {
+      "medium_gun_parts": 3
+    },
     "type": "LMG",
-    "updatedAt": "11/06/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
@@ -46761,8 +47506,11 @@
       "advanced_mechanical_components": 3,
       "medium_gun_parts": 3
     },
+    "salvagesInto": {
+      "medium_gun_parts": 3
+    },
     "type": "LMG",
-    "updatedAt": "11/06/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
@@ -46927,10 +47675,13 @@
     "recyclesInto": {
       "crude_explosives": 2
     },
+    "salvagesInto": {
+      "crude_explosives": 1
+    },
     "stackSize": 3,
     "stationLevelRequired": 3,
     "type": "Quick Use",
-    "updatedAt": "11/14/2025",
+    "updatedAt": "01/09/2026",
     "value": 1600,
     "weightKg": 1
   },
@@ -47041,9 +47792,12 @@
       "mechanical_components": 1,
       "oil": 3
     },
+    "salvagesInto": {
+      "steel_spring": 3
+    },
     "stackSize": 3,
     "type": "Recyclable",
-    "updatedAt": "11/04/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 3
   },
@@ -47415,9 +48169,12 @@
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
     },
+    "salvagesInto": {
+      "medium_gun_parts": 2
+    },
     "stationLevelRequired": 2,
     "type": "Pistol",
-    "updatedAt": "11/20/2025",
+    "updatedAt": "01/09/2026",
     "value": 7000,
     "weightKg": 5
   },
@@ -47661,8 +48418,11 @@
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
     },
+    "salvagesInto": {
+      "medium_gun_parts": 2
+    },
     "type": "Pistol",
-    "updatedAt": "11/20/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
@@ -47910,8 +48670,11 @@
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 3
     },
+    "salvagesInto": {
+      "medium_gun_parts": 3
+    },
     "type": "Pistol",
-    "updatedAt": "11/20/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "medium_gun_parts": 2
@@ -48159,8 +48922,11 @@
       "advanced_mechanical_components": 3,
       "medium_gun_parts": 3
     },
+    "salvagesInto": {
+      "medium_gun_parts": 3
+    },
     "type": "Pistol",
-    "updatedAt": "11/20/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "medium_gun_parts": 2
@@ -48246,8 +49012,14 @@
       "plastic_parts": 6,
       "duct_tape": 1
     },
+    "recyclesInto": {
+      "plastic_parts": 6
+    },
+    "salvagesInto": {
+      "plastic_parts": 3
+    },
     "type": "Modification",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 640,
     "weightKg": 0.25
   },
@@ -48395,9 +49167,12 @@
       "mechanical_components": 1,
       "duct_tape": 1
     },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
     "stationLevelRequired": 2,
     "type": "Modification",
-    "updatedAt": "12/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 2000,
     "weightKg": 0.5
   },
@@ -48556,8 +49331,15 @@
       "mod_components": 2,
       "duct_tape": 5
     },
+    "recyclesInto": {
+      "duct_tape": 2,
+      "mechanical_components": 2
+    },
+    "salvagesInto": {
+      "mechanical_components": 2
+    },
     "type": "Modification",
-    "updatedAt": "11/07/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 0.75
   },
@@ -48773,10 +49555,13 @@
       "chemicals": 4,
       "syringe": 1
     },
+    "salvagesInto": {
+      "syringe": 1
+    },
     "stackSize": 3,
     "stationLevelRequired": 3,
     "type": "Quick Use",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 2200,
     "weightKg": 0.4
   },
@@ -49103,9 +49888,12 @@
       "wires": 1,
       "rubber_parts": 1
     },
+    "salvagesInto": {
+      "rubber_parts": 2
+    },
     "stackSize": 5,
     "type": "Topside Material",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "01/09/2026",
     "value": 500,
     "weightKg": 0.3
   },
@@ -49346,11 +50134,14 @@
     },
     "reducedDurabilityBurnRate": 23,
     "reducedReloadTime": 13,
+    "salvagesInto": {
+      "heavy_gun_parts": 2
+    },
     "stability": 70.3,
     "stationLevelRequired": 3,
     "stealth": 15,
     "type": "Shotgun",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "value": 10000,
     "weightKg": 8
   },
@@ -49578,12 +50369,15 @@
     },
     "reducedDurabilityBurnRate": 46,
     "reducedReloadTime": 26,
+    "salvagesInto": {
+      "heavy_gun_parts": 3
+    },
     "stability": 70.3,
     "stackSize": 1,
     "stationLevelRequired": 1,
     "stealth": 15,
     "type": "Shotgun",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 1,
       "heavy_gun_parts": 2
@@ -49854,9 +50648,12 @@
       "advanced_mechanical_components": 3,
       "heavy_gun_parts": 4
     },
+    "salvagesInto": {
+      "heavy_gun_parts": 4
+    },
     "stationLevelRequired": 1,
     "type": "Shotgun",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "heavy_gun_parts": 1
@@ -50085,11 +50882,14 @@
       "advanced_mechanical_components": 4,
       "heavy_gun_parts": 5
     },
+    "salvagesInto": {
+      "heavy_gun_parts": 5
+    },
     "stability": 68.6,
     "stationLevelRequired": 1,
     "stealth": 15,
     "type": "Shotgun",
-    "updatedAt": "11/12/2025",
+    "updatedAt": "01/09/2026",
     "upgradeCost": {
       "advanced_mechanical_components": 2,
       "heavy_gun_parts": 3
@@ -50382,7 +51182,7 @@
     },
     "rarity": "Uncommon",
     "recyclesInto": {
-      "rubber_parts": 2
+      "rubber_parts": 3
     },
     "salvagesInto": {
       "rubber_parts": 1
@@ -50390,7 +51190,7 @@
     "stackSize": 15,
     "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials.",
     "type": "Topside Material",
-    "updatedAt": "11/03/2025",
+    "updatedAt": "01/09/2026",
     "value": 200,
     "weightKg": 0.25
   },
@@ -50549,12 +51349,15 @@
       "arc_motion_core": 2
     },
     "recyclesInto": {
-      "crude_explosives": 1,
-      "arc_motion_core": 1
+      "arc_motion_core": 1,
+      "explosive_compound": 1
+    },
+    "salvagesInto": {
+      "explosive_compound": 2
     },
     "stackSize": 1,
     "type": "Quick Use",
-    "updatedAt": "11/21/2025",
+    "updatedAt": "01/09/2026",
     "value": 5000,
     "weightKg": 1
   },
@@ -50715,10 +51518,13 @@
     "recyclesInto": {
       "chemicals": 1
     },
+    "salvagesInto": {
+      "chemicals": 1
+    },
     "stackSize": 5,
     "stationLevelRequired": 3,
     "type": "Quick Use",
-    "updatedAt": "12/31/2025",
+    "updatedAt": "01/09/2026",
     "value": 150,
     "weightKg": 0.15
   },
@@ -50779,8 +51585,11 @@
       "rope": 1,
       "metal_parts": 1
     },
+    "salvagesInto": {
+      "rope": 1
+    },
     "type": "Quick Use",
-    "updatedAt": "11/05/2025",
+    "updatedAt": "01/09/2026",
     "value": 1000,
     "weightKg": 0.4
   }
