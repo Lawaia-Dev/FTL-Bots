@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T19:00:43.573Z",
+  "lastUpdated": "2026-01-22T22:00:06.437Z",
   "source": "metaforge",
   "traders": [
     {
@@ -316,7 +316,7 @@
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/great-muullein.webp",
           "description": "Used to craft medical supplies.",
           "rarity": "Uncommon",
-          "type": "Nature",
+          "type": "Topside Material",
           "value": 300,
           "price": 5,
           "currency": null
@@ -983,7 +983,7 @@
           "description": "Significantly improves stability.",
           "rarity": "Epic",
           "type": "Modification",
-          "value": 0,
+          "value": 5000,
           "price": 15000,
           "currency": null
         },
