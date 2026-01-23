@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T11:00:53.415Z",
+  "lastUpdated": "2026-01-23T11:00:49.361Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
@@ -1276,7 +1276,7 @@
           "name": "Great Mullein",
           "icon": "https://cdn.metaforge.app/arc-raiders/icons/great-muullein.webp",
           "rarity": "Uncommon",
-          "type": "Nature",
+          "type": "Topside Material",
           "quantity": 1
         },
         {
