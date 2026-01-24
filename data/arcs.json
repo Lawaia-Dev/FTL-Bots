@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-01-11T11:00:55.172Z",
+  "lastUpdated": "2026-01-24T11:00:51.137Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
     "limit": 50,
-    "total": 16,
+    "total": 17,
     "totalPages": 1,
     "hasNextPage": false,
     "hasPrevPage": false
@@ -190,6 +190,21 @@
       "source": "metaforge",
       "createdAt": "2025-10-08T12:03:30.869636+00:00",
       "updatedAt": "2025-11-04T16:36:02.1742+00:00"
+    },
+    {
+      "id": "spotter",
+      "slug": "spotter",
+      "name": "Spotter",
+      "description": "Often compared to the Snitch, the Spotter reconnaissance drone patrols and scans for Raiders. While it does not call in reinforcements directly, it does make a lot of fuss while relaying Raider positions to other ARC machines.\n\nDespite its size, the Spotter can take considerable punishment. Combined with its unpredictable flight patterns, it's a frustrating opponent to pin down.\n\nHunting Spotters creates commotion and might draw the attention of oportunistic Raiders looking to eliminate the competition.",
+      "icon": "https://cdn.metaforge.app/arc-raiders/icons/spotter.webp",
+      "image": "https://cdn.metaforge.app/arc-raiders/images/spotter.webp",
+      "search": "spotter",
+      "aliases": [
+        "spotter"
+      ],
+      "source": "metaforge",
+      "createdAt": "2026-01-19T05:44:03.092886+00:00",
+      "updatedAt": "2026-01-19T22:55:47.584583+00:00"
     },
     {
       "id": "rollbot",
