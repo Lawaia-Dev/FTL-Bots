@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-01-27T11:00:49.341Z",
+  "lastUpdated": "2026-01-28T11:00:49.390Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
     "limit": 40,
-    "total": 72,
+    "total": 80,
     "totalPages": 2,
     "hasNextPage": true,
     "hasPrevPage": false
@@ -411,6 +411,61 @@
       "updatedAt": "2025-11-03T11:03:52.670165+00:00"
     },
     {
+      "id": "a-prime-specimen",
+      "slug": "a-prime-specimen",
+      "name": "A Prime Specimen",
+      "description": "Obtain 2 ARC Powercells",
+      "objectives": [
+        "Obtain 2 ARC Powercells",
+        "Interact with any ARC Deforester"
+      ],
+      "xp": 0,
+      "grantedItems": [
+        {
+          "id": "remote-raider-flare",
+          "itemId": "remote-raider-flare",
+          "name": "Remote Raider Flare",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/remote-raider-flare.webp",
+          "rarity": "Common",
+          "type": "Quick Use",
+          "quantity": 1
+        }
+      ],
+      "requiredItems": [],
+      "rewards": [
+        {
+          "id": "patrol-car-key",
+          "itemId": "patrol-car-key",
+          "name": "Patrol Car Key",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/patrol-car-key.webp",
+          "rarity": "Uncommon",
+          "type": "Key",
+          "quantity": 1
+        },
+        {
+          "id": "door-blocker",
+          "itemId": "door-blocker",
+          "name": "Door Blocker",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/door-blocker.webp",
+          "rarity": "Common",
+          "type": "Quick Use",
+          "quantity": 1
+        }
+      ],
+      "locations": [],
+      "maps": [],
+      "markerCategory": null,
+      "search": "a prime specimen",
+      "aliases": [
+        "a prime specimen",
+        "aprimespecimen",
+        "a-prime-specimen"
+      ],
+      "source": "metaforge",
+      "createdAt": "2026-01-27T11:40:06.179408+00:00",
+      "updatedAt": "2026-01-27T11:40:06.179408+00:00"
+    },
+    {
       "id": "esr-analyzer",
       "slug": "esr-analyzer",
       "name": "A Reveal in Ruins",
@@ -812,6 +867,33 @@
       "updatedAt": "2025-11-02T22:55:07.278115+00:00"
     },
     {
+      "id": "bombing-run",
+      "slug": "bombing-run",
+      "name": "Bombing Run",
+      "description": "Destroy a Bombardier",
+      "objectives": [
+        "Destroy a Bombardier",
+        "Deliver a Bombardier Cell to Shani"
+      ],
+      "xp": 0,
+      "grantedItems": [],
+      "requiredItems": [],
+      "rewards": [],
+      "locations": [],
+      "maps": [],
+      "markerCategory": "bombardier",
+      "search": "bombing run",
+      "aliases": [
+        "bombing run",
+        "bombingrun",
+        "bombing",
+        "bombing-run"
+      ],
+      "source": "metaforge",
+      "createdAt": "2026-01-27T12:11:03.526907+00:00",
+      "updatedAt": "2026-01-27T12:11:03.526907+00:00"
+    },
+    {
       "id": "broken-monument",
       "slug": "broken-monument",
       "name": "Broken Monument",
@@ -1104,6 +1186,65 @@
       "source": "metaforge",
       "createdAt": "2025-11-14T11:43:45.943896+00:00",
       "updatedAt": "2025-11-14T11:43:45.943896+00:00"
+    },
+    {
+      "id": "combat-recon",
+      "slug": "combat-recon",
+      "name": "Combat Recon",
+      "description": "Scope out a cover spot in the Parking Garage staircases",
+      "objectives": [
+        "Scope out a cover spot in the Parking Garage staircases",
+        "Scope out a cover spot in the buses near Marano Park",
+        "Scope out a cover spot in the attics around Main Street",
+        "Destroy 2 Spotters",
+        "Deliver Spotter Relay to Shani"
+      ],
+      "xp": 0,
+      "grantedItems": [
+        {
+          "id": "binoculars",
+          "itemId": "binoculars",
+          "name": "Binoculars",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/binoculars.webp",
+          "rarity": "Common",
+          "type": "Gadget",
+          "quantity": 1
+        }
+      ],
+      "requiredItems": [],
+      "rewards": [
+        {
+          "id": "firecracker",
+          "itemId": "firecracker",
+          "name": "Firecracker",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/firecracker.webp",
+          "rarity": "Common",
+          "type": "Quick Use",
+          "quantity": 1
+        },
+        {
+          "id": "fireworks-box",
+          "itemId": "fireworks-box",
+          "name": "Fireworks Box",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/fireworks-box.webp",
+          "rarity": "Rare",
+          "type": "Quick Use",
+          "quantity": 1
+        }
+      ],
+      "locations": [],
+      "maps": [],
+      "markerCategory": null,
+      "search": "combat recon",
+      "aliases": [
+        "combat recon",
+        "combatrecon",
+        "combat",
+        "combat-recon"
+      ],
+      "source": "metaforge",
+      "createdAt": "2026-01-27T11:35:23.409373+00:00",
+      "updatedAt": "2026-01-27T11:35:23.409373+00:00"
     },
     {
       "id": "communication-hideout",
@@ -2160,160 +2301,6 @@
       "source": "metaforge",
       "createdAt": "2025-11-01T23:12:19.34848+00:00",
       "updatedAt": "2025-11-01T23:12:19.34848+00:00"
-    },
-    {
-      "id": "life-of-a-pharmacist",
-      "slug": "life-of-a-pharmacist",
-      "name": "Life of a Pharmacist",
-      "description": "Find the Arbuso Farmacia then search the apartment above",
-      "objectives": [
-        "Find the Arbuso Farmacia then search the apartment above",
-        "Document the pharmacist's hobbies",
-        "Document the pharmacist's family",
-        "Document the pharmacist's taste",
-        "Document the pharmacist's skills"
-      ],
-      "xp": 0,
-      "grantedItems": [],
-      "requiredItems": [],
-      "rewards": [
-        {
-          "id": "defibrillator",
-          "itemId": "defibrillator",
-          "name": "Defibrillator",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/defibrillator.webp",
-          "rarity": "Rare",
-          "type": "Quick Use",
-          "quantity": 1
-        },
-        {
-          "id": "surge-shield-recharger",
-          "itemId": "surge-shield-recharger",
-          "name": "Surge Shield Recharger",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/surge-shield-recharger.webp",
-          "rarity": "Rare",
-          "type": "Quick Use",
-          "quantity": 1
-        },
-        {
-          "id": "sterilized-bandage",
-          "itemId": "sterilized-bandage",
-          "name": "Sterilized Bandage",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sterilized-bandage.webp",
-          "rarity": "Rare",
-          "type": "Quick Use",
-          "quantity": 3
-        }
-      ],
-      "locations": [],
-      "maps": [],
-      "markerCategory": null,
-      "search": "life of a pharmacist",
-      "aliases": [
-        "life of a pharmacist",
-        "lifeofapharmacist",
-        "life",
-        "life-of-a-pharmacist"
-      ],
-      "source": "metaforge",
-      "createdAt": "2025-10-07T14:15:06.420493+00:00",
-      "updatedAt": "2025-10-07T14:15:06.420493+00:00"
-    },
-    {
-      "id": "lost-in-transmission",
-      "slug": "lost-in-transmission",
-      "name": "Lost in Transmission",
-      "description": "Visit Control Tower A6",
-      "objectives": [
-        "In One Round:",
-        "Visit Control Tower A6",
-        "Reach the top of Control Tower A6",
-        "Establish a connection from the terminal"
-      ],
-      "xp": 0,
-      "grantedItems": [
-        {
-          "id": "spaceport-ground-control-key",
-          "itemId": "spaceport-ground-control-key",
-          "name": "Spaceport Control Tower Key",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/spaceport-ground-control-key.webp",
-          "rarity": "Rare",
-          "type": "Key",
-          "quantity": 1
-        }
-      ],
-      "requiredItems": [],
-      "rewards": [
-        {
-          "id": "snap-hook",
-          "itemId": "snap-hook",
-          "name": "Snap Hook",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/snap-hook.webp",
-          "rarity": "Legendary",
-          "type": "Quick Use",
-          "quantity": 1
-        }
-      ],
-      "locations": [],
-      "maps": [],
-      "markerCategory": null,
-      "search": "lost in transmission",
-      "aliases": [
-        "lost in transmission",
-        "lostintransmission",
-        "lost",
-        "lost-in-transmission"
-      ],
-      "source": "metaforge",
-      "createdAt": "2025-11-02T15:22:41.303581+00:00",
-      "updatedAt": "2025-11-02T15:22:41.303581+00:00"
-    },
-    {
-      "id": "marked-for-death",
-      "slug": "marked-for-death",
-      "name": "Marked for Death",
-      "description": "Reach the Su Durante Warehouses in the Outskirts in Buried City",
-      "objectives": [
-        "Reach the Su Durante Warehouses in the Outskirts in Buried City",
-        "Search for Tian Wen's cache near the Warehouses",
-        "Follow the Clues"
-      ],
-      "xp": 0,
-      "grantedItems": [],
-      "requiredItems": [],
-      "rewards": [
-        {
-          "id": "angled-grip-ii",
-          "itemId": "angled-grip-ii",
-          "name": "Angled Grip II",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/angled-grip-ii.webp",
-          "rarity": "Uncommon",
-          "type": "Modification",
-          "quantity": 1
-        },
-        {
-          "id": "shotgun-choke-ii",
-          "itemId": "shotgun-choke-ii",
-          "name": "Shotgun Choke II",
-          "icon": "https://cdn.metaforge.app/arc-raiders/icons/shotgun-choke-ii.webp",
-          "rarity": "Uncommon",
-          "type": "Modification",
-          "quantity": 1
-        }
-      ],
-      "locations": [],
-      "maps": [],
-      "markerCategory": null,
-      "search": "marked for death",
-      "aliases": [
-        "marked for death",
-        "markedfordeath",
-        "marked",
-        "marked-for-death"
-      ],
-      "source": "metaforge",
-      "createdAt": "2025-11-01T23:02:32.804636+00:00",
-      "updatedAt": "2025-11-01T23:02:32.804636+00:00"
     }
   ]
 }
