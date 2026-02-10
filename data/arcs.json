@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T11:00:51.070Z",
+  "lastUpdated": "2026-02-10T11:00:51.381Z",
   "source": "metaforge",
   "pagination": {
     "page": 1,
@@ -31,14 +31,14 @@
       "name": "Bombardier",
       "description": "The Bombardier is an armored ARC that functions as heavy, mobile artillery. Its movement is slow and loud. Armed with a multi-rocket launcher, it unleashes devastating, long-range barrages that can obliterate your entire squad. Do not engage this unit. If you hear its grinding approach, silence your movement and escape the area immediately, as its attention is a death sentence.",
       "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/bombardier.webp",
-      "image": null,
+      "image": "https://cdn.metaforge.app/arc-raiders/images/bombardier.webp",
       "search": "bombardier",
       "aliases": [
         "bombardier"
       ],
       "source": "metaforge",
       "createdAt": "2025-10-22T14:25:32.537307+00:00",
-      "updatedAt": "2025-11-04T15:56:36.588716+00:00"
+      "updatedAt": "2026-02-09T15:49:04.408481+00:00"
     },
     {
       "id": "fireball",
@@ -61,14 +61,14 @@
       "name": "Hornet",
       "description": "This is a medium-class drone, easily recognizable by the pair of armored rotors mounted prominently on its front. It rarely operates alone, preferring to patrol the skies alongside a swarm of Wasps or to act as an aerial shield for a larger, ground-based ARC. Its main attack is a focused, high-speed projectile. Watch for the brief, one-second pulse of a red aiming laser—that's your warning before it fires a specialized stun round designed to shred Raider shields and tear through light armor almost instantly.",
       "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/hornet.webp",
-      "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/hornet.webp",
+      "image": "https://cdn.metaforge.app/arc-raiders/images/hornet.webp",
       "search": "hornet",
       "aliases": [
         "hornet"
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T12:02:46.903538+00:00",
-      "updatedAt": "2025-11-04T15:57:34.464701+00:00"
+      "updatedAt": "2026-02-09T15:51:02.652697+00:00"
     },
     {
       "id": "bison",
@@ -152,14 +152,14 @@
       "name": "Sentinel",
       "description": "A large unarmored turret that sits atop buildings and ledges. Often found outside and usually very high up. Contains a small vulnerable capsule attached to its swiveling arm.\n\nTraces movement and will fire off a single Heavy round every 5 seconds while having line-of-sight on a Raider.",
       "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/sentinel.webp",
-      "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/sentinel.webp",
+      "image": "https://cdn.metaforge.app/arc-raiders/images/sentinel.webp",
       "search": "sentinel",
       "aliases": [
         "sentinel"
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T11:30:48.243119+00:00",
-      "updatedAt": "2025-11-29T23:42:35.031249+00:00"
+      "updatedAt": "2026-02-09T15:52:48.243707+00:00"
     },
     {
       "id": "shredder",
@@ -182,14 +182,14 @@
       "name": "Snitch",
       "description": "This little flyer is a swift and unarmored scout drone, often identifiable by its cluster of three rotors. While individually fragile, its primary danger is its role as an aerial alarm system. Once it spots Raiders, it immediately triggers a wide-band signal, effectively calling in a wave of flying ARC reinforcements—usually a swarm of Wasps or Hornets—to descend on your position. Taking it out before it completes its transmission is essential, as its light frame means a single, well-aimed burst will shatter it.",
       "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/snitch.webp",
-      "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/snitch.webp",
+      "image": "https://cdn.metaforge.app/arc-raiders/images/snitch.webp",
       "search": "snitch",
       "aliases": [
         "snitch"
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T12:03:30.869636+00:00",
-      "updatedAt": "2025-11-04T16:36:02.1742+00:00"
+      "updatedAt": "2026-02-09T15:50:31.745901+00:00"
     },
     {
       "id": "spotter",
@@ -212,7 +212,7 @@
       "name": "Surveyor",
       "description": "This is the largest of the rolling ARCs, a massive, spherical construct designed to dominate open ground. Its primary tactic is to stop periodically on the battlefield to transmit disruptive signals, acting as a massive relay for the ARC network. Be warned, however, its most unique (and dangerous) trait is its resilience: as it takes damage, its outer shell breaks apart into many smaller, armored pieces. Its final attack is a relentless one: it will roll directly at high speed toward any Raider it detects, essentially turning itself into a giant, high-impact bowling ball.",
       "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/rollbot.webp",
-      "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/rollbot.webp",
+      "image": "https://cdn.metaforge.app/arc-raiders/images/rollbot.webp",
       "search": "surveyor",
       "aliases": [
         "surveyor",
@@ -220,7 +220,7 @@
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T11:32:47.592365+00:00",
-      "updatedAt": "2025-12-09T15:28:04.010172+00:00"
+      "updatedAt": "2026-02-09T15:55:43.359888+00:00"
     },
     {
       "id": "tick",
@@ -243,14 +243,14 @@
       "name": "Turret",
       "description": "This is a small, unarmored turret that provides close-quarters defense for the ARC. Its primary function is to scan constantly for movement, and you’ll typically find it mounted on interior walls inside buildings. Do not confuse this swift little gun with the massive, high-altitude Sentinel turrets you find outside. When it spots a Raider, it immediately opens fire, unleashing a two-second hail of bullets in an attempt to suppress and eliminate the threat quickly. Its lack of armor makes it fragile, but its location makes it dangerous.",
       "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/turret.webp",
-      "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/turret.webp",
+      "image": "https://cdn.metaforge.app/arc-raiders/images/turret.webp",
       "search": "turret",
       "aliases": [
         "turret"
       ],
       "source": "metaforge",
       "createdAt": "2025-10-08T11:31:30.853228+00:00",
-      "updatedAt": "2025-11-04T16:37:03.775013+00:00"
+      "updatedAt": "2026-02-09T14:58:45.316789+00:00"
     },
     {
       "id": "wasp",
