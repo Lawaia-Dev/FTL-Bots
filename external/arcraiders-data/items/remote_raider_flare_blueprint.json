@@ -10,16 +10,16 @@
     "hr": "Nacrt Daljinske Raider Rakete",
     "it": "Progetto Razzo segnalatore predone remoto",
     "ja": "遠隔レイダー発煙筒設計図",
-    "kr": "원격 레이더 신호탄 설계도",
+    "ko-KR": "원격 레이더 신호탄 설계도",
     "no": "Fjernkontrollert raider-bluss Tegning",
     "pl": "Projekt zdalnej flary najeźdźcy",
     "pt": "Plano do Sinalizador de invasor remoto",
     "pt-BR": "Projeto do Sinalizador de Combatente Remoto",
     "ru": "Чертёж дистанционной сигнальной ракеты рейдера",
     "sr": "Nacrt Daljinske Raider Rakete",
-    "tr": "Uzaktan Akıncı İşaret Fişeği Planı",
+    "tr": "Kumandalı Raider Fişeği Taslağı",
     "uk": "Креслення дистанційної сигнальної ракети рейдера",
-    "zh-CN": "远程掠夺者信号弹蓝图",
+    "zh-CN": "远程奇袭者信号弹蓝图",
     "zh-TW": "遠程掠奪者信號彈藍圖"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć.",
     "it": "Un dispositivo schierabile che, quando attivato manualmente, lancia un razzo di soccorso predone.",
     "ja": "手動で起動すると、レイダー遭難フレアを発射する設置型デバイス。",
-    "kr": "수동으로 작동시키면 레이더 조난 신호탄을 발사하는 배치 가능한 장치.",
+    "ko-KR": "수동으로 작동시키면 레이더 조난 신호탄을 발사하는 배치 가능한 장치.",
     "no": "En utplasserbar enhet som, når den utløses manuelt, avfyrer et raider-nødbluss.",
     "pl": "Urządzenie do rozmieszczenia, które po ręcznym uruchomieniu wystrzeliwuje flarę wzywającą najeźdźców.",
     "pt": "Um dispositivo implantável que, quando acionado manualmente, lança um sinalizador de socorro de invasor.",
@@ -41,13 +41,15 @@
     "sr": "Uređaj za postavljanje koji, kada se ručno aktivira, ispaljuje Raider raketu za pomoć.",
     "tr": "Manuel olarak tetiklendiğinde Akıncı Tehlike İşaret Fişeği fırlatılan konuşlandırılabilir bir cihaz.",
     "uk": "Пристрій, який при ручній активації запускає сигнальну ракету лиха рейдера.",
-    "zh-CN": "一个可部署的装置，手动触发时会发射掠夺者求救信号弹。",
+    "zh-CN": "一个可部署的装置，手动触发时会发射奇袭者求救信号弹。",
     "zh-TW": "一個可部署的裝置，手動觸發時會發射掠奪者求救信號彈。"
   },
   "type": "Blueprint",
-  "rarity": "Legendary",
+  "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
-  "imageFilename": "https://cdn.arctracker.io/items/remote_raider_flare.png",
-  "updatedAt": "01/13/2026"
+  "stackSize": 1,
+  "imageFilename": "https://cdn.arctracker.io/items/v2/remote_raider_flare_blueprint.png",
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

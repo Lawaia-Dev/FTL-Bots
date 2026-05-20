@@ -10,7 +10,7 @@
     "hr": "Mehaničke Komponente",
     "it": "Componenti meccanici",
     "ja": "機械部品",
-    "kr": "기계 부품",
+    "ko-KR": "기계 부품",
     "no": "Mekaniske komponenter",
     "pl": "Komponenty mechaniczne",
     "pt": "Componentes mecânicos",
@@ -32,7 +32,7 @@
     "hr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II",
     "it": "Si usa per creare una vasta gamma di oggetti. Si può riciclare in materiali da creazione. Si usa per creare: Il Toro, Burletta, Incudine, Freno di bocca II, Caricatore medio esteso II",
     "ja": "幅広いアイテムの製作に使用。製作材料にリサイクル可能。製作可能: Il Toro、Burletta、Anvil、マズルブレーキII、拡張ミディアムマガジンII",
-    "kr": "다양한 아이템 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: 일 토로, 부를레타, 앤빌, 총구 제동기 II, 확장형 중량 탄창 II",
+    "ko-KR": "다양한 아이템 제작에 사용됩니다. 제작 재료로 재활용 가능. 제작 가능: 일 토로, 부를레타, 앤빌, 총구 제동기 II, 확장형 중량 탄창 II",
     "no": "Brukes til å lage et bredt spekter av gjenstander. Kan resirkuleres til håndverksmateriell. Brukes til å lage: Il Toro, Burletta, Anvil, Munningsbrems II, Utvidet medium magasin II",
     "pl": "Używany do wytwarzania szerokiej gamy przedmiotów. Może być przetworzony na materiały rzemieślnicze. Używany do wytworzenia: Il Toro, Burletta, Anvil, Hamulec wylotowy II, Rozszerzony średni magazynek II",
     "pt": "Usado para fabricar uma ampla gama de itens. Pode ser reciclado em materiais de fabricação. Usado para fabricar: Il Toro, Burletta, Anvil, Freio de boca II, Carregador médio estendido II",
@@ -41,7 +41,7 @@
     "sr": "Koristi se za pravljenje širokog spektra predmeta. Može se reciklirati u materijale za pravljenje. Koristi se za pravljenje: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II",
     "tr": "Çok çeşitli eşyaları üretmek için kullanılır. Üretim malzemelerine geri dönüştürülebilir. Üretim için kullanılır: Il Toro, Burletta, Anvil, Namlu Freni II, Uzatılmış Orta Şarjör II",
     "uk": "Використовується для створення широкого спектру предметів. Можна переробити на матеріали для крафту. Використовується для створення: Il Toro, Burletta, Anvil, дульний гальмо II, розширений середній магазин II",
-    "zh-CN": "用于制作各种物品。可回收成制作材料。用于制作：Il Toro、Burletta、Anvil、枪口制退器II、延长中型弹匣II",
+    "zh-CN": "用于制作各种物品。可回收成制作材料。用于制作：Il Toro、Burletta、Anvil、枪口制退器II、中型扩容弹匣II",
     "zh-TW": "用於製作各種物品。可回收成製作材料。用於製作：Il Toro、Burletta、Anvil、槍口制退器II、延長中型彈匣II"
   },
   "type": "Refined Material",
@@ -51,6 +51,7 @@
   "weightKg": 0.5,
   "stackSize": 10,
   "craftBench": "refiner",
+  "stationLevelRequired": 1,
   "recipe": {
     "metal_parts": 7,
     "rubber_parts": 3
@@ -62,6 +63,7 @@
   "salvagesInto": {
     "metal_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/mechanical_components.png",
-  "updatedAt": "01/13/2026"
+  "imageFilename": "https://cdn.arctracker.io/items/v2/mechanical_components.png",
+  "updatedAt": "03/17/2026",
+  "addedIn": "base"
 }

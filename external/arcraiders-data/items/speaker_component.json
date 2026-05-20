@@ -10,7 +10,7 @@
     "hr": "Komponenta zvučnika",
     "it": "Componente per altoparlante",
     "ja": "スピーカーの部品",
-    "kr": "스피커 부품",
+    "ko-KR": "스피커 부품",
     "no": "Høyttalerkomponent",
     "pl": "Komponent głośnika",
     "pt": "Componente de alto-falante",
@@ -19,7 +19,7 @@
     "sr": "Komponenta zvučnika",
     "tr": "Hoparlör Bileşeni",
     "uk": "Компонент динаміка",
-    "zh-CN": "扬声器组件",
+    "zh-CN": "扬声器零件",
     "zh-TW": "揚聲器組件"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Koristi se za izradu. Koristi se za izradu: Granata mamac, Fotoelektrični plašt",
     "it": "Utile per le creazioni. Si usa per creare: Granata esca, Mantello fotoelettrico",
     "ja": "クラフトに使用。作成可能: ルアーグレネード、光電クローク",
-    "kr": "제작에 사용됩니다. 제작 가능: 유인 수류탄, 광전 은폐복",
+    "ko-KR": "제작에 사용됩니다. 제작 가능: 유인 수류탄, 광전 은폐복",
     "no": "Brukes til håndverk. Brukes til å lage: Lokkegranate, Fotoelektrisk kappe",
     "pl": "Używane do wytwarzania. Używane do wytworzenia: Granat wabik, Płaszcz fotoelektryczny",
     "pt": "Usado na fabricação. Usado para fabricar: Granada de isca, Capa fotoelétrica",
@@ -41,7 +41,7 @@
     "sr": "Koristi se za izradu. Koristi se za izradu: Granata mamac, Fotoelektrični plašt",
     "tr": "Üretimde kullanılır. Üretilebilir: Yem Bombası, Fotoelektrik Pelerin",
     "uk": "Використовується в крафті. Використовується для створення: Граната-принада, Фотоелектричний плащ",
-    "zh-CN": "用于制作。可制作：诱饵手榴弹、光电斗篷",
+    "zh-CN": "用于制作。可制作：诱捕手雷、光电斗篷",
     "zh-TW": "用於製作。可製作：誘餌手榴彈、光電斗篷"
   },
   "type": "Topside Material",
@@ -57,6 +57,18 @@
   "salvagesInto": {
     "plastic_parts": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/speaker_component.png",
-  "updatedAt": "01/13/2026"
+  "imageFilename": "https://cdn.arctracker.io/items/v2/speaker_component.png",
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "assorted_seeds": 10
+      },
+      "limit": 5,
+      "refreshSeconds": 86400,
+      "requiredLevel": 12,
+      "trader": "Celeste"
+    }
+  ]
 }

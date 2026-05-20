@@ -10,16 +10,16 @@
     "hr": "Zvučni alarm",
     "it": "Generatore di rumore",
     "ja": "騒音発生装置",
-    "kr": "소음기",
+    "ko-KR": "소음기",
     "no": "Støymaker",
     "pl": "Generator hałasu",
     "pt": "Gerador de ruído",
     "pt-BR": "Barulhento",
     "ru": "Шумелка",
     "sr": "Zvučni alarm",
-    "tr": "Gürültü Yapıcı",
+    "tr": "Yaygaracı",
     "uk": "Шумовик",
-    "zh-CN": "噪音制造器",
+    "zh-CN": "发声器",
     "zh-TW": "噪音製造器"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Postavljivi senzor blizine koji aktivira alarm kada se otkriju neprijateljski Raidersi.",
     "it": "Un sensore di prossimità schierabile che suona un allarme quando vengono rilevati raiders nemici.",
     "ja": "敵のレイダーを検知すると警報を鳴らす設置型近接センサー。",
-    "kr": "적 레이더가 감지되면 경보를 울리는 설치형 근접 센서입니다.",
+    "ko-KR": "적 레이더가 감지되면 경보를 울리는 설치형 근접 센서입니다.",
     "no": "En utplasserbar nærhetssensor som utløser en alarm når fiendtlige raiders oppdages.",
     "pl": "Rozmieszczalny czujnik zbliżeniowy, który uruchamia alarm po wykryciu wrogich najeźdźców.",
     "pt": "Um sensor de proximidade implantável que dispara um alarme quando raiders inimigos são detectados.",
@@ -41,7 +41,7 @@
     "sr": "Postavljivi senzor blizine koji aktivira alarm kada se otkriju neprijateljski Rajderi.",
     "tr": "Düşman akıncılar tespit edildiğinde alarm çalan konuşlandırılabilir yakınlık sensörü.",
     "uk": "Встановлюваний датчик наближення, який подає сигнал тривоги при виявленніворожих рейдерів.",
-    "zh-CN": "可部署的接近传感器，侦测到敌方掠夺者时会发出警报。",
+    "zh-CN": "可部署的接近传感器，侦测到敌方奇袭者时会发出警报。",
     "zh-TW": "可部署的接近感應器，偵測到敵方掠奪者時會發出警報。"
   },
   "type": "Quick Use",
@@ -61,7 +61,7 @@
       "hr": "Trajanje",
       "it": "Durata",
       "ja": "持続時間",
-      "kr": "지속 시간",
+      "ko-KR": "지속 시간",
       "no": "Varighet",
       "pl": "Czas trwania",
       "pt": "Duração",
@@ -84,7 +84,7 @@
       "hr": "Radijus aktivacije",
       "it": "Raggio di attivazione",
       "ja": "作動範囲",
-      "kr": "작동 반경",
+      "ko-KR": "작동 반경",
       "no": "Utløserradius",
       "pl": "Zasięg wyzwalania",
       "pt": "Raio de ativação",
@@ -108,6 +108,17 @@
   "salvagesInto": {
     "speaker_component": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/noisemaker.png",
-  "updatedAt": "01/13/2026"
+  "imageFilename": "https://cdn.arctracker.io/items/v2/noisemaker.png",
+  "updatedAt": "01/13/2026",
+  "addedIn": "base",
+  "vendors": [
+    {
+      "cost": {
+        "coins": 1920
+      },
+      "limit": 6,
+      "refreshSeconds": 86400,
+      "trader": "Apollo"
+    }
+  ]
 }
