@@ -10,7 +10,7 @@
     "hr": "Oštećeni bacač vatrenih kugli",
     "it": "Bruciatore di palla di fuoco danneggiato",
     "ja": "傷んだファイアボールバーナー",
-    "kr": "손상된 파이어볼 버너",
+    "ko-KR": "손상된 파이어볼 버너",
     "no": "Skadet ildkulebrenner",
     "pl": "Uszkodzony palnik ognistej kuli",
     "pt": "Queimador de bola de fogo danificado",
@@ -19,7 +19,7 @@
     "sr": "Оштећени бацач ватрених лопти",
     "tr": "Hasarlı Ateş Topu Yakıcı",
     "uk": "Пошкоджений вогняний палач",
-    "zh-CN": "损坏的火球燃烧器",
+    "zh-CN": "损坏的火球燃烧炉",
     "zh-TW": "損壞的火球燃燒器"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "it": "Si può riciclare in materiali da creazione.",
     "ja": "クラフト素材にリサイクルできます。",
-    "kr": "제작 재료로 재활용할 수 있습니다.",
+    "ko-KR": "제작 재료로 재활용할 수 있습니다.",
     "no": "Kan resirkuleres til håndverksmaterialer.",
     "pl": "Można przetworzyć na materiały rzemieślnicze.",
     "pt": "Pode ser reciclado em materiais de fabricação.",
@@ -56,6 +56,7 @@
   "salvagesInto": {
     "metal_parts": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/damaged_fireball_burner.png",
-  "updatedAt": "01/13/2026"
+  "imageFilename": "https://cdn.arctracker.io/items/v2/damaged_fireball_burner.png",
+  "updatedAt": "01/13/2026",
+  "addedIn": "base"
 }

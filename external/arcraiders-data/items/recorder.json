@@ -9,17 +9,17 @@
     "he": "חלילית",
     "hr": "Blok flauta",
     "it": "Flauto dolce",
-    "ja": "演奏できるフルート",
-    "kr": "리코더",
+    "ja": "リコーダー",
+    "ko-KR": "리코더",
     "no": "Blokkfløyte",
     "pl": "Flet prosty",
     "pt": "Flauta doce",
     "pt-BR": "Flauta",
     "ru": "Флейта",
     "sr": "Blok flauta",
-    "tr": "Blok flüt",
+    "tr": "Çalınabilen Flüt",
     "uk": "Блокфлейта",
-    "zh-CN": "竖笛",
+    "zh-CN": "可演奏长笛",
     "zh-TW": "直笛"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Blok flauta koja se može svirati za privlačenje pažnje ARC-a i impresioniranje drugih Rejdera.",
     "it": "Un flauto dolce suonabile usato per attirare l'attenzione di ARC e impressionare altri Predoni.",
     "ja": "ARCの注意を引き、他のレイダーに感銘を与えるために使用できるリコーダー。",
-    "kr": "아크의 주의를 끌고 다른 레이더들에게 깊은 인상을 주기 위해 사용되는 연주 가능한 리코더.",
+    "ko-KR": "아크의 주의를 끌고 다른 레이더들에게 깊은 인상을 주기 위해 사용되는 연주 가능한 리코더.",
     "no": "En spillbar blokkfløyte brukt til å tiltrekke ARCs oppmerksomhet og imponere andre Raiders.",
     "pl": "Grywalny flet prosty używany do przyciągania uwagi ARC i imponowania innym Rajderom.",
     "pt": "Uma flauta doce tocável usada para atrair a atenção da ARC e impressionar outros Invasores.",
@@ -41,7 +41,7 @@
     "sr": "Blok flauta koja se može svirati da privuče pažnju ARC-a i impresionira druge Rejdere.",
     "tr": "ARC'nin dikkatini çekmek ve diğer Akıncıları etkilemek için kullanılan çalınabilir bir blok flüt.",
     "uk": "Блокфлейта, на якій можна грати, щоб привернути увагу ARC та справити враження на інших Рейдерів.",
-    "zh-CN": "一支可演奏的竖笛，用于吸引ARC的注意并给其他掠夺者留下深刻印象。",
+    "zh-CN": "一支可演奏的长笛，用来吸引ARC，或者打动其他奇袭者。",
     "zh-TW": "一支可演奏的直笛，用於吸引ARC的注意並給其他掠奪者留下深刻印象。"
   },
   "type": "Quick Use",
@@ -49,6 +49,7 @@
   "foundIn": "Residential",
   "value": 1000,
   "weightKg": 0.2,
+  "stackSize": 1,
   "effects": {
     "Durability": {
       "value": "100/100",
@@ -61,7 +62,7 @@
       "hr": "Izdržljivost",
       "it": "Tenuta",
       "ja": "耐久性",
-      "kr": "내구성",
+      "ko-KR": "내구성",
       "no": "Holdbarhet",
       "pl": "Wytrzymałość",
       "pt": "Durabilidade",
@@ -80,6 +81,29 @@
   "salvagesInto": {
     "plastic_parts": 4
   },
-  "imageFilename": "https://cdn.arctracker.io/items/recorder.png",
-  "updatedAt": "01/13/2026"
+  "imageFilename": "https://cdn.arctracker.io/items/v2/recorder.png",
+  "updatedAt": "03/22/2026",
+  "addedIn": "base",
+  "repairCost": {
+    "plastic_parts": 4
+  },
+  "repairDurability": 0.5,
+  "vendors": [
+    {
+      "cost": {
+        "coins": 3000
+      },
+      "limit": 6,
+      "refreshSeconds": 86400,
+      "trader": "Apollo"
+    },
+    {
+      "cost": {
+        "creds": 50
+      },
+      "limit": 3,
+      "refreshSeconds": 86400,
+      "trader": "Shani"
+    }
+  ]
 }

@@ -10,7 +10,7 @@
     "hr": "Mala dimna granata",
     "it": "Piccola granata fumogena",
     "ja": "リトルスモーク・グレネード",
-    "kr": "꼬마 연막 수류탄",
+    "ko-KR": "꼬마 연막 수류탄",
     "no": "Liten røykgranat",
     "pl": "Mały granat dymny",
     "pt": "Pequena granada de fumaça",
@@ -19,7 +19,7 @@
     "sr": "Mala dimna granata",
     "tr": "Küçük Sis Bombası",
     "uk": "Мала димова граната",
-    "zh-CN": "小型烟雾弹",
+    "zh-CN": "小型烟雾手雷",
     "zh-TW": "小型煙霧彈"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Granata koja stvara gust ali mali oblak dima pri udaru, blokirajući vidljivost od ARC-a i drugih Raidersa.",
     "it": "Una granata che crea una nuvola di fumo densa ma piccola all'impatto, bloccando la visibilità di ARC e altri Raiders.",
     "ja": "着弾時に濃密だが小さな煙幕を発生させ、ARCや他のレイダーからの視界を遮る手榴弾。",
-    "kr": "충돌 시 짙지만 작은 연막을 생성하여 아크와 다른 레이더의 시야를 차단하는 수류탄입니다.",
+    "ko-KR": "충돌 시 짙지만 작은 연막을 생성하여 아크와 다른 레이더의 시야를 차단하는 수류탄입니다.",
     "no": "En granat som lager en tykk, men liten røyksky ved treff, som blokkerer sikt fra ARC og andre Raiders.",
     "pl": "Granat, który tworzy gęstą, ale małą chmurę dymu przy uderzeniu, blokując widoczność dla ARC i innych Najeźdźców.",
     "pt": "Uma granada que cria uma nuvem de fumaça espessa mas pequena no impacto, bloqueando a visibilidade de ARC e outros Raiders.",
@@ -41,7 +41,7 @@
     "sr": "Granata koja stvara gust ali mali oblak dima pri udaru, blokirajući vidljivost od ARC-a i drugih Rajdera.",
     "tr": "Çarpma anında kalın ama küçük bir duman bulutu oluşturarak ARC ve diğer Akıncıların görüşünü engelleyen bomba.",
     "uk": "Граната, яка створює густу, але невелику хмару диму при ударі, блокуючи видимість для ARC та інших Рейдерів.",
-    "zh-CN": "着弹时产生浓密但范围较小的烟雾，阻挡ARC和其他掠夺者的视线。",
+    "zh-CN": "着弹时产生浓密但范围较小的烟雾，阻挡ARC和其他奇袭者的视线。",
     "zh-TW": "著彈時產生濃密但範圍較小的煙霧，阻擋ARC和其他掠奪者的視線。"
   },
   "type": "Quick Use",
@@ -61,7 +61,7 @@
       "hr": "Trajanje",
       "it": "Durata",
       "ja": "持続時間",
-      "kr": "지속 시간",
+      "ko-KR": "지속 시간",
       "no": "Varighet",
       "pl": "Czas trwania",
       "pt": "Duração",
@@ -84,7 +84,7 @@
       "hr": "Radijus",
       "it": "Raggio",
       "ja": "範囲",
-      "kr": "반경",
+      "ko-KR": "반경",
       "no": "Radius",
       "pl": "Zasięg",
       "pt": "Raio",
@@ -97,7 +97,8 @@
       "zh-TW": "範圍"
     }
   },
-  "craftBench": "utility_bench",
+  "craftBench": ["in_raid", "utility_bench"],
+  "stationLevelRequired": 1,
   "recipe": {
     "chemicals": 5,
     "plastic_parts": 1
@@ -109,6 +110,7 @@
   "salvagesInto": {
     "chemicals": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/lil_smoke_grenade.png",
-  "updatedAt": "01/13/2026"
+  "imageFilename": "https://cdn.arctracker.io/items/v2/lil_smoke_grenade.png",
+  "updatedAt": "02/24/2026",
+  "addedIn": "base"
 }
