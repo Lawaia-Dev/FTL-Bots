@@ -10,16 +10,16 @@
     "hr": "Istekli respirator",
     "it": "Respiratore scaduto",
     "ja": "期限切れのマスク",
-    "kr": "유통기한 지난 인공호흡기",
+    "ko-KR": "유통기한 지난 인공호흡기",
     "no": "Utløpt åndedrettsvern",
     "pl": "Przeterminowany respirator",
     "pt": "Respirador expirado",
     "pt-BR": "Respirador Vencido",
     "ru": "Просроченный респиратор",
     "sr": "Istekli respirator",
-    "tr": "Süresi Dolmuş Solunum Cihazı",
+    "tr": "Eski Gaz Maskesi",
     "uk": "Прострочений респіратор",
-    "zh-CN": "过期呼吸器",
+    "zh-CN": "过期的防毒面具",
     "zh-TW": "過期呼吸器"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Filteri su začepljeni pijeskom i otrovnim isparenjima. Davno je prošao svoj vijek trajanja.",
     "it": "I filtri sono intasati di sabbia e fumi nocivi. Molto oltre la sua durata.",
     "ja": "フィルターは砂と有毒ガスで詰まっている。寿命をとうに過ぎている。",
-    "kr": "필터가 모래와 유독 가스로 막혀 있습니다. 수명이 한참 지났습니다.",
+    "ko-KR": "필터가 모래와 유독 가스로 막혀 있습니다. 수명이 한참 지났습니다.",
     "no": "Filtrene er tette med sand og giftige gasser. Langt forbi levetiden.",
     "pl": "Filtry są zatkane piaskiem i trującymi oparami. Dawno po upływie żywotności.",
     "pt": "Os filtros estão entupidos com areia e fumaça nociva. Muito além de sua vida útil.",
@@ -41,7 +41,7 @@
     "sr": "Filteri su začepljeni peskom i otrovnim isparenjima. Davno je prošao svoj vek trajanja.",
     "tr": "Filtreler kum ve zararlı dumanlarla tıkanmış. Ömrünü çoktan doldurmuş.",
     "uk": "Фільтри забиті піском та отруйними випарами. Давно відслужив свій термін.",
-    "zh-CN": "过滤器被沙子和有毒烟雾堵塞。早已超过使用寿命。",
+    "zh-CN": "过滤器里塞满了沙子和有毒气体，很早以前就失效了。",
     "zh-TW": "過濾器被沙子和有毒煙霧堵塞。早已超過使用壽命。"
   },
   "type": "Recyclable",
@@ -57,6 +57,7 @@
   "salvagesInto": {
     "rubber_parts": 5
   },
-  "imageFilename": "https://cdn.arctracker.io/items/expired_respirator.png",
-  "updatedAt": "11/03/2025"
+  "imageFilename": "https://cdn.arctracker.io/items/v2/expired_respirator.png",
+  "updatedAt": "11/03/2025",
+  "addedIn": "base"
 }
