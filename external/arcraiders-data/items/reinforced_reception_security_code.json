@@ -10,7 +10,7 @@
     "hr": "Sigurnosni kod Reinforced Receptiona",
     "it": "Codice di sicurezza di Reinforced Reception",
     "ja": "リインフォースド・レセプション・セキュリティコード",
-    "kr": "강화된 리셉션 보안 코드",
+    "ko-KR": "강화된 리셉션 보안 코드",
     "no": "Reinforced Reception sikkerhetskode",
     "pl": "Kod bezpieczeństwa Reinforced Reception",
     "pt": "Código de Segurança de Reinforced Reception",
@@ -19,7 +19,7 @@
     "sr": "Bezbednosni kod Reinforced Receptiona",
     "tr": "Reinforced Reception Güvenlik Kodu",
     "uk": "Код безпеки Укріпленої Рецепції",
-    "zh-CN": "加固接待处安全密码",
+    "zh-CN": "加固前台安全密码",
     "zh-TW": "加固接待處安全密碼"
   },
   "description": {
@@ -32,7 +32,7 @@
     "hr": "Jedan od četiri sigurnosna koda potrebna za otključavanje zaključanih vrata na Blue Gateu. Pronađen na Reinforced Receptionu.",
     "it": "Uno dei quattro codici di sicurezza necessari per sbloccare il cancello chiuso a Blue Gate. Trovato a Reinforced Reception.",
     "ja": "ブルーゲートのロックされたゲートを解除するために必要な4つのセキュリティコードの1つ。リインフォースド・レセプションで発見。",
-    "kr": "블루 게이트의 잠긴 문을 열기 위해 필요한 4개의 보안 코드 중 하나. 강화된 리셉션에서 발견.",
+    "ko-KR": "블루 게이트의 잠긴 문을 열기 위해 필요한 4개의 보안 코드 중 하나. 강화된 리셉션에서 발견.",
     "no": "En av fire sikkerhetskoder som trengs for å låse opp den låste porten på Blue Gate. Funnet ved Reinforced Reception.",
     "pl": "Jeden z czterech kodów bezpieczeństwa potrzebnych do odblokowania zamkniętej bramy na Blue Gate. Znaleziony na Reinforced Reception.",
     "pt": "Um dos quatro códigos de segurança necessários para desbloquear o portão trancado em Blue Gate. Encontrado em Reinforced Reception.",
@@ -41,7 +41,7 @@
     "sr": "Jedan od četiri bezbednosna koda potrebna za otključavanje zaključanih vrata na Blue Gateu. Pronađen na Reinforced Receptionu.",
     "tr": "Blue Gate'teki Kilitli Kapıyı açmak için gereken dört güvenlik kodundan biri. Reinforced Reception'da bulunur.",
     "uk": "Один із чотирьох кодів безпеки, необхідних для відкриття замкнених воріт на Блю Гейт. Знайдено в Укріпленій Рецепції.",
-    "zh-CN": "解锁蓝门上锁大门所需的四个安全密码之一。在加固接待处找到。",
+    "zh-CN": "解锁蓝门上锁大门所需的四个安全密码之一。在加固前台找到。",
     "zh-TW": "解鎖藍門上鎖大門所需的四個安全密碼之一。在加固接待處找到。"
   },
   "type": "Key",
@@ -49,6 +49,7 @@
   "value": 100,
   "weightKg": 0.25,
   "stackSize": 1,
-  "imageFilename": "https://cdn.arctracker.io/items/security_code.png",
-  "updatedAt": "02/06/2026"
+  "imageFilename": "https://cdn.arctracker.io/items/v2/reinforced_reception_security_code.png",
+  "updatedAt": "02/06/2026",
+  "addedIn": "base"
 }
